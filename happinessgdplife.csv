@@ -1,0 +1,746 @@
+country,region,rank,score,happiness_level,gdp,year,code,year,life_expectency
+Australia,Australia and New Zealand,11.0,7.228,6,1.372,2019,AUS,2019,83.436
+Australia,Australia and New Zealand,10.0,7.272,6,1.34,2018,AUS,2018,83.281
+Australia,Australia and New Zealand,10.0,7.28399991989136,6,1.484414935112,2017,AUS,2017,83.122
+Australia,Australia and New Zealand,10.0,7.284,6,1.33358,2015,AUS,2015,82.794
+Australia,Australia and New Zealand,9.0,7.313,6,1.44443,2016,AUS,2016,82.959
+New Zealand,Australia and New Zealand,9.0,7.286,6,1.25018,2015,NZL,2015,81.713
+New Zealand,Australia and New Zealand,8.0,7.307,6,1.303,2019,NZL,2019,82.288
+New Zealand,Australia and New Zealand,8.0,7.31400012969971,6,1.40570604801178,2017,NZL,2017,82.002
+New Zealand,Australia and New Zealand,8.0,7.324,6,1.268,2018,NZL,2018,82.145
+New Zealand,Australia and New Zealand,8.0,7.334,6,1.36066,2016,NZL,2016,81.859
+Albania,Central and Eastern Europe,112.0,4.586,3,0.916,2018,ALB,2018,78.458
+Albania,Central and Eastern Europe,109.0,4.64400005340576,3,0.996192753314972,2017,ALB,2017,78.333
+Albania,Central and Eastern Europe,109.0,4.655,3,0.9553,2016,ALB,2016,78.194
+Albania,Central and Eastern Europe,107.0,4.719,3,0.947,2019,ALB,2019,78.573
+Albania,Central and Eastern Europe,95.0,4.959,3,0.87867,2015,ALB,2015,78.025
+Armenia,Central and Eastern Europe,129.0,4.321,3,0.816,2018,ARG,2018,76.52
+Armenia,Central and Eastern Europe,127.0,4.35,3,0.76821,2015,ARG,2015,76.068
+Armenia,Central and Eastern Europe,121.0,4.36,3,0.86086,2016,ARG,2016,76.221
+Armenia,Central and Eastern Europe,121.0,4.37599992752075,3,0.900596737861633,2017,ARG,2017,76.372
+Armenia,Central and Eastern Europe,116.0,4.559,3,0.85,2019,ARG,2019,76.667
+Azerbaijan,Central and Eastern Europe,87.0,5.201,4,1.024,2018,AZE,2018,72.864
+Azerbaijan,Central and Eastern Europe,90.0,5.208,4,1.043,2019,AZE,2019,73.005
+Azerbaijan,Central and Eastern Europe,80.0,5.212,4,1.02389,2015,AZE,2015,72.266
+Azerbaijan,Central and Eastern Europe,85.0,5.234000205993650,4,1.15360176563263,2017,AZE,2017,72.693
+Azerbaijan,Central and Eastern Europe,81.0,5.291,4,1.12373,2016,AZE,2016,72.493
+Belarus,Central and Eastern Europe,81.0,5.323,4,1.067,2019,BHR,2019,77.292
+Belarus,Central and Eastern Europe,73.0,5.483,4,1.039,2018,BHR,2018,77.163
+Belarus,Central and Eastern Europe,67.0,5.56899976730347,4,1.15655755996704,2017,BHR,2017,77.032
+Belarus,Central and Eastern Europe,61.0,5.802,4,1.13062,2016,BHR,2016,76.899
+Belarus,Central and Eastern Europe,59.0,5.813,4,1.03192,2015,BHR,2015,76.762
+Bosnia and Herzegovina,Central and Eastern Europe,96.0,4.949,3,0.83223,2015,BIH,2015,76.865
+Bosnia and Herzegovina,Central and Eastern Europe,93.0,5.129,4,0.915,2018,BIH,2018,77.262
+Bosnia and Herzegovina,Central and Eastern Europe,87.0,5.163,4,0.93383,2016,BIH,2016,76.998
+Bosnia and Herzegovina,Central and Eastern Europe,90.0,5.18200016021729,4,0.982409417629242,2017,BIH,2017,77.128
+Bosnia and Herzegovina,Central and Eastern Europe,78.0,5.386,4,0.945,2019,BIH,2019,77.401
+Bulgaria,Central and Eastern Europe,129.0,4.217,3,1.11306,2016,BGR,2016,74.703
+Bulgaria,Central and Eastern Europe,134.0,4.218,3,1.01216,2015,BGR,2015,74.584
+Bulgaria,Central and Eastern Europe,105.0,4.71400022506714,3,1.1614590883255,2017,BGR,2017,74.815
+Bulgaria,Central and Eastern Europe,100.0,4.933,3,1.054,2018,BGR,2018,74.928
+Bulgaria,Central and Eastern Europe,97.0,5.011,4,1.092,2019,BGR,2019,75.046
+Croatia,Central and Eastern Europe,77.0,5.29300022125244,4,1.22255623340607,2017,CRI,2017,79.914
+Croatia,Central and Eastern Europe,82.0,5.321,4,1.115,2018,CRI,2018,80.095
+Croatia,Central and Eastern Europe,75.0,5.432,4,1.155,2019,CRI,2019,80.279
+Croatia,Central and Eastern Europe,74.0,5.488,4,1.18649,2016,CRI,2016,79.738
+Croatia,Central and Eastern Europe,62.0,5.759,4,1.08254,2015,CRI,2015,79.565
+Czech Republic,Central and Eastern Europe,31.0,6.505,5,1.17898,2015,CZE,2015,78.692
+Czech Republic,Central and Eastern Europe,27.0,6.596,5,1.30915,2016,CZE,2016,78.881
+Czech Republic,Central and Eastern Europe,23.0,6.60900020599365,5,1.35268235206604,2017,CZE,2017,79.058
+Czech Republic,Central and Eastern Europe,21.0,6.711,5,1.233,2018,CZE,2018,79.222
+Czech Republic,Central and Eastern Europe,20.0,6.852,5,1.269,2019,CZE,2019,79.376
+Estonia,Central and Eastern Europe,73.0,5.429,4,1.15174,2015,ECU,2015,76.143
+Estonia,Central and Eastern Europe,72.0,5.517,4,1.27964,2016,ECU,2016,76.365
+Estonia,Central and Eastern Europe,66.0,5.61100006103516,4,1.32087934017181,2017,ECU,2017,76.584
+Estonia,Central and Eastern Europe,63.0,5.739,4,1.2,2018,ECU,2018,76.8
+Estonia,Central and Eastern Europe,55.0,5.893,4,1.237,2019,ECU,2019,77.01
+Georgia,Central and Eastern Europe,126.0,4.252,3,0.83792,2016,GEO,2016,73.207
+Georgia,Central and Eastern Europe,125.0,4.28599977493286,3,0.950612664222717,2017,GEO,2017,73.414
+Georgia,Central and Eastern Europe,130.0,4.297,3,0.7419,2015,GEO,2015,72.973
+Georgia,Central and Eastern Europe,128.0,4.34,3,0.853,2018,GEO,2018,73.6
+Georgia,Central and Eastern Europe,119.0,4.519,3,0.886,2019,GEO,2019,73.767
+Hungary,Central and Eastern Europe,104.0,4.8,3,1.12094,2015,HUN,2015,76.006
+Hungary,Central and Eastern Europe,91.0,5.145,4,1.24142,2016,HUN,2016,76.266
+Hungary,Central and Eastern Europe,75.0,5.32399988174438,4,1.2860119342804,2017,HUN,2017,76.498
+Hungary,Central and Eastern Europe,69.0,5.62,4,1.171,2018,HUN,2018,76.701
+Hungary,Central and Eastern Europe,62.0,5.758,4,1.201,2019,HUN,2019,76.875
+Kazakhstan,Central and Eastern Europe,60.0,5.79,4,1.143,2018,KAZ,2018,73.236
+Kazakhstan,Central and Eastern Europe,60.0,5.809,4,1.173,2019,KAZ,2019,73.597
+Kazakhstan,Central and Eastern Europe,60.0,5.81899976730347,4,1.28455626964569,2017,KAZ,2017,72.728
+Kazakhstan,Central and Eastern Europe,54.0,5.855,4,1.12254,2015,KAZ,2015,71.319
+Kazakhstan,Central and Eastern Europe,54.0,5.919,4,1.22943,2016,KAZ,2016,72.081
+Kosovo,Central and Eastern Europe,78.0,5.27899980545044,4,0.951484382152557,2017,,,
+Kosovo,Central and Eastern Europe,77.0,5.401,4,0.90145,2016,,,
+Kosovo,Central and Eastern Europe,69.0,5.589,4,0.80148,2015,,,
+Kosovo,Central and Eastern Europe,66.0,5.662,4,0.855,2018,,,
+Kosovo,Central and Eastern Europe,46.0,6.1,5,0.882,2019,,,
+Kyrgyzstan,Central and Eastern Europe,98.0,5.00400018692017,4,0.596220076084137,2017,KGZ,2017,71.193
+Kyrgyzstan,Central and Eastern Europe,92.0,5.131,4,0.53,2018,KGZ,2018,71.321
+Kyrgyzstan,Central and Eastern Europe,85.0,5.185,4,0.56044,2016,KGZ,2016,71.054
+Kyrgyzstan,Central and Eastern Europe,86.0,5.261,4,0.551,2019,KGZ,2019,71.45
+Kyrgyzstan,Central and Eastern Europe,77.0,5.286,4,0.47428,2015,KGZ,2015,70.876
+Latvia,Central and Eastern Europe,89.0,5.098,4,1.11312,2015,LVA,2015,74.733
+Latvia,Central and Eastern Europe,68.0,5.56,4,1.21788,2016,LVA,2016,74.91
+Latvia,Central and Eastern Europe,54.0,5.849999904632570,4,1.26074862480164,2017,LVA,2017,75.048
+Latvia,Central and Eastern Europe,53.0,5.933,4,1.148,2018,LVA,2018,75.172
+Latvia,Central and Eastern Europe,53.0,5.94,4,1.187,2019,LVA,2019,75.292
+Lithuania,Central and Eastern Europe,60.0,5.813,4,1.2692,2016,LTU,2016,75.238
+Lithuania,Central and Eastern Europe,56.0,5.833,4,1.14723,2015,LTU,2015,74.923
+Lithuania,Central and Eastern Europe,52.0,5.90199995040894,4,1.31458234786987,2017,LTU,2017,75.507
+Lithuania,Central and Eastern Europe,50.0,5.952,4,1.197,2018,LTU,2018,75.737
+Lithuania,Central and Eastern Europe,42.0,6.149,5,1.238,2019,LTU,2019,75.933
+Macedonia,Central and Eastern Europe,93.0,5.007,4,0.91851,2015,MKD,2015,75.406
+Macedonia,Central and Eastern Europe,95.0,5.121,4,1.0193,2016,MKD,2016,75.498
+Macedonia,Central and Eastern Europe,92.0,5.175000190734860,4,1.06457793712616,2017,MKD,2017,75.589
+Macedonia,Central and Eastern Europe,89.0,5.185,4,0.959,2018,MKD,2018,75.688
+Macedonia,Central and Eastern Europe,89.0,5.185,4,0.959,2019,MKD,2019,75.797
+Moldova,Central and Eastern Europe,71.0,5.529,4,0.685,2019,MEX,2019,75.054
+Moldova,Central and Eastern Europe,67.0,5.64,4,0.657,2018,MEX,2018,74.992
+Moldova,Central and Eastern Europe,56.0,5.837999820709230,4,0.728870630264282,2017,MEX,2017,74.947
+Moldova,Central and Eastern Europe,52.0,5.889,4,0.59448,2015,MEX,2015,74.904
+Moldova,Central and Eastern Europe,55.0,5.897,4,0.69177,2016,MEX,2016,74.917
+Montenegro,Central and Eastern Europe,88.0,5.161,4,1.07838,2016,MNE,2016,76.568
+Montenegro,Central and Eastern Europe,82.0,5.192,4,0.97438,2015,MNE,2015,76.452
+Montenegro,Central and Eastern Europe,83.0,5.23699998855591,4,1.12112903594971,2017,MNE,2017,76.667
+Montenegro,Central and Eastern Europe,81.0,5.347,4,1.017,2018,MNE,2018,76.77
+Montenegro,Central and Eastern Europe,73.0,5.523,4,1.051,2019,MNE,2019,76.884
+Poland,Central and Eastern Europe,60.0,5.791,4,1.12555,2015,POL,2015,77.859
+Poland,Central and Eastern Europe,57.0,5.835,4,1.24585,2016,POL,2016,78.11
+Poland,Central and Eastern Europe,46.0,5.97300004959106,4,1.29178786277771,2017,POL,2017,78.338
+Poland,Central and Eastern Europe,42.0,6.123,5,1.176,2018,POL,2018,78.544
+Poland,Central and Eastern Europe,40.0,6.182,5,1.206,2019,POL,2019,78.73
+Romania,Central and Eastern Europe,86.0,5.124,4,1.04345,2015,ROU,2015,75.476
+Romania,Central and Eastern Europe,71.0,5.528,4,1.1697,2016,ROU,2016,75.644
+Romania,Central and Eastern Europe,57.0,5.824999809265140,4,1.21768391132355,2017,ROU,2017,75.79
+Romania,Central and Eastern Europe,52.0,5.945,4,1.116,2018,ROU,2018,75.924
+Romania,Central and Eastern Europe,48.0,6.07,5,1.162,2019,ROU,2019,76.054
+Russia,Central and Eastern Europe,68.0,5.648,4,1.183,2019,RUS,2019,72.584
+Russia,Central and Eastern Europe,64.0,5.716,4,1.13764,2015,RUS,2015,71.464
+Russia,Central and Eastern Europe,59.0,5.81,4,1.151,2018,RUS,2018,72.386
+Russia,Central and Eastern Europe,56.0,5.856,4,1.23228,2016,RUS,2016,71.835
+Russia,Central and Eastern Europe,49.0,5.962999820709230,4,1.28177809715271,2017,RUS,2017,72.139
+Serbia,Central and Eastern Europe,87.0,5.123,4,0.92053,2015,SRB,2015,75.309
+Serbia,Central and Eastern Europe,86.0,5.177,4,1.03437,2016,SRB,2016,75.505
+Serbia,Central and Eastern Europe,73.0,5.39499998092651,4,1.06931757926941,2017,SRB,2017,75.684
+Serbia,Central and Eastern Europe,78.0,5.398,4,0.975,2018,SRB,2018,75.849
+Serbia,Central and Eastern Europe,70.0,5.603,4,1.004,2019,SRB,2019,76.001
+Slovakia,Central and Eastern Europe,45.0,5.995,4,1.16891,2015,SVK,2015,76.827
+Slovakia,Central and Eastern Europe,45.0,6.078,5,1.27973,2016,SVK,2016,77.034
+Slovakia,Central and Eastern Europe,40.0,6.09800004959106,5,1.32539355754852,2017,SVK,2017,77.219
+Slovakia,Central and Eastern Europe,39.0,6.173,5,1.21,2018,SVK,2018,77.388
+Slovakia,Central and Eastern Europe,38.0,6.198,5,1.246,2019,SVK,2019,77.542
+Slovenia,Central and Eastern Europe,62.0,5.75799989700317,4,1.3412059545517,2017,SVN,2017,81.016
+Slovenia,Central and Eastern Europe,63.0,5.768,4,1.29947,2016,SVN,2016,80.852
+Slovenia,Central and Eastern Europe,55.0,5.848,4,1.18498,2015,SVN,2015,80.673
+Slovenia,Central and Eastern Europe,51.0,5.948,4,1.219,2018,SVN,2018,81.172
+Slovenia,Central and Eastern Europe,44.0,6.118,5,1.258,2019,SVN,2019,81.324
+Tajikistan,Central and Eastern Europe,106.0,4.786,3,0.39047,2015,TJK,2015,70.137
+Tajikistan,Central and Eastern Europe,100.0,4.996,3,0.48835,2016,TJK,2016,70.397
+Tajikistan,Central and Eastern Europe,96.0,5.04099988937378,4,0.524713635444641,2017,TJK,2017,70.647
+Tajikistan,Central and Eastern Europe,88.0,5.199,4,0.474,2018,TJK,2018,70.879
+Tajikistan,Central and Eastern Europe,74.0,5.467,4,0.493,2019,TJK,2019,71.097
+Turkmenistan,Central and Eastern Europe,87.0,5.247,4,1.052,2019,TKM,2019,68.191
+Turkmenistan,Central and Eastern Europe,70.0,5.548,4,0.95847,2015,TKM,2015,67.704
+Turkmenistan,Central and Eastern Europe,68.0,5.636,4,1.016,2018,TKM,2018,68.073
+Turkmenistan,Central and Eastern Europe,65.0,5.658,4,1.08017,2016,TKM,2016,67.835
+Turkmenistan,Central and Eastern Europe,59.0,5.82200002670288,4,1.13077676296234,2017,TKM,2017,67.956
+Ukraine,Central and Eastern Europe,132.0,4.09600019454956,3,0.89465194940567,2017,UKR,2017,71.84
+Ukraine,Central and Eastern Europe,138.0,4.103,3,0.793,2018,UKR,2018,71.953
+Ukraine,Central and Eastern Europe,123.0,4.324,3,0.87287,2016,UKR,2016,71.711
+Ukraine,Central and Eastern Europe,133.0,4.332,3,0.82,2019,UKR,2019,72.065
+Ukraine,Central and Eastern Europe,111.0,4.681,3,0.79907,2015,UKR,2015,71.535
+Uzbekistan,Central and Eastern Europe,47.0,5.97100019454956,4,0.786441087722778,2017,UZB,2017,71.388
+Uzbekistan,Central and Eastern Europe,49.0,5.987,4,0.73591,2016,UZB,2016,71.171
+Uzbekistan,Central and Eastern Europe,44.0,6.003,5,0.63244,2015,UZB,2015,70.928
+Uzbekistan,Central and Eastern Europe,44.0,6.096,5,0.719,2018,UZB,2018,71.573
+Uzbekistan,Central and Eastern Europe,41.0,6.174,5,0.745,2019,UZB,2019,71.725
+China,Eastern Asia,84.0,5.14,4,0.89012,2015,CHN,2015,75.928
+China,Eastern Asia,93.0,5.191,4,1.029,2019,CHN,2019,76.912
+China,Eastern Asia,83.0,5.245,4,1.0278,2016,CHN,2016,76.21
+China,Eastern Asia,86.0,5.246,4,0.989,2018,CHN,2018,76.704
+China,Eastern Asia,79.0,5.2729997634887700,4,1.08116579055786,2017,CHN,2017,76.47
+Hong Kong,Eastern Asia,76.0,5.43,4,1.405,2018,HKG,2018,84.687
+Hong Kong,Eastern Asia,76.0,5.43,4,1.438,2019,HKG,2019,84.857
+Hong Kong,Eastern Asia,75.0,5.458,4,1.5107,2016,HKG,2016,84.277
+Hong Kong,Eastern Asia,75.0,5.458,4,1.5107,2017,HKG,2017,84.493
+Hong Kong,Eastern Asia,72.0,5.474,4,1.38604,2015,HKG,2015,84.043
+Japan,Eastern Asia,58.0,5.886,4,1.327,2019,JPN,2019,84.629
+Japan,Eastern Asia,54.0,5.915,4,1.294,2018,JPN,2018,84.47
+Japan,Eastern Asia,51.0,5.92000007629395,4,1.41691517829895,2017,JPN,2017,84.29
+Japan,Eastern Asia,53.0,5.921,4,1.38007,2016,JPN,2016,84.09
+Japan,Eastern Asia,46.0,5.987,4,1.27074,2015,JPN,2015,83.879
+Mongolia,Eastern Asia,100.0,4.874,3,0.82819,2015,MNG,2015,69.111
+Mongolia,Eastern Asia,101.0,4.907,3,0.98853,2016,MNG,2016,69.321
+Mongolia,Eastern Asia,100.0,4.95499992370605,3,1.02723586559296,2017,MNG,2017,69.509
+Mongolia,Eastern Asia,94.0,5.125,4,0.914,2018,MNG,2018,69.689
+Mongolia,Eastern Asia,83.0,5.285,4,0.948,2019,MNG,2019,69.87
+South Korea,Eastern Asia,57.0,5.835,4,1.35948,2016,KOR,2016,82.379
+South Korea,Eastern Asia,55.0,5.837999820709230,4,1.40167844295502,2017,KOR,2017,82.628
+South Korea,Eastern Asia,57.0,5.875,4,1.266,2018,KOR,2018,82.846
+South Korea,Eastern Asia,54.0,5.895,4,1.301,2019,KOR,2019,83.033
+South Korea,Eastern Asia,47.0,5.984,4,1.24461,2015,KOR,2015,82.1
+Taiwan(China),Eastern Asia,38.0,6.298,5,1.29098,2015,TWN,2015,79.743
+Taiwan(China),Eastern Asia,33.0,6.42199993133545,5,1.43362653255463,2016,TWN,2016,79.927
+Taiwan(China),Eastern Asia,28.0,6.422000000000000,5,1.3767633,2017,TWN,2017,80.107
+Taiwan(China),Eastern Asia,26.0,6.441,5,1.365,2018,TWN,2018,80.283
+Taiwan(China),Eastern Asia,25.0,6.446,5,1.368,2019,TWN,2019,80.456
+Argentina,Latin America and Caribbean,47.0,6.086,5,1.092,2019,ARG,2019,76.667
+Argentina,Latin America and Caribbean,29.0,6.388,5,1.073,2018,ARG,2018,76.52
+Argentina,Latin America and Caribbean,30.0,6.574,5,1.05351,2015,ARG,2015,76.068
+Argentina,Latin America and Caribbean,24.0,6.59899997711182,5,1.18529546260834,2017,ARG,2017,76.372
+Argentina,Latin America and Caribbean,26.0,6.65,5,1.15137,2016,ARG,2016,76.221
+Bolivia,Latin America and Caribbean,62.0,5.752,4,0.751,2018,BOL,2018,71.239
+Bolivia,Latin America and Caribbean,61.0,5.779,4,0.776,2019,BOL,2019,71.513
+Bolivia,Latin America and Caribbean,59.0,5.822,4,0.79422,2016,BOL,2016,70.626
+Bolivia,Latin America and Caribbean,58.0,5.82299995422363,4,0.833756566047668,2017,BOL,2017,70.945
+Bolivia,Latin America and Caribbean,51.0,5.89,4,0.68133,2015,BOL,2015,70.277
+Brazil,Latin America and Caribbean,32.0,6.3,5,1.004,2019,BRA,2019,75.881
+Brazil,Latin America and Caribbean,28.0,6.419,5,0.986,2018,BRA,2018,75.672
+Brazil,Latin America and Caribbean,22.0,6.63500022888184,5,1.10735321044922,2017,BRA,2017,75.456
+Brazil,Latin America and Caribbean,17.0,6.952,5,1.08754,2016,BRA,2016,75.23
+Brazil,Latin America and Caribbean,16.0,6.983,5,0.98124,2015,BRA,2015,74.994
+Chile,Latin America and Caribbean,26.0,6.444,5,1.159,2019,CHL,2019,80.181
+Chile,Latin America and Caribbean,25.0,6.476,5,1.131,2018,CHL,2018,80.042
+Chile,Latin America and Caribbean,20.0,6.65199995040894,5,1.25278460979462,2017,CHL,2017,79.909
+Chile,Latin America and Caribbean,27.0,6.67,5,1.10715,2015,CHL,2015,79.646
+Chile,Latin America and Caribbean,24.0,6.705,5,1.2167,2016,CHL,2016,79.779
+Colombia,Latin America and Caribbean,43.0,6.125,5,0.985,2019,COL,2019,77.287
+Colombia,Latin America and Caribbean,37.0,6.26,5,0.96,2018,COL,2018,77.109
+Colombia,Latin America and Caribbean,36.0,6.35699987411499,5,1.07062232494354,2017,COL,2017,76.925
+Colombia,Latin America and Caribbean,33.0,6.477,5,0.91861,2015,COL,2015,76.531
+Colombia,Latin America and Caribbean,31.0,6.481,5,1.03032,2016,COL,2016,76.732
+Costa Rica,Latin America and Caribbean,13.0,7.072,6,1.01,2018,CRI,2018,80.095
+Costa Rica,Latin America and Caribbean,12.0,7.0789999961853,6,1.10970628261566,2017,CRI,2017,79.914
+Costa Rica,Latin America and Caribbean,14.0,7.087,6,1.06879,2016,CRI,2016,79.738
+Costa Rica,Latin America and Caribbean,12.0,7.167,6,1.034,2019,CRI,2019,80.279
+Costa Rica,Latin America and Caribbean,12.0,7.226,6,0.95578,2015,CRI,2015,79.565
+Dominican Republic,Latin America and Caribbean,98.0,4.885,3,0.89537,2015,DOM,2015,73.241
+Dominican Republic,Latin America and Caribbean,89.0,5.155,4,1.02787,2016,DOM,2016,73.471
+Dominican Republic,Latin America and Caribbean,86.0,5.230000019073490,4,1.07937383651733,2017,DOM,2017,73.689
+Dominican Republic,Latin America and Caribbean,83.0,5.302,4,0.982,2018,DOM,2018,73.892
+Dominican Republic,Latin America and Caribbean,77.0,5.425,4,1.015,2019,DOM,2019,74.081
+Ecuador,Latin America and Caribbean,48.0,5.973,4,0.889,2018,ECU,2018,76.8
+Ecuador,Latin America and Caribbean,48.0,5.975,4,0.86402,2015,ECU,2015,76.143
+Ecuador,Latin America and Caribbean,51.0,5.976,4,0.97306,2016,ECU,2016,76.365
+Ecuador,Latin America and Caribbean,44.0,6.00799989700317,5,1.00082039833069,2017,ECU,2017,76.584
+Ecuador,Latin America and Caribbean,50.0,6.028,5,0.912,2019,ECU,2019,77.01
+El Salvador,Latin America and Caribbean,45.0,6.002999782562260,5,0.909784495830536,2017,DOM,2017,73.689
+El Salvador,Latin America and Caribbean,46.0,6.068,5,0.8737,2016,DOM,2016,73.471
+El Salvador,Latin America and Caribbean,42.0,6.13,5,0.76454,2015,DOM,2015,73.241
+El Salvador,Latin America and Caribbean,40.0,6.167,5,0.806,2018,DOM,2018,73.892
+El Salvador,Latin America and Caribbean,35.0,6.253,5,0.794,2019,DOM,2019,74.081
+Guatemala,Latin America and Caribbean,43.0,6.123,5,0.74553,2015,GTM,2015,73.25
+Guatemala,Latin America and Caribbean,39.0,6.324,5,0.83454,2016,GTM,2016,73.541
+Guatemala,Latin America and Caribbean,30.0,6.382,5,0.781,2018,GTM,2018,74.063
+Guatemala,Latin America and Caribbean,27.0,6.436,5,0.8,2019,GTM,2019,74.302
+Guatemala,Latin America and Caribbean,29.0,6.4539999961853,5,0.872001945972443,2017,GTM,2017,73.81
+Haiti,Latin America and Caribbean,148.0,3.582,2,0.315,2018,HTI,2018,63.66
+Haiti,Latin America and Caribbean,147.0,3.597,2,0.323,2019,HTI,2019,64.001
+Haiti,Latin America and Caribbean,145.0,3.6029999256134,2,0.368610262870789,2017,HTI,2017,63.29
+Haiti,Latin America and Caribbean,136.0,4.028,3,0.34097,2016,HTI,2016,62.896
+Haiti,Latin America and Caribbean,119.0,4.518,3,0.26673,2015,HTI,2015,62.485
+Honduras,Latin America and Caribbean,105.0,4.788,3,0.59532,2015,HND,2015,74.495
+Honduras,Latin America and Caribbean,104.0,4.871,3,0.69429,2016,HND,2016,74.701
+Honduras,Latin America and Caribbean,91.0,5.18100023269653,4,0.730573117733002,2017,HND,2017,74.898
+Honduras,Latin America and Caribbean,72.0,5.504,4,0.62,2018,HND,2018,75.088
+Honduras,Latin America and Caribbean,59.0,5.86,4,0.642,2019,HND,2019,75.27
+Jamaica,Latin America and Caribbean,76.0,5.31099987030029,4,0.925579309463501,2017,JAM,2017,74.267
+Jamaica,Latin America and Caribbean,73.0,5.51,4,0.89333,2016,JAM,2016,74.175
+Jamaica,Latin America and Caribbean,65.0,5.709,4,0.81038,2015,JAM,2015,74.098
+Jamaica,Latin America and Caribbean,56.0,5.89,4,0.819,2018,JAM,2018,74.368
+Jamaica,Latin America and Caribbean,56.0,5.89,4,0.831,2019,JAM,2019,74.475
+Mexico,Latin America and Caribbean,24.0,6.488,5,1.038,2018,MEX,2018,74.992
+Mexico,Latin America and Caribbean,25.0,6.57800006866455,5,1.15318381786346,2017,MEX,2017,74.947
+Mexico,Latin America and Caribbean,23.0,6.595,5,1.07,2019,MEX,2019,75.054
+Mexico,Latin America and Caribbean,21.0,6.778,5,1.11508,2016,MEX,2016,74.917
+Mexico,Latin America and Caribbean,14.0,7.187,6,1.02054,2015,MEX,2015,74.904
+Nicaragua,Latin America and Caribbean,57.0,5.828,4,0.59325,2015,NIC,2015,73.649
+Nicaragua,Latin America and Caribbean,48.0,5.992,4,0.69384,2016,NIC,2016,73.86
+Nicaragua,Latin America and Caribbean,43.0,6.07100009918213,5,0.737299203872681,2017,NIC,2017,74.068
+Nicaragua,Latin America and Caribbean,45.0,6.105,5,0.694,2019,NIC,2019,74.485
+Nicaragua,Latin America and Caribbean,41.0,6.141,5,0.668,2018,NIC,2018,74.275
+Panama,Latin America and Caribbean,31.0,6.321,5,1.149,2019,PAN,2019,78.506
+Panama,Latin America and Caribbean,27.0,6.43,5,1.112,2018,PAN,2018,78.329
+Panama,Latin America and Caribbean,30.0,6.4520001411438,5,1.23374843597412,2017,PAN,2017,78.149
+Panama,Latin America and Caribbean,25.0,6.701,5,1.18306,2016,PAN,2016,77.964
+Panama,Latin America and Caribbean,25.0,6.786,5,1.06353,2015,PAN,2015,77.776
+Paraguay,Latin America and Caribbean,70.0,5.493000030517580,4,0.932537317276001,2017,PRY,2017,73.992
+Paraguay,Latin America and Caribbean,70.0,5.538,4,0.89373,2016,PRY,2016,73.836
+Paraguay,Latin America and Caribbean,64.0,5.681,4,0.835,2018,PRY,2018,74.131
+Paraguay,Latin America and Caribbean,63.0,5.743,4,0.855,2019,PRY,2019,74.254
+Paraguay,Latin America and Caribbean,53.0,5.878,4,0.75985,2015,PRY,2015,73.662
+Peru,Latin America and Caribbean,65.0,5.663,4,0.934,2018,PER,2018,76.516
+Peru,Latin America and Caribbean,65.0,5.697,4,0.96,2019,PER,2019,76.736
+Peru,Latin America and Caribbean,63.0,5.71500015258789,4,1.03522527217865,2017,PER,2017,76.286
+Peru,Latin America and Caribbean,64.0,5.743,4,0.99602,2016,PER,2016,76.044
+Peru,Latin America and Caribbean,58.0,5.824,4,0.90019,2015,PER,2015,75.792
+Uruguay,Latin America and Caribbean,33.0,6.293,5,1.124,2019,URY,2019,77.911
+Uruguay,Latin America and Caribbean,31.0,6.379,5,1.093,2018,URY,2018,77.77
+Uruguay,Latin America and Caribbean,28.0,6.4539999961853,5,1.21755969524384,2017,URY,2017,77.632
+Uruguay,Latin America and Caribbean,32.0,6.485,5,1.06166,2015,URY,2015,77.369
+Uruguay,Latin America and Caribbean,29.0,6.545,5,1.18157,2016,URY,2016,77.498
+Venezuela,Latin America and Caribbean,108.0,4.707,3,0.96,2019,VEN,2019,72.064
+Venezuela,Latin America and Caribbean,102.0,4.806,3,0.996,2018,VEN,2018,72.128
+Venezuela,Latin America and Caribbean,82.0,5.25,4,1.12843120098114,2017,VEN,2017,72.246
+Venezuela,Latin America and Caribbean,44.0,6.084,5,1.13367,2016,VEN,2016,72.405
+Venezuela,Latin America and Caribbean,23.0,6.81,5,1.04424,2015,VEN,2015,72.584
+Algeria,Middle East and Northern Africa,88.0,5.211,4,1.002,2019,DZA,2019,76.88
+Algeria,Middle East and Northern Africa,84.0,5.295,4,0.979,2018,DZA,2018,76.693
+Algeria,Middle East and Northern Africa,68.0,5.605,4,0.93929,2015,DZA,2015,76.09
+Algeria,Middle East and Northern Africa,53.0,5.872000217437740,4,1.09186446666718,2017,DZA,2017,76.499
+Algeria,Middle East and Northern Africa,38.0,6.355,5,1.05266,2016,DZA,2016,76.298
+Bahrain,Middle East and Northern Africa,49.0,5.96,4,1.32376,2015,BHR,2015,76.762
+Bahrain,Middle East and Northern Africa,41.0,6.08699989318848,5,1.48841226100922,2017,BHR,2017,77.032
+Bahrain,Middle East and Northern Africa,43.0,6.105,5,1.338,2018,BHR,2018,77.163
+Bahrain,Middle East and Northern Africa,37.0,6.199,5,1.362,2019,BHR,2019,77.292
+Bahrain,Middle East and Northern Africa,42.0,6.218,5,1.44024,2016,BHR,2016,76.899
+Egypt,Middle East and Northern Africa,137.0,4.166,3,0.913,2019,EGY,2019,71.99
+Egypt,Middle East and Northern Africa,135.0,4.194,3,0.8818,2015,EGY,2015,71.302
+Egypt,Middle East and Northern Africa,120.0,4.362,3,0.95395,2016,EGY,2016,71.482
+Egypt,Middle East and Northern Africa,122.0,4.419,3,0.885,2018,EGY,2018,71.825
+Egypt,Middle East and Northern Africa,104.0,4.7350001335144,3,0.989701807498932,2017,EGY,2017,71.656
+Iran,Middle East and Northern Africa,117.0,4.548,3,1.1,2019,IRN,2019,76.677
+Iran,Middle East and Northern Africa,110.0,4.686,3,1.0088,2015,IRN,2015,75.796
+Iran,Middle East and Northern Africa,108.0,4.69199991226196,3,1.15687310695648,2017,IRN,2017,76.271
+Iran,Middle East and Northern Africa,106.0,4.707,3,1.059,2018,IRN,2018,76.479
+Iran,Middle East and Northern Africa,105.0,4.813,3,1.11758,2016,IRN,2016,76.047
+Iraq,Middle East and Northern Africa,126.0,4.437,3,1.043,2019,IRQ,2019,70.604
+Iraq,Middle East and Northern Africa,117.0,4.456,3,1.01,2018,IRQ,2018,70.454
+Iraq,Middle East and Northern Africa,117.0,4.49700021743774,3,1.10271048545837,2017,IRQ,2017,70.294
+Iraq,Middle East and Northern Africa,112.0,4.575,3,1.07474,2016,IRQ,2016,70.122
+Iraq,Middle East and Northern Africa,112.0,4.677,3,0.98549,2015,IRQ,2015,69.929
+Israel,Middle East and Northern Africa,19.0,6.814,5,1.301,2018,ISR,2018,82.819
+Israel,Middle East and Northern Africa,13.0,7.139,6,1.276,2019,ISR,2019,82.972
+Israel,Middle East and Northern Africa,11.0,7.212999820709230,6,1.37538242340088,2017,ISR,2017,82.663
+Israel,Middle East and Northern Africa,11.0,7.267,6,1.33766,2016,ISR,2016,82.503
+Israel,Middle East and Northern Africa,11.0,7.278,6,1.22857,2015,ISR,2015,82.34
+Jordan,Middle East and Northern Africa,101.0,4.906,3,0.837,2019,JOR,2019,74.526
+Jordan,Middle East and Northern Africa,90.0,5.161,4,0.822,2018,JOR,2018,74.405
+Jordan,Middle East and Northern Africa,82.0,5.192,4,0.90198,2015,JOR,2015,74.078
+Jordan,Middle East and Northern Africa,80.0,5.303,4,0.99673,2016,JOR,2016,74.184
+Jordan,Middle East and Northern Africa,74.0,5.33599996566772,4,0.991012394428253,2017,JOR,2017,74.292
+Kuwait,Middle East and Northern Africa,51.0,6.021,5,1.5,2019,KWT,2019,75.489
+Kuwait,Middle East and Northern Africa,45.0,6.083,5,1.474,2018,KWT,2018,75.398
+Kuwait,Middle East and Northern Africa,39.0,6.10500001907349,5,1.63295245170593,2017,KWT,2017,75.311
+Kuwait,Middle East and Northern Africa,41.0,6.239,5,1.61714,2016,KWT,2016,75.224
+Kuwait,Middle East and Northern Africa,39.0,6.295,5,1.55422,2015,KWT,2015,75.13
+Lebanon,Middle East and Northern Africa,103.0,4.839,3,1.02564,2015,LBN,2015,78.768
+Lebanon,Middle East and Northern Africa,93.0,5.129,4,1.12268,2016,LBN,2016,78.8
+Lebanon,Middle East and Northern Africa,91.0,5.197,4,0.987,2019,LBN,2019,78.93
+Lebanon,Middle East and Northern Africa,88.0,5.22499990463257,4,1.07498753070831,2017,LBN,2017,78.833
+Lebanon,Middle East and Northern Africa,80.0,5.358,4,0.965,2018,LBN,2018,78.875
+Libya,Middle East and Northern Africa,72.0,5.525,4,1.044,2019,LBY,2019,72.913
+Libya,Middle East and Northern Africa,68.0,5.525000095367430,4,1.10180306434631,2017,LBY,2017,72.52
+Libya,Middle East and Northern Africa,70.0,5.566,4,0.985,2018,LBY,2018,72.724
+Libya,Middle East and Northern Africa,67.0,5.615,4,1.06688,2016,LBY,2016,72.311
+Libya,Middle East and Northern Africa,63.0,5.754,4,1.13145,2015,LBY,2015,72.121
+Morocco,Middle East and Northern Africa,92.0,5.013,4,0.73479,2015,MNG,2015,69.111
+Morocco,Middle East and Northern Africa,90.0,5.151,4,0.84058,2016,MNG,2016,69.321
+Morocco,Middle East and Northern Africa,89.0,5.208,4,0.801,2019,MNG,2019,69.87
+Morocco,Middle East and Northern Africa,84.0,5.2350001335144,4,0.878114581108093,2017,MNG,2017,69.509
+Morocco,Middle East and Northern Africa,85.0,5.254,4,0.779,2018,MNG,2018,69.689
+Palestinian Territories,Middle East and Northern Africa,110.0,4.696,3,0.657,2019,PSE,2019,74.053
+Palestinian Territories,Middle East and Northern Africa,108.0,4.715,3,0.59867,2015,PSE,2015,73.442
+Palestinian Territories,Middle East and Northern Africa,104.0,4.743,3,0.642,2018,PSE,2018,73.895
+Palestinian Territories,Middle East and Northern Africa,108.0,4.754,3,0.67024,2016,PSE,2016,73.589
+Palestinian Territories,Middle East and Northern Africa,103.0,4.77500009536743,3,0.716249227523804,2017,PSE,2017,73.74
+Qatar,Middle East and Northern Africa,32.0,6.374,5,1.649,2018,QAT,2018,80.1
+Qatar,Middle East and Northern Africa,29.0,6.374,5,1.684,2019,QAT,2019,80.227
+Qatar,Middle East and Northern Africa,36.0,6.375,5,1.82427,2016,QAT,2016,79.868
+Qatar,Middle East and Northern Africa,35.0,6.375,5,1.87076568603516,2017,QAT,2017,79.981
+Qatar,Middle East and Northern Africa,28.0,6.611,5,1.69042,2015,QAT,2015,79.758
+Saudi Arabia,Middle East and Northern Africa,37.0,6.343999862670900,5,1.53062355518341,2017,SAU,2017,74.874
+Saudi Arabia,Middle East and Northern Africa,33.0,6.371,5,1.379,2018,SAU,2018,74.998
+Saudi Arabia,Middle East and Northern Africa,28.0,6.375,5,1.403,2019,SAU,2019,75.133
+Saudi Arabia,Middle East and Northern Africa,34.0,6.379,5,1.48953,2016,SAU,2016,74.761
+Saudi Arabia,Middle East and Northern Africa,35.0,6.411,5,1.39541,2015,SAU,2015,74.651
+Syria,Middle East and Northern Africa,156.0,3.006,2,0.6632,2015,SYR,2015,69.908
+Syria,Middle East and Northern Africa,156.0,3.069,2,0.74719,2016,SYR,2016,70.315
+Syria,Middle East and Northern Africa,152.0,3.46199989318848,2,0.777153134346008,2017,SYR,2017,70.967
+Syria,Middle East and Northern Africa,150.0,3.462,2,0.689,2018,SYR,2018,71.779
+Syria,Middle East and Northern Africa,149.0,3.462,2,0.619,2019,SYR,2019,72.697
+Tunisia,Middle East and Northern Africa,124.0,4.461,3,0.921,2019,TUN,2019,76.699
+Tunisia,Middle East and Northern Africa,111.0,4.592,3,0.9,2018,TUN,2018,76.505
+Tunisia,Middle East and Northern Africa,107.0,4.739,3,0.88113,2015,TUN,2015,75.922
+Tunisia,Middle East and Northern Africa,102.0,4.80499982833862,3,1.00726580619812,2017,TUN,2017,76.31
+Tunisia,Middle East and Northern Africa,98.0,5.045,4,0.97724,2016,TUN,2016,76.115
+Turkey,Middle East and Northern Africa,76.0,5.332,4,1.06098,2015,TUR,2015,76.532
+Turkey,Middle East and Northern Africa,79.0,5.373,4,1.183,2019,TUR,2019,77.691
+Turkey,Middle East and Northern Africa,78.0,5.389,4,1.16492,2016,TUR,2016,76.86
+Turkey,Middle East and Northern Africa,74.0,5.483,4,1.148,2018,TUR,2018,77.437
+Turkey,Middle East and Northern Africa,69.0,5.5,4,1.19827437400818,2017,TUR,2017,77.161
+United Arab Emirates,Middle East and Northern Africa,28.0,6.573,5,1.57352,2016,ARE,2016,77.47
+United Arab Emirates,Middle East and Northern Africa,21.0,6.6479997634887700,5,1.62634336948395,2017,ARE,2017,77.647
+United Arab Emirates,Middle East and Northern Africa,20.0,6.774,5,2.096,2018,ARE,2018,77.814
+United Arab Emirates,Middle East and Northern Africa,21.0,6.825,5,1.503,2019,ARE,2019,77.972
+United Arab Emirates,Middle East and Northern Africa,20.0,6.901,5,1.42727,2015,ARE,2015,77.285
+Yemen,Middle East and Northern Africa,152.0,3.355,2,0.442,2018,YEM,2018,66.096
+Yemen,Middle East and Northern Africa,151.0,3.38,2,0.287,2019,YEM,2019,66.125
+Yemen,Middle East and Northern Africa,146.0,3.59299993515015,2,0.591683447360992,2017,YEM,2017,66.086
+Yemen,Middle East and Northern Africa,147.0,3.724,2,0.57939,2016,YEM,2016,66.087
+Yemen,Middle East and Northern Africa,136.0,4.077,3,0.54649,2015,YEM,2015,66.085
+Canada,North America,9.0,7.278,6,1.365,2019,CAN,2019,82.434
+Canada,North America,7.0,7.31599998474121,6,1.47920441627502,2017,CAN,2017,82.21
+Canada,North America,7.0,7.328,6,1.33,2018,CAN,2018,82.315
+Canada,North America,6.0,7.404,6,1.44015,2016,CAN,2016,82.117
+Canada,North America,5.0,7.427,6,1.32629,2015,CAN,2015,82.026
+United States,North America,18.0,6.886,5,1.398,2018,USA,2018,78.851
+United States,North America,19.0,6.892,5,1.433,2019,USA,2019,78.862
+United States,North America,14.0,6.993000030517580,5,1.54625928401947,2017,USA,2017,78.861
+United States,North America,13.0,7.104,6,1.50796,2016,USA,2016,78.885
+United States,North America,15.0,7.119,6,1.39451,2015,USA,2015,78.91
+Cambodia,Southeastern Asia,145.0,3.819,2,0.46038,2015,KHM,2015,68.637
+Cambodia,Southeastern Asia,140.0,3.907,2,0.55604,2016,KHM,2016,68.977
+Cambodia,Southeastern Asia,129.0,4.16800022125244,3,0.601765096187592,2017,KHM,2017,69.289
+Cambodia,Southeastern Asia,120.0,4.433,3,0.549,2018,KHM,2018,69.57
+Cambodia,Southeastern Asia,109.0,4.7,3,0.574,2019,KHM,2019,69.823
+Indonesia,Southeastern Asia,96.0,5.093,4,0.899,2018,IDN,2018,71.509
+Indonesia,Southeastern Asia,92.0,5.192,4,0.931,2019,IDN,2019,71.716
+Indonesia,Southeastern Asia,81.0,5.26200008392334,4,0.995538592338562,2017,IDN,2017,71.282
+Indonesia,Southeastern Asia,79.0,5.314,4,0.95104,2016,IDN,2016,71.035
+Indonesia,Southeastern Asia,74.0,5.399,4,0.82827,2015,IDN,2015,70.768
+Laos,Southeastern Asia,110.0,4.623,3,0.72,2018,LAO,2018,67.61
+Laos,Southeastern Asia,105.0,4.796,3,0.764,2019,LAO,2019,67.923
+Laos,Southeastern Asia,99.0,4.876,3,0.59066,2015,LAO,2015,66.546
+Laos,Southeastern Asia,102.0,4.876,3,0.68042,2016,LAO,2016,66.924
+Laos,Southeastern Asia,102.0,4.876,3,0.68042,2017,LAO,2017,67.277
+Malaysia,Southeastern Asia,80.0,5.339,4,1.221,2019,MYS,2019,76.156
+Malaysia,Southeastern Asia,61.0,5.77,4,1.12486,2015,MYS,2015,75.461
+Malaysia,Southeastern Asia,47.0,6.005,5,1.25142,2016,MYS,2016,75.649
+Malaysia,Southeastern Asia,42.0,6.08400011062622,5,1.29121541976929,2017,MYS,2017,75.828
+Malaysia,Southeastern Asia,35.0,6.322,5,1.161,2018,MYS,2018,75.997
+Myanmar,Southeastern Asia,129.0,4.307,3,0.27108,2015,MMR,2015,65.81
+Myanmar,Southeastern Asia,130.0,4.308,3,0.682,2018,MMR,2018,66.867
+Myanmar,Southeastern Asia,131.0,4.36,3,0.71,2019,MMR,2019,67.134
+Myanmar,Southeastern Asia,119.0,4.395,3,0.34112,2016,MMR,2016,66.205
+Myanmar,Southeastern Asia,114.0,4.54500007629395,3,0.367110550403595,2017,MMR,2017,66.558
+Philippines,Southeastern Asia,90.0,5.073,4,0.70532,2015,PHL,2015,70.644
+Philippines,Southeastern Asia,82.0,5.279,4,0.81217,2016,PHL,2016,70.802
+Philippines,Southeastern Asia,72.0,5.42999982833862,4,0.85769921541214,2017,PHL,2017,70.952
+Philippines,Southeastern Asia,71.0,5.524,4,0.775,2018,PHL,2018,71.095
+Philippines,Southeastern Asia,69.0,5.631,4,0.807,2019,PHL,2019,71.231
+Singapore,Southeastern Asia,34.0,6.262,5,1.572,2019,SGP,2019,83.62
+Singapore,Southeastern Asia,34.0,6.343,5,1.529,2018,SGP,2018,83.458
+Singapore,Southeastern Asia,26.0,6.57200002670288,5,1.69227766990662,2017,SGP,2017,83.279
+Singapore,Southeastern Asia,22.0,6.739,5,1.64555,2016,SGP,2016,83.083
+Singapore,Southeastern Asia,24.0,6.798,5,1.52186,2015,SGP,2015,82.877
+Thailand,Southeastern Asia,52.0,6.008,5,1.05,2019,THA,2019,77.15
+Thailand,Southeastern Asia,46.0,6.072,5,1.016,2018,THA,2018,76.931
+Thailand,Southeastern Asia,32.0,6.4239997863769500,5,1.12786877155304,2017,THA,2017,76.683
+Thailand,Southeastern Asia,34.0,6.455,5,0.9669,2015,THA,2015,76.091
+Thailand,Southeastern Asia,33.0,6.474,5,1.0893,2016,THA,2016,76.403
+Vietnam,Southeastern Asia,96.0,5.061,4,0.74037,2016,VNM,2016,75.172
+Vietnam,Southeastern Asia,94.0,5.07399988174438,4,0.788547575473785,2017,VNM,2017,75.241
+Vietnam,Southeastern Asia,95.0,5.103,4,0.715,2018,VNM,2018,75.317
+Vietnam,Southeastern Asia,94.0,5.175,4,0.741,2019,VNM,2019,75.4
+Vietnam,Southeastern Asia,75.0,5.36,4,0.63216,2015,VNM,2015,75.11
+Afghanistan,Southern Asia,154.0,3.203,2,0.35,2019,AFG,2019,64.833
+Afghanistan,Southern Asia,154.0,3.36,2,0.38227,2016,AFG,2016,63.763
+Afghanistan,Southern Asia,153.0,3.575,2,0.31982,2015,AFG,2015,63.377
+Afghanistan,Southern Asia,145.0,3.632,2,0.332,2018,AFG,2018,64.486
+Afghanistan,Southern Asia,141.0,3.79399991035461,2,0.401477217674255,2017,AFG,2017,64.13
+Bangladesh,Southern Asia,125.0,4.456,3,0.562,2019,BGD,2019,72.591
+Bangladesh,Southern Asia,115.0,4.5,3,0.532,2018,BGD,2018,72.32
+Bangladesh,Southern Asia,110.0,4.60799980163574,3,0.586682975292206,2017,BGD,2017,72.052
+Bangladesh,Southern Asia,110.0,4.643,3,0.54177,2016,BGD,2016,71.785
+Bangladesh,Southern Asia,109.0,4.694,3,0.39753,2015,BGD,2015,71.514
+Bhutan,Southern Asia,97.0,5.01100015640259,4,0.885416388511658,2017,BGD,2017,72.052
+Bhutan,Southern Asia,97.0,5.082,4,0.796,2018,BGD,2018,72.32
+Bhutan,Southern Asia,95.0,5.082,4,0.813,2019,BGD,2019,72.591
+Bhutan,Southern Asia,84.0,5.196,4,0.8527,2016,BGD,2016,71.785
+Bhutan,Southern Asia,79.0,5.253,4,0.77042,2015,BGD,2015,71.514
+India,Southern Asia,140.0,4.015,3,0.755,2019,IND,2019,69.656
+India,Southern Asia,133.0,4.19,3,0.721,2018,IND,2018,69.416
+India,Southern Asia,122.0,4.31500005722046,3,0.792221248149872,2017,IND,2017,69.165
+India,Southern Asia,118.0,4.404,3,0.74036,2016,IND,2016,68.897
+India,Southern Asia,117.0,4.565,3,0.64499,2015,IND,2015,68.607
+Nepal,Southern Asia,121.0,4.514,3,0.35997,2015,NPL,2015,69.515
+Nepal,Southern Asia,107.0,4.793,3,0.44626,2016,NPL,2016,69.848
+Nepal,Southern Asia,101.0,4.88,3,0.425,2018,NPL,2018,70.478
+Nepal,Southern Asia,100.0,4.913,3,0.446,2019,NPL,2019,70.778
+Nepal,Southern Asia,99.0,4.961999893188480,3,0.479820191860199,2017,NPL,2017,70.169
+Pakistan,Southern Asia,92.0,5.132,4,0.68816,2016,PAK,2016,66.77
+Pakistan,Southern Asia,81.0,5.194,4,0.59543,2015,PAK,2015,66.577
+Pakistan,Southern Asia,80.0,5.26900005340576,4,0.72688353061676,2017,PAK,2017,66.947
+Pakistan,Southern Asia,75.0,5.472,4,0.652,2018,PAK,2018,67.114
+Pakistan,Southern Asia,67.0,5.653,4,0.677,2019,PAK,2019,67.273
+Sri Lanka,Southern Asia,132.0,4.271,3,0.83524,2015,LKA,2015,76.316
+Sri Lanka,Southern Asia,130.0,4.366,3,0.949,2019,LKA,2019,76.978
+Sri Lanka,Southern Asia,117.0,4.415,3,0.97318,2016,LKA,2016,76.482
+Sri Lanka,Southern Asia,120.0,4.44000005722046,3,1.00985014438629,2017,LKA,2017,76.648
+Sri Lanka,Southern Asia,116.0,4.471,3,0.918,2018,LKA,2018,76.812
+Angola,Sub-Saharan Africa,142.0,3.795,2,0.73,2018,AGO,2018,60.782
+Angola,Sub-Saharan Africa,142,3.795,2,0.73,2019,AGO,2019,61.147
+Angola,Sub-Saharan Africa,140.0,3.79500007629395,2,0.858428180217743,2017,AGO,2017,60.379
+Angola,Sub-Saharan Africa,141.0,3.866,2,0.84731,2016,AGO,2016,59.925
+Angola,Sub-Saharan Africa,137.0,4.033,3,0.75778,2015,AGO,2015,59.398
+Benin,Sub-Saharan Africa,155.0,3.34,2,0.28665,2015,BHR,2015,76.762
+Benin,Sub-Saharan Africa,153.0,3.484,2,0.39499,2016,BHR,2016,76.899
+Benin,Sub-Saharan Africa,143.0,3.65700006484985,2,0.43108540773391700,2017,BHR,2017,77.032
+Benin,Sub-Saharan Africa,136.0,4.141,3,0.378,2018,BHR,2018,77.163
+Benin,Sub-Saharan Africa,102.0,4.883,3,0.393,2019,BHR,2019,77.292
+Botswana,Sub-Saharan Africa,148.0,3.488,2,1.041,2019,BWA,2019,69.592
+Botswana,Sub-Saharan Africa,146.0,3.59,2,1.017,2018,BWA,2018,69.275
+Botswana,Sub-Saharan Africa,142.0,3.7660000324249300,2,1.12209415435791,2017,BWA,2017,68.812
+Botswana,Sub-Saharan Africa,137.0,3.974,2,1.09426,2016,BWA,2016,68.178
+Botswana,Sub-Saharan Africa,128.0,4.332,3,0.99355,2015,BWA,2015,67.338
+Burkina Faso,Sub-Saharan Africa,152.0,3.587,2,0.25812,2015,BFA,2015,59.919
+Burkina Faso,Sub-Saharan Africa,145.0,3.739,2,0.31995,2016,BFA,2016,60.354
+Burkina Faso,Sub-Saharan Africa,134.0,4.03200006484985,3,0.3502277135849,2017,BFA,2017,60.768
+Burkina Faso,Sub-Saharan Africa,121.0,4.424,3,0.314,2018,BFA,2018,61.174
+Burkina Faso,Sub-Saharan Africa,115.0,4.587,3,0.331,2019,BFA,2019,61.577
+Burundi,Sub-Saharan Africa,154.0,2.90499997138977,1,0.091622568666935,2017,BDI,2017,60.898
+Burundi,Sub-Saharan Africa,157.0,2.905,1,0.0153,2015,BDI,2015,60.123
+Burundi,Sub-Saharan Africa,157.0,2.905,1,0.06831,2016,BDI,2016,60.528
+Burundi,Sub-Saharan Africa,156.0,2.905,1,0.091,2018,BDI,2018,61.247
+Burundi,Sub-Saharan Africa,145.0,3.775,2,0.046,2019,BDI,2019,61.584
+Cameroon,Sub-Saharan Africa,133.0,4.252,3,0.4225,2015,CMR,2015,57.583
+Cameroon,Sub-Saharan Africa,114.0,4.513,3,0.52497,2016,CMR,2016,58.063
+Cameroon,Sub-Saharan Africa,107.0,4.69500017166138,3,0.564305365085602,2017,CMR,2017,58.511
+Cameroon,Sub-Saharan Africa,99.0,4.975,3,0.535,2018,CMR,2018,58.921
+Cameroon,Sub-Saharan Africa,96.0,5.044,4,0.549,2019,CMR,2019,59.292
+Chad,Sub-Saharan Africa,149.0,3.667,2,0.34193,2015,TCD,2015,53.137
+Chad,Sub-Saharan Africa,144.0,3.763,2,0.42214,2016,TCD,2016,53.438
+Chad,Sub-Saharan Africa,137.0,3.9360001087188700,2,0.43801298737525900,2017,TCD,2017,53.712
+Chad,Sub-Saharan Africa,131.0,4.301,3,0.358,2018,TCD,2018,53.977
+Chad,Sub-Saharan Africa,132.0,4.35,3,0.35,2019,TCD,2019,54.239
+Congo (Brazzaville),Sub-Saharan Africa,139.0,3.989,2,0.67866,2015,COG,2015,63.097
+Congo (Brazzaville),Sub-Saharan Africa,127.0,4.236,3,0.77109,2016,COG,2016,63.556
+Congo (Brazzaville),Sub-Saharan Africa,124.0,4.29099988937378,3,0.808964252471924,2017,COG,2017,63.954
+Congo (Brazzaville),Sub-Saharan Africa,114.0,4.559,3,0.682,2018,COG,2018,64.29
+Congo (Brazzaville),Sub-Saharan Africa,103.0,4.812,3,0.673,2019,COG,2019,64.57
+Ethiopia,Sub-Saharan Africa,134.0,4.286,3,0.336,2019,EGY,2019,71.99
+Ethiopia,Sub-Saharan Africa,127.0,4.35,3,0.308,2018,EGY,2018,71.825
+Ethiopia,Sub-Saharan Africa,119.0,4.46000003814697,3,0.339233845472336,2017,EGY,2017,71.656
+Ethiopia,Sub-Saharan Africa,115.0,4.508,3,0.29283,2016,EGY,2016,71.482
+Ethiopia,Sub-Saharan Africa,122.0,4.512,3,0.19073,2015,EGY,2015,71.302
+Gabon,Sub-Saharan Africa,143.0,3.896,2,1.06024,2015,GAB,2015,64.913
+Gabon,Sub-Saharan Africa,134.0,4.121,3,1.15851,2016,GAB,2016,65.418
+Gabon,Sub-Saharan Africa,118.0,4.46500015258789,3,1.1982102394104,2017,GAB,2017,65.839
+Gabon,Sub-Saharan Africa,103.0,4.758,3,1.036,2018,GAB,2018,66.187
+Gabon,Sub-Saharan Africa,104.0,4.799,3,1.057,2019,GAB,2019,66.467
+Ghana,Sub-Saharan Africa,131.0,4.11999988555908,3,0.667224824428558,2017,GHA,2017,63.463
+Ghana,Sub-Saharan Africa,124.0,4.276,3,0.63107,2016,GHA,2016,63.124
+Ghana,Sub-Saharan Africa,114.0,4.633,3,0.54558,2015,GHA,2015,62.772
+Ghana,Sub-Saharan Africa,108.0,4.657,3,0.592,2018,GHA,2018,63.78
+Ghana,Sub-Saharan Africa,98.0,4.996,3,0.611,2019,GHA,2019,64.074
+Guinea,Sub-Saharan Africa,149.0,3.50699996948242,2,0.244549930095673,2017,GIN,2017,60.706
+Guinea,Sub-Saharan Africa,151.0,3.607,2,0.22415,2016,GIN,2016,60.17
+Guinea,Sub-Saharan Africa,150.0,3.656,2,0.17417,2015,GIN,2015,59.598
+Guinea,Sub-Saharan Africa,140.0,3.964,2,0.344,2018,GIN,2018,61.185
+Guinea,Sub-Saharan Africa,118.0,4.534,3,0.38,2019,GIN,2019,61.602
+Kenya,Sub-Saharan Africa,122.0,4.356,3,0.52267,2016,KEN,2016,65.393
+Kenya,Sub-Saharan Africa,124.0,4.41,3,0.493,2018,KEN,2018,66.342
+Kenya,Sub-Saharan Africa,125.0,4.419,3,0.36471,2015,KEN,2015,64.798
+Kenya,Sub-Saharan Africa,121.0,4.509,3,0.512,2019,KEN,2019,66.699
+Kenya,Sub-Saharan Africa,112.0,4.55299997329712,3,0.560479462146759,2017,KEN,2017,65.909
+Lesotho,Sub-Saharan Africa,144.0,3.802,2,0.489,2019,LSO,2019,54.331
+Lesotho,Sub-Saharan Africa,141.0,3.808,2,0.472,2018,LSO,2018,53.705
+Lesotho,Sub-Saharan Africa,139.0,3.80800008773804,2,0.521021246910095,2017,LSO,2017,52.947
+Lesotho,Sub-Saharan Africa,97.0,4.898,3,0.37545,2015,LSO,2015,51.038
+Lesotho,Sub-Saharan Africa,97,4.898,3,0.37545,2016,LSO,2016,52.059
+Liberia,Sub-Saharan Africa,149.0,3.495,2,0.076,2018,LBR,2018,63.73
+Liberia,Sub-Saharan Africa,148.0,3.53299999237061,2,0.119041793048382,2017,LBR,2017,63.295
+Liberia,Sub-Saharan Africa,150.0,3.622,2,0.10706,2016,LBR,2016,62.802
+Liberia,Sub-Saharan Africa,141.0,3.975,2,0.073,2019,LBR,2019,64.104
+Liberia,Sub-Saharan Africa,116.0,4.571,3,0.0712,2015,LBR,2015,62.269
+Madagascar,Sub-Saharan Africa,144.0,3.64400005340576,2,0.305808693170547,2017,MDG,2017,66.311
+Madagascar,Sub-Saharan Africa,147.0,3.681,2,0.20824,2015,MDG,2015,65.539
+Madagascar,Sub-Saharan Africa,148.0,3.695,2,0.27954,2016,MDG,2016,65.931
+Madagascar,Sub-Saharan Africa,143.0,3.774,2,0.262,2018,MDG,2018,66.681
+Madagascar,Sub-Saharan Africa,143.0,3.933,2,0.274,2019,MDG,2019,67.041
+Malawi,Sub-Saharan Africa,150.0,3.41,2,0.191,2019,MWI,2019,64.263
+Malawi,Sub-Saharan Africa,147.0,3.587,2,0.186,2018,MWI,2018,63.798
+Malawi,Sub-Saharan Africa,136.0,3.97000002861023,2,0.233442038297653,2017,MWI,2017,63.279
+Malawi,Sub-Saharan Africa,132.0,4.156,3,0.08709,2016,MWI,2016,62.681
+Malawi,Sub-Saharan Africa,131.0,4.292,3,0.01604,2015,MWI,2015,61.953
+Mali,Sub-Saharan Africa,138.0,3.995,2,0.26074,2015,MLI,2015,57.509
+Mali,Sub-Saharan Africa,135.0,4.073,3,0.31292,2016,MLI,2016,57.987
+Mali,Sub-Saharan Africa,127.0,4.19000005722046,3,0.476180493831635,2017,MLI,2017,58.452
+Mali,Sub-Saharan Africa,128.0,4.39,3,0.385,2019,MLI,2019,59.306
+Mali,Sub-Saharan Africa,118.0,4.447,3,0.37,2018,MLI,2018,58.893
+Mauritania,Sub-Saharan Africa,130.0,4.201,3,0.61391,2016,MLI,2016,57.987
+Mauritania,Sub-Saharan Africa,123.0,4.29199981689453,3,0.648457288742065,2017,MLI,2017,58.452
+Mauritania,Sub-Saharan Africa,126.0,4.356,3,0.557,2018,MLI,2018,58.893
+Mauritania,Sub-Saharan Africa,124.0,4.436,3,0.45407,2015,MLI,2015,57.509
+Mauritania,Sub-Saharan Africa,122.0,4.49,3,0.57,2019,MLI,2019,59.306
+Mauritius,Sub-Saharan Africa,71.0,5.477,4,1.00761,2015,MLT,2015,81.896
+Mauritius,Sub-Saharan Africa,64.0,5.62900018692017,4,1.18939554691315,2017,MLT,2017,82.221
+Mauritius,Sub-Saharan Africa,66.0,5.648,4,1.14372,2016,MLT,2016,82.063
+Mauritius,Sub-Saharan Africa,57.0,5.888,4,1.12,2019,MLT,2019,82.53
+Mauritius,Sub-Saharan Africa,55.0,5.891,4,1.09,2018,MLT,2018,82.376
+Mozambique,Sub-Saharan Africa,123.0,4.417,3,0.198,2018,MNE,2018,76.77
+Mozambique,Sub-Saharan Africa,123.0,4.466,3,0.204,2019,MNE,2019,76.884
+Mozambique,Sub-Saharan Africa,113.0,4.550000190734860,3,0.234305649995804,2017,MNE,2017,76.667
+Mozambique,Sub-Saharan Africa,94.0,4.971,3,0.08308,2015,MNE,2015,76.452
+Mozambique,Sub-Saharan Africa,94,4.971,3,0.08308,2016,MNE,2016,76.568
+Namibia,Sub-Saharan Africa,119.0,4.441,3,0.874,2018,NAM,2018,63.373
+Namibia,Sub-Saharan Africa,111.0,4.57399988174438,3,0.964434325695038,2017,NAM,2017,63.021
+Namibia,Sub-Saharan Africa,113.0,4.574,3,0.93287,2015,NAM,2015,62.119
+Namibia,Sub-Saharan Africa,113.0,4.574,3,0.93287,2016,NAM,2016,62.625
+Namibia,Sub-Saharan Africa,113.0,4.639,3,0.879,2019,NAM,2019,63.708
+Niger,Sub-Saharan Africa,144.0,3.845,2,0.0694,2015,NER,2015,60.631
+Niger,Sub-Saharan Africa,142.0,3.856,2,0.1327,2016,NER,2016,61.137
+Niger,Sub-Saharan Africa,135.0,4.02799987792969,3,0.161925330758095,2017,NER,2017,61.599
+Niger,Sub-Saharan Africa,134.0,4.166,3,0.131,2018,NER,2018,62.024
+Niger,Sub-Saharan Africa,114.0,4.628,3,0.138,2019,NER,2019,62.42
+Nigeria,Sub-Saharan Africa,103.0,4.875,3,0.75216,2016,NGA,2016,53.541
+Nigeria,Sub-Saharan Africa,95.0,5.07399988174438,4,0.783756256103516,2017,NGA,2017,53.95
+Nigeria,Sub-Saharan Africa,91.0,5.155,4,0.689,2018,NGA,2018,54.332
+Nigeria,Sub-Saharan Africa,85.0,5.265,4,0.696,2019,NGA,2019,54.687
+Nigeria,Sub-Saharan Africa,78.0,5.268,4,0.65435,2015,NGA,2015,53.112
+Rwanda,Sub-Saharan Africa,152.0,3.334,2,0.359,2019,RWA,2019,69.024
+Rwanda,Sub-Saharan Africa,151.0,3.408,2,0.332,2018,RWA,2018,68.7
+Rwanda,Sub-Saharan Africa,154.0,3.465,2,0.22208,2015,RWA,2015,67.45
+Rwanda,Sub-Saharan Africa,151.0,3.47099995613098,2,0.368745893239975,2017,RWA,2017,68.341
+Rwanda,Sub-Saharan Africa,152.0,3.515,2,0.32846,2016,RWA,2016,67.93
+Senegal,Sub-Saharan Africa,142.0,3.904,2,0.36498,2015,SEN,2015,66.747
+Senegal,Sub-Saharan Africa,128.0,4.219,3,0.44314,2016,SEN,2016,67.078
+Senegal,Sub-Saharan Africa,115.0,4.53499984741211,3,0.479309022426605,2017,SEN,2017,67.38
+Senegal,Sub-Saharan Africa,109.0,4.631,3,0.429,2018,SEN,2018,67.665
+Senegal,Sub-Saharan Africa,111.0,4.681,3,0.45,2019,SEN,2019,67.941
+Sierra Leone,Sub-Saharan Africa,129.0,4.374,3,0.268,2019,SLE,2019,54.696
+Sierra Leone,Sub-Saharan Africa,123.0,4.507,3,0.33024,2015,SLE,2015,52.941
+Sierra Leone,Sub-Saharan Africa,113.0,4.571,3,0.256,2018,SLE,2018,54.309
+Sierra Leone,Sub-Saharan Africa,111.0,4.635,3,0.36485,2016,SLE,2016,53.444
+Sierra Leone,Sub-Saharan Africa,106.0,4.70900011062622,3,0.36842092871666,2017,SLE,2017,53.895
+South Africa,Sub-Saharan Africa,116.0,4.459,3,1.02416,2016,ZAF,2016,63.153
+South Africa,Sub-Saharan Africa,113.0,4.642,3,0.92049,2015,ZAF,2015,62.649
+South Africa,Sub-Saharan Africa,106.0,4.722,3,0.96,2019,ZAF,2019,64.131
+South Africa,Sub-Saharan Africa,105.0,4.724,3,0.94,2018,ZAF,2018,63.857
+South Africa,Sub-Saharan Africa,101.0,4.8289999961853,3,1.05469870567322,2017,ZAF,2017,63.538
+South Sudan,Sub-Saharan Africa,156.0,2.853,1,0.306,2019,SSD,2019,57.846
+South Sudan,Sub-Saharan Africa,154.0,3.254,2,0.337,2018,SSD,2018,57.604
+South Sudan,Sub-Saharan Africa,147.0,3.59100008010864,2,0.39724862575531,2017,SSD,2017,57.365
+South Sudan,Sub-Saharan Africa,143.0,3.832,2,0.39394,2015,SSD,2015,56.855
+South Sudan,Sub-Saharan Africa,143.0,3.832,2,0.39394,2016,SSD,2016,57.12
+Sudan,Sub-Saharan Africa,130.0,4.138999938964840,3,0.65951669216156,2017,SDN,2017,64.881
+Sudan,Sub-Saharan Africa,133.0,4.139,3,0.63069,2016,SDN,2016,64.663
+Sudan,Sub-Saharan Africa,137.0,4.139,3,0.605,2018,SDN,2018,65.095
+Sudan,Sub-Saharan Africa,137.0,4.139,3,0.605,2019,SDN,2019,65.311
+Sudan,Sub-Saharan Africa,118.0,4.55,3,0.52107,2015,SDN,2015,64.429
+Tanzania,Sub-Saharan Africa,153.0,3.231,2,0.476,2019,TZA,2019,65.456
+Tanzania,Sub-Saharan Africa,153.0,3.303,2,0.455,2018,TZA,2018,65.015
+Tanzania,Sub-Saharan Africa,153.0,3.34899997711182,2,0.511135876178741,2017,TZA,2017,64.479
+Tanzania,Sub-Saharan Africa,149.0,3.666,2,0.47155,2016,TZA,2016,63.844
+Tanzania,Sub-Saharan Africa,146.0,3.781,2,0.2852,2015,TZA,2015,63.111
+Togo,Sub-Saharan Africa,158.0,2.839,1,0.20868,2015,TGO,2015,59.927
+Togo,Sub-Saharan Africa,155.0,3.303,2,0.28123,2016,TGO,2016,60.22
+Togo,Sub-Saharan Africa,150.0,3.49499988555908,2,0.305444717407227,2017,TGO,2017,60.489
+Togo,Sub-Saharan Africa,139.0,3.999,2,0.259,2018,TGO,2018,60.76
+Togo,Sub-Saharan Africa,139.0,4.085,3,0.275,2019,TGO,2019,61.042
+Uganda,Sub-Saharan Africa,145.0,3.739,2,0.34719,2016,UGA,2016,61.986
+Uganda,Sub-Saharan Africa,141.0,3.931,2,0.21102,2015,UGA,2015,61.373
+Uganda,Sub-Saharan Africa,133.0,4.08099985122681,3,0.381430715322495,2017,UGA,2017,62.516
+Uganda,Sub-Saharan Africa,135.0,4.161,3,0.322,2018,UGA,2018,62.973
+Uganda,Sub-Saharan Africa,136.0,4.189,3,0.332,2019,UGA,2019,63.368
+Zambia,Sub-Saharan Africa,138.0,4.107,3,0.578,2019,ZMB,2019,63.886
+Zambia,Sub-Saharan Africa,125.0,4.377,3,0.562,2018,ZMB,2018,63.51
+Zambia,Sub-Saharan Africa,116.0,4.513999938964840,3,0.636406779289246,2017,ZMB,2017,63.043
+Zambia,Sub-Saharan Africa,106.0,4.795,3,0.61202,2016,ZMB,2016,62.464
+Zambia,Sub-Saharan Africa,85.0,5.129,4,0.47038,2015,ZMB,2015,61.737
+Zimbabwe,Sub-Saharan Africa,146.0,3.663,2,0.366,2019,ZWE,2019,61.49
+Zimbabwe,Sub-Saharan Africa,144.0,3.692,2,0.357,2018,ZWE,2018,61.195
+Zimbabwe,Sub-Saharan Africa,138.0,3.875,2,0.375846534967422,2017,ZWE,2017,60.812
+Zimbabwe,Sub-Saharan Africa,131.0,4.193,3,0.35041,2016,ZWE,2016,60.294
+Zimbabwe,Sub-Saharan Africa,115.0,4.61,3,0.271,2015,ZWE,2015,59.534
+Austria,Western Europe,13.0,7.00600004196167,6,1.48709726333618,2017,AUT,2017,81.34
+Austria,Western Europe,12.0,7.119,6,1.45038,2016,AUT,2016,81.258
+Austria,Western Europe,12.0,7.139,6,1.341,2018,AUT,2018,81.434
+Austria,Western Europe,13.0,7.2,6,1.33723,2015,AUT,2015,81.182
+Austria,Western Europe,10.0,7.246,6,1.376,2019,AUT,2019,81.544
+Belgium,Western Europe,17.0,6.89099979400635,5,1.46378076076508,2017,BGD,2017,72.052
+Belgium,Western Europe,18.0,6.923,5,1.356,2019,BGD,2019,72.591
+Belgium,Western Europe,16.0,6.927,5,1.324,2018,BGD,2018,72.32
+Belgium,Western Europe,18.0,6.929,5,1.42539,2016,BGD,2016,71.785
+Belgium,Western Europe,19.0,6.937,5,1.30782,2015,BGD,2015,71.514
+Cyprus,Western Europe,69.0,5.546,4,1.31857,2016,CYP,2016,80.513
+Cyprus,Western Europe,65.0,5.62099981307983,4,1.35593807697296,2017,CYP,2017,80.672
+Cyprus,Western Europe,67.0,5.689,4,1.20813,2015,CYP,2015,80.35
+Cyprus,Western Europe,61.0,5.762,4,1.229,2018,CYP,2018,80.828
+Cyprus,Western Europe,49.0,6.046,5,1.263,2019,CYP,2019,80.982
+Denmark,Western Europe,2.0,7.52199983596802,6,1.48238301277161,2017,DNK,2017,80.681
+Denmark,Western Europe,1.0,7.526,6,1.44178,2016,DNK,2016,80.583
+Denmark,Western Europe,3.0,7.527,6,1.32548,2015,DNK,2015,80.475
+Denmark,Western Europe,3.0,7.555,6,1.351,2018,DNK,2018,80.784
+Denmark,Western Europe,2.0,7.6,6,1.383,2019,DNK,2019,80.898
+Finland,Western Europe,6.0,7.406,6,1.29025,2015,FIN,2015,81.196
+Finland,Western Europe,5.0,7.413,6,1.40598,2016,FIN,2016,81.382
+Finland,Western Europe,5.0,7.468999862670900,6,1.44357192516327,2017,FIN,2017,81.561
+Finland,Western Europe,1.0,7.632,6,1.305,2018,FIN,2018,81.736
+Finland,Western Europe,1.0,7.769,6,1.34,2019,FIN,2019,81.908
+France,Western Europe,31.0,6.44199991226196,5,1.43092346191406,2017,FRA,2017,82.432
+France,Western Europe,32.0,6.478,5,1.39488,2016,FRA,2016,82.328
+France,Western Europe,23.0,6.489,5,1.293,2018,FRA,2018,82.541
+France,Western Europe,29.0,6.575,5,1.27778,2015,FRA,2015,82.224
+France,Western Europe,24.0,6.592,5,1.324,2019,FRA,2019,82.659
+Germany,Western Europe,26.0,6.75,5,1.32792,2015,DEU,2015,80.77
+Germany,Western Europe,16.0,6.9510002136230500,5,1.48792338371277,2017,DEU,2017,81.039
+Germany,Western Europe,15.0,6.965,5,1.34,2018,DEU,2018,81.18
+Germany,Western Europe,17.0,6.985,5,1.373,2019,DEU,2019,81.326
+Germany,Western Europe,16.0,6.994,5,1.44787,2016,DEU,2016,80.902
+Greece,Western Europe,102.0,4.857,3,1.15406,2015,GRC,2015,81.548
+Greece,Western Europe,99.0,5.033,4,1.24886,2016,GRC,2016,81.727
+Greece,Western Europe,87.0,5.2270002365112300,4,1.28948748111725,2017,GRC,2017,81.901
+Greece,Western Europe,82.0,5.287,4,1.181,2019,GRC,2019,82.239
+Greece,Western Europe,79.0,5.358,4,1.154,2018,GRC,2018,82.072
+Iceland,Western Europe,4.0,7.494,6,1.38,2019,ISL,2019,82.993
+Iceland,Western Europe,4.0,7.495,6,1.343,2018,ISL,2018,82.855
+Iceland,Western Europe,3.0,7.501,6,1.42666,2016,ISL,2016,82.601
+Iceland,Western Europe,3.0,7.50400018692017,6,1.480633020401,2017,ISL,2017,82.725
+Iceland,Western Europe,2.0,7.561,6,1.30232,2015,ISL,2015,82.481
+Ireland,Western Europe,19.0,6.907,5,1.48341,2016,IRL,2016,81.615
+Ireland,Western Europe,18.0,6.94,5,1.33596,2015,IRL,2015,81.344
+Ireland,Western Europe,14.0,6.977,5,1.448,2018,IRL,2018,82.103
+Ireland,Western Europe,15.0,6.9770002365112300,5,1.53570663928986,2017,IRL,2017,81.872
+Ireland,Western Europe,16.0,7.021,6,1.499,2019,IRL,2019,82.305
+Italy,Western Europe,50.0,5.948,4,1.25114,2015,ITA,2015,82.828
+Italy,Western Europe,48.0,5.96400022506714,4,1.39506661891937,2017,ITA,2017,83.184
+Italy,Western Europe,50.0,5.977,4,1.35495,2016,ITA,2016,83.008
+Italy,Western Europe,47.0,6.0,5,1.264,2018,ITA,2018,83.352
+Italy,Western Europe,36.0,6.223,5,1.294,2019,ITA,2019,83.512
+Luxembourg,Western Europe,18.0,6.86299991607666,5,1.74194359779358,2017,LUX,2017,81.955
+Luxembourg,Western Europe,20.0,6.871,5,1.69752,2016,LUX,2016,81.803
+Luxembourg,Western Europe,17.0,6.91,5,1.576,2018,LUX,2018,82.102
+Luxembourg,Western Europe,17.0,6.946,5,1.56391,2015,LUX,2015,81.636
+Luxembourg,Western Europe,14.0,7.09,6,1.609,2019,LUX,2019,82.25
+Malta,Western Europe,37.0,6.302,5,1.2074,2015,MLT,2015,81.896
+Malta,Western Europe,30.0,6.488,5,1.30782,2016,MLT,2016,82.063
+Malta,Western Europe,27.0,6.52699995040894,5,1.34327983856201,2017,MLT,2017,82.221
+Malta,Western Europe,22.0,6.627,5,1.27,2018,MLT,2018,82.376
+Malta,Western Europe,22.0,6.726,5,1.3,2019,MLT,2019,82.53
+Netherlands,Western Europe,7.0,7.339,6,1.46468,2016,NLD,2016,81.862
+Netherlands,Western Europe,6.0,7.3769998550415,6,1.50394463539124,2017,NLD,2017,82.004
+Netherlands,Western Europe,7.0,7.378,6,1.32944,2015,NLD,2015,81.715
+Netherlands,Western Europe,6.0,7.441,6,1.361,2018,NLD,2018,82.143
+Netherlands,Western Europe,5.0,7.488,6,1.396,2019,NLD,2019,82.283
+Norway,Western Europe,4.0,7.498,6,1.57744,2016,NOR,2016,82.029
+Norway,Western Europe,4.0,7.522,6,1.459,2015,NOR,2015,81.912
+Norway,Western Europe,1.0,7.537000179290770,6,1.61646318435669,2017,NOR,2017,82.146
+Norway,Western Europe,3.0,7.554,6,1.488,2019,NOR,2019,82.404
+Norway,Western Europe,2.0,7.594,6,1.456,2018,NOR,2018,82.271
+Portugal,Western Europe,88.0,5.102,4,1.15991,2015,PRT,2015,81.224
+Portugal,Western Europe,94.0,5.123,4,1.27607,2016,PRT,2016,81.444
+Portugal,Western Europe,89.0,5.19500017166138,4,1.3151752948761,2017,PRT,2017,81.655
+Portugal,Western Europe,77.0,5.41,4,1.188,2018,PRT,2018,81.857
+Portugal,Western Europe,66.0,5.693,4,1.221,2019,PRT,2019,82.049
+Spain,Western Europe,36.0,6.31,5,1.251,2018,ESP,2018,83.433
+Spain,Western Europe,36.0,6.329,5,1.23011,2015,ESP,2015,82.981
+Spain,Western Europe,30.0,6.354,5,1.286,2019,ESP,2019,83.565
+Spain,Western Europe,37.0,6.361,5,1.34253,2016,ESP,2016,83.145
+Spain,Western Europe,34.0,6.40299987792969,5,1.38439786434174,2017,ESP,2017,83.294
+Sweden,Western Europe,9.0,7.28399991989136,6,1.49438726902008,2017,SWE,2017,82.516
+Sweden,Western Europe,10.0,7.291,6,1.45181,2016,SWE,2016,82.382
+Sweden,Western Europe,9.0,7.314,6,1.355,2018,SWE,2018,82.654
+Sweden,Western Europe,7.0,7.343,6,1.387,2019,SWE,2019,82.797
+Sweden,Western Europe,8.0,7.364,6,1.33171,2015,SWE,2015,82.251
+Switzerland,Western Europe,6.0,7.48,6,1.452,2019,CHE,2019,83.779
+Switzerland,Western Europe,5.0,7.487,6,1.42,2018,CHE,2018,83.63
+Switzerland,Western Europe,4.0,7.49399995803833,6,1.56497955322266,2017,CHE,2017,83.473
+Switzerland,Western Europe,2.0,7.509,6,1.52733,2016,CHE,2016,83.31
+Switzerland,Western Europe,1.0,7.587,6,1.39651,2015,CHE,2015,83.142
+United Kingdom,Western Europe,19.0,6.71400022506714,5,1.44163393974304,2017,GBR,2017,81.168
+United Kingdom,Western Europe,23.0,6.725,5,1.40283,2016,GBR,2016,81.111
+United Kingdom,Western Europe,21.0,6.867,5,1.26637,2015,GBR,2015,81.052
+United Kingdom,Western Europe,15.0,7.054,6,1.333,2019,GBR,2019,81.321
+United Kingdom,Western Europe,11.0,7.19,6,1.244,2018,GBR,2018,81.236
