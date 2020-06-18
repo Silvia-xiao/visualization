@@ -1,11 +1,13 @@
 library(plotly)
-
+data <- read.csv("~/Desktop/5147/assignment/visualization/gdp_happiness_housing_life.csv")
+#print(data)
+data_2015 <- data[which(data$year == 2015),]
+print(data_2015)
 fig <- plot_ly(
-  labels = c("Eve", "Cain", "Seth", "Enos", "Noam", "Abel", "Awan", "Enoch", "Azura"),
-  parents = c("", "Eve", "Eve", "Seth", "Seth", "Eve", "Eve", "Awan", "Eve"),
-  values = c(65, 14, 12, 10, 2, 6, 6, 4, 4),
-  type = 'sunburst',
-  branchvalues = 'total'
+  labels = c(data_2015$country),
+  parents = c(data_2015$region),
+  values = c(data_2015$score),
+  type = 'sunburst'
 )
 
 fig
