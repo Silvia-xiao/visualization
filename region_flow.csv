@@ -1,0 +1,101 @@
+region_orig,region_dest,regionflow_1990,regionflow_1995,regionflow_2000,regionflow_2005
+North America,North America,57617,191071,84668,96102
+North America,Africa,103553,15550,35446,63080
+North America,Europe,912783,56817,1105368,1215929
+North America,Fmr Soviet Union,8211,1336,15683,112823
+North America,West Asia,106989,1083,68064,130359
+North America,South Asia,60182,457,62788,158
+North America,East Asia,17696,16407,21304,39145
+North America,South-East Asia,10439,64871,91449,41758
+North America,Oceania,37118,5149,30115,52303
+North America,Latin America,189859,69180,210561,276908
+Africa,North America,229087,673261,484148,540887
+Africa,Africa,8016143,5920174,3903229,3832478
+Africa,Europe,914839,1546956,2017832,2107883
+Africa,Fmr Soviet Union,4664,8931,3174,4860
+Africa,West Asia,1105000,737083,485018,673004
+Africa,South Asia,14657,44223,11851,244
+Africa,East Asia,1929,4637,1920,3230
+Africa,South-East Asia,3018,15886,2769,916
+Africa,Oceania,38340,92605,111109,155988
+Africa,Latin America,5941,34512,12138,12316
+Europe,North America,196660,875968,76402,61217
+Europe,Africa,542285,79119,123779,176905
+Europe,Europe,3492218,2671359,2913273,2401476
+Europe,Fmr Soviet Union,25621,27474,15172,37517
+Europe,West Asia,399739,133589,119597,136131
+Europe,South Asia,45130,62814,14992,14
+Europe,East Asia,6226,16909,1942,5211
+Europe,South-East Asia,13365,90802,17874,6748
+Europe,Oceania,144876,123763,50673,127437
+Europe,Latin America,16944,118329,15112,16414
+Fmr Soviet Union,North America,92918,410850,67032,21283
+Fmr Soviet Union,Africa,16064,7808,3982,1701
+Fmr Soviet Union,Europe,1415411,1176578,1058350,609230
+Fmr Soviet Union,Fmr Soviet Union,2785433,2629531,2207525,1870501
+Fmr Soviet Union,West Asia,179271,86947,53336,22341
+Fmr Soviet Union,South Asia,89524,13952,51340,5428
+Fmr Soviet Union,East Asia,5813,9202,8555,5625
+Fmr Soviet Union,South-East Asia,715,2919,126,86
+Fmr Soviet Union,Oceania,12176,25542,2621,1137
+Fmr Soviet Union,Latin America,4890,12596,2130,733
+West Asia,North America,159146,768199,148889,169274
+West Asia,Africa,369875,154675,142550,135106
+West Asia,Europe,625608,549592,515112,449623
+West Asia,Fmr Soviet Union,6272,11025,33041,67967
+West Asia,West Asia,1022058,584643,1089062,927243
+West Asia,South Asia,235822,178811,35502,13532
+West Asia,East Asia,2705,17775,434,386
+West Asia,South-East Asia,13939,78848,5347,3137
+West Asia,Oceania,26509,74711,25219,39692
+West Asia,Latin America,2004,44175,5228,9437
+South Asia,North America,416024,887463,1127535,1508008
+South Asia,Africa,32896,23648,47884,63471
+South Asia,Europe,254017,422475,883550,1390272
+South Asia,Fmr Soviet Union,593,3499,3539,15999
+South Asia,West Asia,374141,200065,2055794,4902081
+South Asia,South Asia,5877911,1707731,1903789,1307907
+South Asia,East Asia,22526,60319,35967,73599
+South Asia,South-East Asia,94228,482266,327597,525881
+South Asia,Oceania,53388,94580,219683,347420
+South Asia,Latin America,1768,12849,4211,6734
+East Asia,North America,804751,966843,1526195,1057904
+East Asia,Africa,21835,9939,26391,17092
+East Asia,Europe,213404,104658,551253,468762
+East Asia,Fmr Soviet Union,78225,42302,64635,65366
+East Asia,West Asia,9930,3668,4634,2581
+East Asia,South Asia,11484,5552,32787,117
+East Asia,East Asia,564165,490148,724145,781316
+East Asia,South-East Asia,68885,57151,143491,145264
+East Asia,Oceania,113500,75203,293721,278746
+East Asia,Latin America,37751,41181,54265,35142
+South-East Asia,North America,1078007,953797,996078,973060
+South-East Asia,Africa,27060,7415,24594,25580
+South-East Asia,Europe,462043,107849,549942,601265
+South-East Asia,Fmr Soviet Union,1438,183,5799,8159
+South-East Asia,West Asia,254820,37068,629282,869311
+South-East Asia,South Asia,235360,34201,132847,59126
+South-East Asia,East Asia,266857,277006,241401,380388
+South-East Asia,South-East Asia,870249,1115045,1832683,1630997
+South-East Asia,Oceania,213862,118522,247333,333608
+South-East Asia,Latin America,10937,8515,5698,6080
+Oceania,North America,29020,81612,49489,27137
+Oceania,Africa,37147,1370,6836,4747
+Oceania,Europe,108006,67421,201833,170370
+Oceania,Fmr Soviet Union,202,347,1939,5181
+Oceania,West Asia,16263,3315,14985,11316
+Oceania,South Asia,3134,2704,936,5
+Oceania,East Asia,4393,8388,3505,5659
+Oceania,South-East Asia,28181,24480,18225,11883
+Oceania,Oceania,92573,108208,161615,190706
+Oceania,Latin America,3870,10442,3337,1785
+Latin America,North America,3523588,3862187,4431475,3627847
+Latin America,Africa,24920,1937,22109,22652
+Latin America,Europe,439646,300437,1783348,1762587
+Latin America,Fmr Soviet Union,1064,460,4734,10553
+Latin America,West Asia,23470,4792,25739,38714
+Latin America,South Asia,7408,5403,1536,365
+Latin America,East Asia,119998,98950,68601,112180
+Latin America,South-East Asia,3967,4589,1289,2545
+Latin America,Oceania,17078,15438,25187,36031
+Latin America,Latin America,674604,673443,854980,879198

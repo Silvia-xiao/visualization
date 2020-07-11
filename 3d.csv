@@ -1,0 +1,1919 @@
+,NAME,Code_x,personal_report,life_expectancy,region,year,Entity,healthcare_expenditure
+30,Afghanistan,AFG,,,Southern Asia,2005,Afghanistan,88.32306226
+276,Afghanistan,AFG,,,Southern Asia,2006,Afghanistan,86.85601592
+522,Afghanistan,AFG,,,Southern Asia,2007,Afghanistan,88.71198979
+768,Afghanistan,AFG,3.72,59.93,Southern Asia,2008,Afghanistan,111.46310638
+1014,Afghanistan,AFG,4.4,60.48,Southern Asia,2009,Afghanistan,148.00120214
+1260,Afghanistan,AFG,4.76,61.03,Southern Asia,2010,Afghanistan,153.44620572
+1506,Afghanistan,AFG,3.83,61.55,Southern Asia,2011,Afghanistan,141.0557326
+1752,Afghanistan,AFG,3.78,62.05,Southern Asia,2012,Afghanistan,160.36802664
+1998,Afghanistan,AFG,3.57,62.52,Southern Asia,2013,Afghanistan,156.52934858
+2244,Afghanistan,AFG,3.13,62.97,Southern Asia,2014,Afghanistan,166.51672658
+2490,Afghanistan,AFG,3.98,63.38,Southern Asia,2015,Afghanistan,
+2736,Afghanistan,AFG,4.22,63.76,Southern Asia,2016,Afghanistan,
+2982,Afghanistan,AFG,2.66,64.13,Southern Asia,2017,Afghanistan,
+3228,Afghanistan,AFG,2.69,64.49,Southern Asia,2018,Afghanistan,
+3,Albania,ALB,,,Central and Eastern Europe,2005,Albania,380.41578445
+249,Albania,ALB,,,Central and Eastern Europe,2006,Albania,412.87709072
+495,Albania,ALB,4.63,75.65,Central and Eastern Europe,2007,Albania,461.17078502
+741,Albania,ALB,,,Central and Eastern Europe,2008,Albania,511.10426730000000
+987,Albania,ALB,5.49,76.22,Central and Eastern Europe,2009,Albania,540.76887208
+1233,Albania,ALB,5.27,76.56,Central and Eastern Europe,2010,Albania,497.92833308
+1479,Albania,ALB,5.87,76.91,Central and Eastern Europe,2011,Albania,554.48411738
+1725,Albania,ALB,5.51,77.25,Central and Eastern Europe,2012,Albania,544.00617177
+1971,Albania,ALB,4.55,77.55,Central and Eastern Europe,2013,Albania,564.06596489
+2217,Albania,ALB,4.81,77.81,Central and Eastern Europe,2014,Albania,614.53594606
+2463,Albania,ALB,4.61,78.03,Central and Eastern Europe,2015,Albania,
+2709,Albania,ALB,4.51,78.19,Central and Eastern Europe,2016,Albania,
+2955,Albania,ALB,4.64,78.33,Central and Eastern Europe,2017,Albania,
+3201,Albania,ALB,5.0,78.46,Central and Eastern Europe,2018,Albania,
+1,Algeria,DZA,,,Middle East and Northern Africa,2005,Algeria,355.14001347
+247,Algeria,DZA,,,Middle East and Northern Africa,2006,Algeria,380.56748693
+493,Algeria,DZA,,,Middle East and Northern Africa,2007,Algeria,453.24224240000000
+739,Algeria,DZA,,,Middle East and Northern Africa,2008,Algeria,510.13441542
+985,Algeria,DZA,,,Middle East and Northern Africa,2009,Algeria,654.9774122
+1231,Algeria,DZA,5.46,74.94,Middle East and Northern Africa,2010,Algeria,644.2558833000000
+1477,Algeria,DZA,5.32,75.2,Middle East and Northern Africa,2011,Algeria,686.21865915
+1723,Algeria,DZA,5.6,75.44,Middle East and Northern Africa,2012,Algeria,821.33888535
+1969,Algeria,DZA,,,Middle East and Northern Africa,2013,Algeria,858.86035635
+2215,Algeria,DZA,6.35,75.88,Middle East and Northern Africa,2014,Algeria,932.10028378
+2461,Algeria,DZA,,,Middle East and Northern Africa,2015,Algeria,
+2707,Algeria,DZA,5.34,76.3,Middle East and Northern Africa,2016,Algeria,
+2953,Algeria,DZA,5.25,76.5,Middle East and Northern Africa,2017,Algeria,
+3199,Algeria,DZA,5.04,76.69,Middle East and Northern Africa,2018,Algeria,
+5,Angola,,,,Sub-Saharan Africa,2005,Angola,157.52116297
+251,Angola,,,,Sub-Saharan Africa,2006,Angola,209.61483939
+497,Angola,,,,Sub-Saharan Africa,2007,Angola,189.90186908
+743,Angola,,,,Sub-Saharan Africa,2008,Angola,242.15426374
+989,Angola,,,,Sub-Saharan Africa,2009,Angola,274.73451017
+1235,Angola,,,,Sub-Saharan Africa,2010,Angola,215.70576571
+1481,Angola,,5.59,56.33,Sub-Saharan Africa,2011,Angola,220.50028242
+1727,Angola,,4.36,57.24,Sub-Saharan Africa,2012,Angola,223.24452883
+1973,Angola,,3.94,58.05,Sub-Saharan Africa,2013,Angola,301.98914889
+2219,Angola,,3.79,58.78,Sub-Saharan Africa,2014,Angola,239.01023293
+2465,Angola,,,,Sub-Saharan Africa,2015,Angola,
+2711,Angola,,,,Sub-Saharan Africa,2016,Angola,
+2957,Angola,,,,Sub-Saharan Africa,2017,Angola,
+3203,Angola,,,,Sub-Saharan Africa,2018,Angola,
+7,Argentina,ARG,,,Latin America and Caribbean,2005,Argentina,891.68327477
+253,Argentina,ARG,6.31,74.62,Latin America and Caribbean,2006,Argentina,979.1829161
+499,Argentina,ARG,6.07,74.79,Latin America and Caribbean,2007,Argentina,1077.79078875
+745,Argentina,ARG,5.96,74.95,Latin America and Caribbean,2008,Argentina,1174.27091414
+991,Argentina,ARG,6.42,75.12,Latin America and Caribbean,2009,Argentina,1345.34548365
+1237,Argentina,ARG,6.44,75.28,Latin America and Caribbean,2010,Argentina,1284.83146837
+1483,Argentina,ARG,6.78,75.44,Latin America and Caribbean,2011,Argentina,1227.33751709
+1729,Argentina,ARG,6.47,75.6,Latin America and Caribbean,2012,Argentina,1133.03958846
+1975,Argentina,ARG,6.58,75.76,Latin America and Caribbean,2013,Argentina,1174.48541548
+2221,Argentina,ARG,6.67,75.91,Latin America and Caribbean,2014,Argentina,1137.24342289
+2467,Argentina,ARG,6.7,76.07,Latin America and Caribbean,2015,Argentina,
+2713,Argentina,ARG,6.43,76.22,Latin America and Caribbean,2016,Argentina,
+2959,Argentina,ARG,6.04,76.37,Latin America and Caribbean,2017,Argentina,
+3205,Argentina,ARG,5.79,76.52,Latin America and Caribbean,2018,Argentina,
+4,Armenia,ARM,,,Central and Eastern Europe,2005,Armenia,247.70259865
+250,Armenia,ARM,4.29,72.72,Central and Eastern Europe,2006,Armenia,252.97077094
+496,Armenia,ARM,4.88,72.82,Central and Eastern Europe,2007,Armenia,279.36320953
+742,Armenia,ARM,4.65,72.95,Central and Eastern Europe,2008,Armenia,269.67263745
+988,Armenia,ARM,4.18,73.12,Central and Eastern Europe,2009,Armenia,279.91462671
+1234,Armenia,ARM,4.37,73.33,Central and Eastern Europe,2010,Armenia,290.90189878
+1480,Armenia,ARM,4.26,73.57,Central and Eastern Europe,2011,Armenia,252.65042296
+1726,Armenia,ARM,4.32,73.82,Central and Eastern Europe,2012,Armenia,331.61037352
+1972,Armenia,ARM,4.28,74.06,Central and Eastern Europe,2013,Armenia,352.25600041
+2218,Armenia,ARM,4.45,74.27,Central and Eastern Europe,2014,Armenia,362.12527877
+2464,Armenia,ARM,4.35,74.47,Central and Eastern Europe,2015,Armenia,
+2710,Armenia,ARM,4.33,74.64,Central and Eastern Europe,2016,Armenia,
+2956,Armenia,ARM,4.29,74.8,Central and Eastern Europe,2017,Armenia,
+3202,Armenia,ARM,5.06,74.94,Central and Eastern Europe,2018,Armenia,
+8,Australia,AUS,7.34,80.95,Australia and New Zealand,2005,Australia,3031.4106774
+254,Australia,AUS,,,Australia and New Zealand,2006,Australia,3235.02049338
+500,Australia,AUS,7.29,81.38,Australia and New Zealand,2007,Australia,3413.33860868
+746,Australia,AUS,7.25,81.58,Australia and New Zealand,2008,Australia,3554.9535395000000
+992,Australia,AUS,,,Australia and New Zealand,2009,Australia,3782.28504921
+1238,Australia,AUS,7.45,81.94,Australia and New Zealand,2010,Australia,3857.73005222
+1484,Australia,AUS,7.41,82.12,Australia and New Zealand,2011,Australia,4085.86302316
+1730,Australia,AUS,7.2,82.29,Australia and New Zealand,2012,Australia,4151.81952634
+1976,Australia,AUS,7.36,82.46,Australia and New Zealand,2013,Australia,4259.0966552
+2222,Australia,AUS,7.29,82.63,Australia and New Zealand,2014,Australia,4357.26078332
+2468,Australia,AUS,7.31,82.79,Australia and New Zealand,2015,Australia,
+2714,Australia,AUS,7.25,82.96,Australia and New Zealand,2016,Australia,
+2960,Australia,AUS,7.26,83.12,Australia and New Zealand,2017,Australia,
+3206,Australia,AUS,7.18,83.28,Australia and New Zealand,2018,Australia,
+56,Austria,AUT,,,Western Europe,2005,Austria,3552.92090518
+302,Austria,AUT,7.12,79.81,Western Europe,2006,Austria,3795.1658391
+548,Austria,AUT,,,Western Europe,2007,Austria,3967.36761796
+794,Austria,AUT,7.18,80.25,Western Europe,2008,Austria,4233.74810115
+1040,Austria,AUT,,,Western Europe,2009,Austria,4394.75277765
+1286,Austria,AUT,7.3,80.62,Western Europe,2010,Austria,4530.80687063
+1532,Austria,AUT,7.47,80.78,Western Europe,2011,Austria,4676.91087143
+1778,Austria,AUT,7.4,80.91,Western Europe,2012,Austria,4862.86902098
+2024,Austria,AUT,7.5,81.01,Western Europe,2013,Austria,4889.1460126
+2270,Austria,AUT,6.95,81.1,Western Europe,2014,Austria,5038.8816446
+2516,Austria,AUT,7.08,81.18,Western Europe,2015,Austria,
+2762,Austria,AUT,7.05,81.26,Western Europe,2016,Austria,
+3008,Austria,AUT,7.29,81.34,Western Europe,2017,Austria,
+3254,Austria,AUT,7.4,81.43,Western Europe,2018,Austria,
+2,Azerbaijan,AZE,,,Central and Eastern Europe,2005,Azerbaijan,552.45940566
+248,Azerbaijan,AZE,4.73,69.26,Central and Eastern Europe,2006,Azerbaijan,593.89306586
+494,Azerbaijan,AZE,4.57,69.75,Central and Eastern Europe,2007,Azerbaijan,622.53552419
+740,Azerbaijan,AZE,4.82,70.2,Central and Eastern Europe,2008,Azerbaijan,596.4411546
+986,Azerbaijan,AZE,4.57,70.6,Central and Eastern Europe,2009,Azerbaijan,868.50075337
+1232,Azerbaijan,AZE,4.22,70.94,Central and Eastern Europe,2010,Azerbaijan,829.34077249
+1478,Azerbaijan,AZE,4.68,71.23,Central and Eastern Europe,2011,Azerbaijan,784.52161049
+1724,Azerbaijan,AZE,4.91,71.51,Central and Eastern Europe,2012,Azerbaijan,873.87745701
+1970,Azerbaijan,AZE,5.48,71.77,Central and Eastern Europe,2013,Azerbaijan,948.9511
+2216,Azerbaijan,AZE,5.25,72.02,Central and Eastern Europe,2014,Azerbaijan,1047.30059776
+2462,Azerbaijan,AZE,5.15,72.27,Central and Eastern Europe,2015,Azerbaijan,
+2708,Azerbaijan,AZE,5.3,72.49,Central and Eastern Europe,2016,Azerbaijan,
+2954,Azerbaijan,AZE,5.15,72.69,Central and Eastern Europe,2017,Azerbaijan,
+3200,Azerbaijan,AZE,5.17,72.86,Central and Eastern Europe,2018,Azerbaijan,
+9,Bahrain,BHR,,,Middle East and Northern Africa,2005,Bahrain,1255.98043273
+255,Bahrain,BHR,,,Middle East and Northern Africa,2006,Bahrain,1237.48021725
+501,Bahrain,BHR,,,Middle East and Northern Africa,2007,Bahrain,1261.22790079
+747,Bahrain,BHR,,,Middle East and Northern Africa,2008,Bahrain,1294.13156212
+993,Bahrain,BHR,5.7,75.91,Middle East and Northern Africa,2009,Bahrain,1489.73294361
+1239,Bahrain,BHR,5.94,76.06,Middle East and Northern Africa,2010,Bahrain,1434.09444061
+1485,Bahrain,BHR,4.82,76.2,Middle East and Northern Africa,2011,Bahrain,1349.78414613
+1731,Bahrain,BHR,5.03,76.34,Middle East and Northern Africa,2012,Bahrain,1788.86838305
+1977,Bahrain,BHR,6.69,76.48,Middle East and Northern Africa,2013,Bahrain,2028.71065914
+2223,Bahrain,BHR,6.17,76.62,Middle East and Northern Africa,2014,Bahrain,2272.89590495
+2469,Bahrain,BHR,6.01,76.76,Middle East and Northern Africa,2015,Bahrain,
+2715,Bahrain,BHR,6.17,76.9,Middle East and Northern Africa,2016,Bahrain,
+2961,Bahrain,BHR,6.23,77.03,Middle East and Northern Africa,2017,Bahrain,
+3207,Bahrain,BHR,,,Middle East and Northern Africa,2018,Bahrain,
+13,Bangladesh,BGD,,,Southern Asia,2005,Bangladesh,46.16724735
+259,Bangladesh,BGD,4.32,68.21,Southern Asia,2006,Bangladesh,52.31747093
+505,Bangladesh,BGD,4.61,68.65,Southern Asia,2007,Bangladesh,56.86858763
+751,Bangladesh,BGD,5.05,69.07,Southern Asia,2008,Bangladesh,61.816176300000000
+997,Bangladesh,BGD,5.08,69.48,Southern Asia,2009,Bangladesh,66.13961412
+1243,Bangladesh,BGD,4.86,69.88,Southern Asia,2010,Bangladesh,73.57809255
+1489,Bangladesh,BGD,4.99,70.26,Southern Asia,2011,Bangladesh,81.40056421
+1735,Bangladesh,BGD,4.72,70.61,Southern Asia,2012,Bangladesh,85.14951446
+1981,Bangladesh,BGD,4.66,70.93,Southern Asia,2013,Bangladesh,84.68115871
+2227,Bangladesh,BGD,4.64,71.23,Southern Asia,2014,Bangladesh,88.07585743
+2473,Bangladesh,BGD,4.63,71.51,Southern Asia,2015,Bangladesh,
+2719,Bangladesh,BGD,4.56,71.78,Southern Asia,2016,Bangladesh,
+2965,Bangladesh,BGD,4.31,72.05,Southern Asia,2017,Bangladesh,
+3211,Bangladesh,BGD,4.5,72.32,Southern Asia,2018,Bangladesh,
+101,Belarus,BLR,,,Central and Eastern Europe,2005,Belarus,666.90750464
+347,Belarus,BLR,5.66,68.68,Central and Eastern Europe,2006,Belarus,699.15824451
+593,Belarus,BLR,5.62,69.11,Central and Eastern Europe,2007,Belarus,795.07164053
+839,Belarus,BLR,5.46,69.62,Central and Eastern Europe,2008,Belarus,828.12806718
+1085,Belarus,BLR,5.56,70.19,Central and Eastern Europe,2009,Belarus,857.07966989
+1331,Belarus,BLR,5.53,70.81,Central and Eastern Europe,2010,Belarus,854.34902421
+1577,Belarus,BLR,5.23,71.44,Central and Eastern Europe,2011,Belarus,816.23004532
+1823,Belarus,BLR,5.75,72.07,Central and Eastern Europe,2012,Belarus,859.48864543
+2069,Belarus,BLR,5.88,72.66,Central and Eastern Europe,2013,Belarus,1068.2292154
+2315,Belarus,BLR,5.81,73.19,Central and Eastern Europe,2014,Belarus,1030.99241079
+2561,Belarus,BLR,5.72,73.65,Central and Eastern Europe,2015,Belarus,
+2807,Belarus,BLR,5.18,74.03,Central and Eastern Europe,2016,Belarus,
+3053,Belarus,BLR,5.55,74.34,Central and Eastern Europe,2017,Belarus,
+3299,Belarus,BLR,5.23,74.59,Central and Eastern Europe,2018,Belarus,
+128,Belgium,BEL,7.26,78.97,Western Europe,2005,Belgium,2985.25359178
+374,Belgium,BEL,,,Western Europe,2006,Belgium,3152.30847865
+620,Belgium,BEL,7.22,79.44,Western Europe,2007,Belgium,3310.3392845
+866,Belgium,BEL,7.12,79.66,Western Europe,2008,Belgium,3568.45399812
+1112,Belgium,BEL,,,Western Europe,2009,Belgium,3837.04337538
+1358,Belgium,BEL,6.85,80.07,Western Europe,2010,Belgium,3906.65289211
+1604,Belgium,BEL,7.11,80.26,Western Europe,2011,Belgium,4166.2792242
+1850,Belgium,BEL,6.94,80.44,Western Europe,2012,Belgium,4237.73149263
+2096,Belgium,BEL,7.1,80.62,Western Europe,2013,Belgium,4264.18737901
+2342,Belgium,BEL,6.86,80.8,Western Europe,2014,Belgium,4391.59514431
+2588,Belgium,BEL,6.9,80.97,Western Europe,2015,Belgium,
+2834,Belgium,BEL,6.95,81.14,Western Europe,2016,Belgium,
+3080,Belgium,BEL,6.93,81.31,Western Europe,2017,Belgium,
+3326,Belgium,BEL,6.89,81.47,Western Europe,2018,Belgium,
+18,Benin,BEN,,,Sub-Saharan Africa,2005,Benin,66.76049374
+264,Benin,BEN,3.33,57.82,Sub-Saharan Africa,2006,Benin,69.42651728
+510,Benin,BEN,,,Sub-Saharan Africa,2007,Benin,69.19661012
+756,Benin,BEN,3.67,58.65,Sub-Saharan Africa,2008,Benin,66.35790844
+1002,Benin,BEN,,,Sub-Saharan Africa,2009,Benin,70.92418657
+1248,Benin,BEN,,,Sub-Saharan Africa,2010,Benin,79.34247826
+1494,Benin,BEN,3.87,59.59,Sub-Saharan Africa,2011,Benin,88.22889863
+1740,Benin,BEN,3.19,59.84,Sub-Saharan Africa,2012,Benin,83.3296218
+1986,Benin,BEN,3.48,60.09,Sub-Saharan Africa,2013,Benin,82.24058643
+2232,Benin,BEN,3.35,60.34,Sub-Saharan Africa,2014,Benin,85.60836075
+2478,Benin,BEN,3.62,60.61,Sub-Saharan Africa,2015,Benin,
+2724,Benin,BEN,4.01,60.88,Sub-Saharan Africa,2016,Benin,
+2970,Benin,BEN,4.85,61.17,Sub-Saharan Africa,2017,Benin,
+3216,Benin,BEN,5.82,61.47,Sub-Saharan Africa,2018,Benin,
+16,Bolivia,BOL,,,Latin America and Caribbean,2005,Bolivia,240.26563492
+262,Bolivia,BOL,5.37,65.85,Latin America and Caribbean,2006,Bolivia,233.97026355
+508,Bolivia,BOL,5.63,66.4,Latin America and Caribbean,2007,Bolivia,236.10065193
+754,Bolivia,BOL,5.3,66.94,Latin America and Caribbean,2008,Bolivia,253.45181235
+1000,Bolivia,BOL,6.09,67.48,Latin America and Caribbean,2009,Bolivia,299.30845686
+1246,Bolivia,BOL,5.78,68.01,Latin America and Caribbean,2010,Bolivia,293.43969019
+1492,Bolivia,BOL,5.78,68.52,Latin America and Caribbean,2011,Bolivia,312.75688768
+1738,Bolivia,BOL,6.02,69.01,Latin America and Caribbean,2012,Bolivia,333.49744731
+1984,Bolivia,BOL,5.77,69.47,Latin America and Caribbean,2013,Bolivia,382.11403845
+2230,Bolivia,BOL,5.86,69.89,Latin America and Caribbean,2014,Bolivia,427.41129648
+2476,Bolivia,BOL,5.83,70.28,Latin America and Caribbean,2015,Bolivia,
+2722,Bolivia,BOL,5.77,70.63,Latin America and Caribbean,2016,Bolivia,
+2968,Bolivia,BOL,5.65,70.94,Latin America and Caribbean,2017,Bolivia,
+3214,Bolivia,BOL,5.92,71.24,Latin America and Caribbean,2018,Bolivia,
+15,Bosnia and Herzegovina,BIH,,,Central and Eastern Europe,2005,Bosnia and Herzegovina,544.8289626000000
+261,Bosnia and Herzegovina,BIH,,,Central and Eastern Europe,2006,Bosnia and Herzegovina,607.57346525
+507,Bosnia and Herzegovina,BIH,4.9,75.5,Central and Eastern Europe,2007,Bosnia and Herzegovina,671.78145567
+753,Bosnia and Herzegovina,BIH,,,Central and Eastern Europe,2008,Bosnia and Herzegovina,754.88172218
+999,Bosnia and Herzegovina,BIH,4.96,75.84,Central and Eastern Europe,2009,Bosnia and Herzegovina,837.70526387
+1245,Bosnia and Herzegovina,BIH,4.67,76.03,Central and Eastern Europe,2010,Bosnia and Herzegovina,855.83636951
+1491,Bosnia and Herzegovina,BIH,4.99,76.22,Central and Eastern Europe,2011,Bosnia and Herzegovina,915.10512264
+1737,Bosnia and Herzegovina,BIH,4.77,76.4,Central and Eastern Europe,2012,Bosnia and Herzegovina,947.94365204
+1983,Bosnia and Herzegovina,BIH,5.12,76.57,Central and Eastern Europe,2013,Bosnia and Herzegovina,919.17333468
+2229,Bosnia and Herzegovina,BIH,5.25,76.72,Central and Eastern Europe,2014,Bosnia and Herzegovina,957.39697911
+2475,Bosnia and Herzegovina,BIH,5.12,76.86,Central and Eastern Europe,2015,Bosnia and Herzegovina,
+2721,Bosnia and Herzegovina,BIH,5.18,77.0,Central and Eastern Europe,2016,Bosnia and Herzegovina,
+2967,Bosnia and Herzegovina,BIH,5.09,77.13,Central and Eastern Europe,2017,Bosnia and Herzegovina,
+3213,Bosnia and Herzegovina,BIH,5.89,77.26,Central and Eastern Europe,2018,Bosnia and Herzegovina,
+181,Botswana,BWA,,,Sub-Saharan Africa,2005,Botswana,577.47120501
+427,Botswana,BWA,4.74,53.44,Sub-Saharan Africa,2006,Botswana,555.93580781
+673,Botswana,BWA,,,Sub-Saharan Africa,2007,Botswana,580.19530778
+919,Botswana,BWA,5.45,56.68,Sub-Saharan Africa,2008,Botswana,737.23760751
+1165,Botswana,BWA,,,Sub-Saharan Africa,2009,Botswana,750.47436969
+1411,Botswana,BWA,3.55,60.21,Sub-Saharan Africa,2010,Botswana,779.77471709
+1657,Botswana,BWA,3.52,61.91,Sub-Saharan Africa,2011,Botswana,697.86718154
+1903,Botswana,BWA,4.84,63.51,Sub-Saharan Africa,2012,Botswana,878.72492658
+2149,Botswana,BWA,4.13,64.98,Sub-Saharan Africa,2013,Botswana,893.1656896
+2395,Botswana,BWA,4.03,66.26,Sub-Saharan Africa,2014,Botswana,870.83699002
+2641,Botswana,BWA,3.76,67.34,Sub-Saharan Africa,2015,Botswana,
+2887,Botswana,BWA,3.5,68.18,Sub-Saharan Africa,2016,Botswana,
+3133,Botswana,BWA,3.5,68.81,Sub-Saharan Africa,2017,Botswana,
+3379,Botswana,BWA,3.46,69.28,Sub-Saharan Africa,2018,Botswana,
+20,Brazil,BRA,6.64,71.9,Latin America and Caribbean,2005,Brazil,899.49847608
+266,Brazil,BRA,,,Latin America and Caribbean,2006,Brazil,963.2155184000000
+512,Brazil,BRA,6.32,72.62,Latin America and Caribbean,2007,Brazil,1027.57281644
+758,Brazil,BRA,6.69,72.97,Latin America and Caribbean,2008,Brazil,1083.50078525
+1004,Brazil,BRA,7.0,73.3,Latin America and Caribbean,2009,Brazil,1132.27674853
+1250,Brazil,BRA,6.84,73.62,Latin America and Caribbean,2010,Brazil,1167.12589057
+1496,Brazil,BRA,7.04,73.92,Latin America and Caribbean,2011,Brazil,1199.84524264
+1742,Brazil,BRA,6.66,74.21,Latin America and Caribbean,2012,Brazil,1257.32766098
+1988,Brazil,BRA,7.14,74.48,Latin America and Caribbean,2013,Brazil,1334.09756925
+2234,Brazil,BRA,6.98,74.74,Latin America and Caribbean,2014,Brazil,1318.17208034
+2480,Brazil,BRA,6.55,74.99,Latin America and Caribbean,2015,Brazil,
+2726,Brazil,BRA,6.37,75.23,Latin America and Caribbean,2016,Brazil,
+2972,Brazil,BRA,6.33,75.46,Latin America and Caribbean,2017,Brazil,
+3218,Brazil,BRA,6.19,75.67,Latin America and Caribbean,2018,Brazil,
+21,Bulgaria,BGR,,,Central and Eastern Europe,2005,Bulgaria,721.59620038
+267,Bulgaria,BGR,,,Central and Eastern Europe,2006,Bulgaria,770.98797374
+513,Bulgaria,BGR,3.84,73.08,Central and Eastern Europe,2007,Bulgaria,850.88680704
+759,Bulgaria,BGR,,,Central and Eastern Europe,2008,Bulgaria,984.08222324
+1005,Bulgaria,BGR,,,Central and Eastern Europe,2009,Bulgaria,1005.25147922
+1251,Bulgaria,BGR,3.91,73.72,Central and Eastern Europe,2010,Bulgaria,1088.29716005
+1497,Bulgaria,BGR,3.88,73.93,Central and Eastern Europe,2011,Bulgaria,1070.93941677
+1743,Bulgaria,BGR,4.22,74.13,Central and Eastern Europe,2012,Bulgaria,1131.18278924
+1989,Bulgaria,BGR,3.99,74.3,Central and Eastern Europe,2013,Bulgaria,1270.50973215
+2235,Bulgaria,BGR,4.44,74.45,Central and Eastern Europe,2014,Bulgaria,1398.87848798
+2481,Bulgaria,BGR,4.87,74.58,Central and Eastern Europe,2015,Bulgaria,
+2727,Bulgaria,BGR,4.84,74.7,Central and Eastern Europe,2016,Bulgaria,
+2973,Bulgaria,BGR,5.1,74.82,Central and Eastern Europe,2017,Bulgaria,
+3219,Bulgaria,BGR,5.1,74.93,Central and Eastern Europe,2018,Bulgaria,
+209,Burkina Faso,BFA,,,Sub-Saharan Africa,2005,Burkina Faso,75.3896944
+455,Burkina Faso,BFA,3.8,54.06,Sub-Saharan Africa,2006,Burkina Faso,76.27144834
+701,Burkina Faso,BFA,4.02,54.84,Sub-Saharan Africa,2007,Burkina Faso,81.26638036
+947,Burkina Faso,BFA,3.85,55.62,Sub-Saharan Africa,2008,Burkina Faso,88.02503815
+1193,Burkina Faso,BFA,,,Sub-Saharan Africa,2009,Burkina Faso,96.90349801
+1439,Burkina Faso,BFA,4.04,57.1,Sub-Saharan Africa,2010,Burkina Faso,99.9191233
+1685,Burkina Faso,BFA,4.79,57.76,Sub-Saharan Africa,2011,Burkina Faso,76.01352537
+1931,Burkina Faso,BFA,3.96,58.37,Sub-Saharan Africa,2012,Burkina Faso,82.40361559
+2177,Burkina Faso,BFA,3.33,58.94,Sub-Saharan Africa,2013,Burkina Faso,96.72003406
+2423,Burkina Faso,BFA,3.48,59.45,Sub-Saharan Africa,2014,Burkina Faso,82.30537688
+2669,Burkina Faso,BFA,4.42,59.92,Sub-Saharan Africa,2015,Burkina Faso,
+2915,Burkina Faso,BFA,4.21,60.35,Sub-Saharan Africa,2016,Burkina Faso,
+3161,Burkina Faso,BFA,4.65,60.77,Sub-Saharan Africa,2017,Burkina Faso,
+3407,Burkina Faso,BFA,4.93,61.17,Sub-Saharan Africa,2018,Burkina Faso,
+28,Burundi,,,,Sub-Saharan Africa,2005,Burundi,59.34786042
+274,Burundi,,,,Sub-Saharan Africa,2006,Burundi,72.70312899
+520,Burundi,,,,Sub-Saharan Africa,2007,Burundi,65.8684821
+766,Burundi,,3.56,55.72,Sub-Saharan Africa,2008,Burundi,53.37726263
+1012,Burundi,,3.79,56.49,Sub-Saharan Africa,2009,Burundi,48.57511125
+1258,Burundi,,,,Sub-Saharan Africa,2010,Burundi,61.32775752
+1504,Burundi,,3.71,57.92,Sub-Saharan Africa,2011,Burundi,61.53007119
+1750,Burundi,,,,Sub-Saharan Africa,2012,Burundi,60.80011299
+1996,Burundi,,,,Sub-Saharan Africa,2013,Burundi,60.26275697
+2242,Burundi,,2.9,59.66,Sub-Saharan Africa,2014,Burundi,58.01861945
+2488,Burundi,,,,Sub-Saharan Africa,2015,Burundi,
+2734,Burundi,,,,Sub-Saharan Africa,2016,Burundi,
+2980,Burundi,,,,Sub-Saharan Africa,2017,Burundi,
+3226,Burundi,,3.78,61.25,Sub-Saharan Africa,2018,Burundi,
+24,Cambodia,KHM,,,Southeastern Asia,2005,Cambodia,102.03902716
+270,Cambodia,KHM,3.57,63.93,Southeastern Asia,2006,Cambodia,87.98498475
+516,Cambodia,KHM,4.16,64.7,Southeastern Asia,2007,Cambodia,82.01514141
+762,Cambodia,KHM,4.46,65.39,Southeastern Asia,2008,Cambodia,130.34969165
+1008,Cambodia,KHM,4.11,66.01,Southeastern Asia,2009,Cambodia,148.16601701
+1254,Cambodia,KHM,4.14,66.56,Southeastern Asia,2010,Cambodia,146.5850061
+1500,Cambodia,KHM,4.16,67.04,Southeastern Asia,2011,Cambodia,149.42168973
+1746,Cambodia,KHM,3.9,67.48,Southeastern Asia,2012,Cambodia,177.61332658
+1992,Cambodia,KHM,3.67,67.89,Southeastern Asia,2013,Cambodia,182.60314296
+2238,Cambodia,KHM,3.88,68.27,Southeastern Asia,2014,Cambodia,183.23122805
+2484,Cambodia,KHM,4.16,68.64,Southeastern Asia,2015,Cambodia,
+2730,Cambodia,KHM,4.46,68.98,Southeastern Asia,2016,Cambodia,
+2976,Cambodia,KHM,4.59,69.29,Southeastern Asia,2017,Cambodia,
+3222,Cambodia,KHM,5.12,69.57,Southeastern Asia,2018,Cambodia,
+34,Cameroon,CMR,,,Sub-Saharan Africa,2005,Cameroon,107.19515016
+280,Cameroon,CMR,3.85,53.22,Sub-Saharan Africa,2006,Cameroon,109.63166278
+526,Cameroon,CMR,4.35,53.68,Sub-Saharan Africa,2007,Cameroon,115.00514745
+772,Cameroon,CMR,4.29,54.15,Sub-Saharan Africa,2008,Cameroon,127.97963476
+1018,Cameroon,CMR,4.74,54.63,Sub-Saharan Africa,2009,Cameroon,125.51292404
+1264,Cameroon,CMR,4.55,55.1,Sub-Saharan Africa,2010,Cameroon,133.33019941
+1510,Cameroon,CMR,4.43,55.58,Sub-Saharan Africa,2011,Cameroon,103.5778214
+1756,Cameroon,CMR,4.24,56.07,Sub-Saharan Africa,2012,Cameroon,117.76815168
+2002,Cameroon,CMR,4.27,56.58,Sub-Saharan Africa,2013,Cameroon,121.73181916
+2248,Cameroon,CMR,4.24,57.08,Sub-Saharan Africa,2014,Cameroon,121.9234186
+2494,Cameroon,CMR,5.04,57.58,Sub-Saharan Africa,2015,Cameroon,
+2740,Cameroon,CMR,4.82,58.06,Sub-Saharan Africa,2016,Cameroon,
+2986,Cameroon,CMR,5.07,58.51,Sub-Saharan Africa,2017,Cameroon,
+3232,Cameroon,CMR,5.25,58.92,Sub-Saharan Africa,2018,Cameroon,
+23,Canada,CAN,7.42,80.24,North America,2005,Canada,3469.04254357
+269,Canada,CAN,,,North America,2006,Canada,3707.94286982
+515,Canada,CAN,7.48,80.68,North America,2007,Canada,3878.02097862
+761,Canada,CAN,7.49,80.9,North America,2008,Canada,4047.28296957
+1007,Canada,CAN,7.49,81.11,North America,2009,Canada,4351.07853218
+1253,Canada,CAN,7.65,81.32,North America,2010,Canada,4512.82442096
+1499,Canada,CAN,7.43,81.51,North America,2011,Canada,4521.40897553
+1745,Canada,CAN,7.42,81.67,North America,2012,Canada,4585.4208766
+1991,Canada,CAN,7.59,81.81,North America,2013,Canada,4623.25002831
+2237,Canada,CAN,7.3,81.93,North America,2014,Canada,4640.94649671
+2483,Canada,CAN,7.41,82.03,North America,2015,Canada,
+2729,Canada,CAN,7.24,82.12,North America,2016,Canada,
+2975,Canada,CAN,7.41,82.21,North America,2017,Canada,
+3221,Canada,CAN,7.18,82.32,North America,2018,Canada,
+39,Central African Republic,,,,,2005,Central African Republic,31.83783487
+285,Central African Republic,,,,,2006,Central African Republic,31.07325843
+531,Central African Republic,,4.16,45.64,,2007,Central African Republic,33.23035268
+777,Central African Republic,,,,,2008,Central African Republic,36.13393865
+1023,Central African Republic,,,,,2009,Central African Republic,30.19576783
+1269,Central African Republic,,3.57,47.31,,2010,Central African Republic,33.67421824
+1515,Central African Republic,,3.68,47.95,,2011,Central African Republic,33.35862772
+1761,Central African Republic,,,,,2012,Central African Republic,33.65525446
+2007,Central African Republic,,,,,2013,Central African Republic,22.59951549
+2253,Central African Republic,,,,,2014,Central African Republic,24.95621963
+2499,Central African Republic,,,,,2015,Central African Republic,
+2745,Central African Republic,,2.69,51.59,,2016,Central African Republic,
+2991,Central African Republic,,3.48,52.24,,2017,Central African Republic,
+3237,Central African Republic,,,,,2018,Central African Republic,
+35,Chad,TCD,,,,2005,Chad,62.43452782
+281,Chad,TCD,3.43,48.91,Sub-Saharan Africa,2006,Chad,53.14427558
+527,Chad,TCD,4.14,49.34,Sub-Saharan Africa,2007,Chad,54.88388467
+773,Chad,TCD,4.63,49.82,Sub-Saharan Africa,2008,Chad,48.63788051
+1019,Chad,TCD,3.64,50.35,Sub-Saharan Africa,2009,Chad,56.04397874
+1265,Chad,TCD,3.74,50.89,Sub-Saharan Africa,2010,Chad,55.57835729
+1511,Chad,TCD,4.39,51.42,Sub-Saharan Africa,2011,Chad,59.01292561
+1757,Chad,TCD,4.03,51.93,Sub-Saharan Africa,2012,Chad,59.90136056
+2003,Chad,TCD,3.51,52.39,Sub-Saharan Africa,2013,Chad,70.79693522
+2249,Chad,TCD,3.46,52.79,Sub-Saharan Africa,2014,Chad,79.01538673
+2495,Chad,TCD,4.32,53.14,Sub-Saharan Africa,2015,Chad,
+2741,Chad,TCD,4.03,53.44,Sub-Saharan Africa,2016,Chad,
+2987,Chad,TCD,4.56,53.71,Sub-Saharan Africa,2017,Chad,
+3233,Chad,TCD,4.49,53.98,Sub-Saharan Africa,2018,Chad,
+32,Chile,CHL,,,Latin America and Caribbean,2005,Chile,853.65775375
+278,Chile,CHL,6.06,77.86,Latin America and Caribbean,2006,Chile,962.67797115
+524,Chile,CHL,5.7,78.1,Latin America and Caribbean,2007,Chile,1065.51168733
+770,Chile,CHL,5.79,78.33,Latin America and Caribbean,2008,Chile,1126.92966797
+1016,Chile,CHL,6.49,78.56,Latin America and Caribbean,2009,Chile,1198.68384959
+1262,Chile,CHL,6.64,78.78,Latin America and Caribbean,2010,Chile,1272.46246986
+1508,Chile,CHL,6.53,78.99,Latin America and Caribbean,2011,Chile,1422.05591499
+1754,Chile,CHL,6.6,79.18,Latin America and Caribbean,2012,Chile,1538.74273643
+2000,Chile,CHL,6.74,79.35,Latin America and Caribbean,2013,Chile,1663.51342491
+2246,Chile,CHL,6.84,79.5,Latin America and Caribbean,2014,Chile,1749.36324082
+2492,Chile,CHL,6.53,79.65,Latin America and Caribbean,2015,Chile,
+2738,Chile,CHL,6.58,79.78,Latin America and Caribbean,2016,Chile,
+2984,Chile,CHL,6.32,79.91,Latin America and Caribbean,2017,Chile,
+3230,Chile,CHL,6.44,80.04,Latin America and Caribbean,2018,Chile,
+29,China,CHN,,,Eastern Asia,2005,China,235.07105132
+275,China,CHN,4.56,73.27,Eastern Asia,2006,China,263.64802398
+521,China,CHN,4.86,73.55,Eastern Asia,2007,China,293.56612766
+767,China,CHN,4.85,73.83,Eastern Asia,2008,China,346.84353482
+1013,China,CHN,4.45,74.12,Eastern Asia,2009,China,419.94799230000000
+1259,China,CHN,4.65,74.41,Eastern Asia,2010,China,450.33823673
+1505,China,CHN,5.04,74.71,Eastern Asia,2011,China,515.14030146
+1751,China,CHN,5.09,75.01,Eastern Asia,2012,China,588.3594347
+1997,China,CHN,5.24,75.32,Eastern Asia,2013,China,654.36933977
+2243,China,CHN,5.2,75.63,Eastern Asia,2014,China,730.51780314
+2489,China,CHN,5.3,75.93,Eastern Asia,2015,China,
+2735,China,CHN,5.32,76.21,Eastern Asia,2016,China,
+2981,China,CHN,5.1,76.47,Eastern Asia,2017,China,
+3227,China,CHN,5.13,76.7,Eastern Asia,2018,China,
+37,Colombia,COL,,,Latin America and Caribbean,2005,Colombia,479.71084551
+283,Colombia,COL,6.02,74.5,Latin America and Caribbean,2006,Colombia,547.44596072
+529,Colombia,COL,6.14,74.73,Latin America and Caribbean,2007,Colombia,607.25822941
+775,Colombia,COL,6.17,74.96,Latin America and Caribbean,2008,Colombia,670.74776255
+1021,Colombia,COL,6.27,75.19,Latin America and Caribbean,2009,Colombia,719.48735936
+1267,Colombia,COL,6.41,75.42,Latin America and Caribbean,2010,Colombia,721.70375787
+1513,Colombia,COL,6.46,75.66,Latin America and Caribbean,2011,Colombia,762.88529332
+1759,Colombia,COL,6.37,75.88,Latin America and Caribbean,2012,Colombia,835.68539107
+2005,Colombia,COL,6.61,76.1,Latin America and Caribbean,2013,Colombia,869.85664056
+2251,Colombia,COL,6.45,76.32,Latin America and Caribbean,2014,Colombia,961.88797029
+2497,Colombia,COL,6.39,76.53,Latin America and Caribbean,2015,Colombia,
+2743,Colombia,COL,6.23,76.73,Latin America and Caribbean,2016,Colombia,
+2989,Colombia,COL,6.16,76.92,Latin America and Caribbean,2017,Colombia,
+3235,Colombia,COL,5.98,77.11,Latin America and Caribbean,2018,Colombia,
+36,Comoros,,,,,2005,Comoros,55.91710481
+282,Comoros,,,,,2006,Comoros,61.15331749
+528,Comoros,,,,,2007,Comoros,66.61541360000000
+774,Comoros,,,,,2008,Comoros,69.2544968
+1020,Comoros,,3.48,61.48,,2009,Comoros,51.63718949
+1266,Comoros,,3.81,61.86,,2010,Comoros,79.5724738
+1512,Comoros,,3.84,62.24,,2011,Comoros,85.11685330000000
+1758,Comoros,,3.96,62.6,,2012,Comoros,101.522384
+2004,Comoros,,,,,2013,Comoros,95.32731087
+2250,Comoros,,,,,2014,Comoros,100.81611783
+2496,Comoros,,,,,2015,Comoros,
+2742,Comoros,,,,,2016,Comoros,
+2988,Comoros,,,,,2017,Comoros,
+3234,Comoros,,3.97,64.12,,2018,Comoros,
+26,Congo,COG,,,,2005,Congo,108.55239938
+272,Congo,COG,,,,2006,Congo,113.17955886
+518,Congo,COG,,,,2007,Congo,118.64923385
+764,Congo,COG,3.82,58.47,,2008,Congo,101.73486976
+1010,Congo,COG,,,,2009,Congo,116.12147846
+1256,Congo,COG,,,,2010,Congo,125.69650517
+1502,Congo,COG,4.51,60.78,,2011,Congo,157.15350501
+1748,Congo,COG,3.92,61.42,,2012,Congo,230.64481769
+1994,Congo,COG,3.95,62.02,,2013,Congo,302.59809425
+2240,Congo,COG,4.06,62.58,,2014,Congo,322.63336555
+2486,Congo,COG,4.69,63.1,,2015,Congo,
+2732,Congo,COG,4.12,63.56,,2016,Congo,
+2978,Congo,COG,4.88,63.95,,2017,Congo,
+3224,Congo,COG,5.49,64.29,,2018,Congo,
+38,Costa Rica,CRI,,,Latin America and Caribbean,2005,Costa Rica,745.43296098
+284,Costa Rica,CRI,7.08,78.24,Latin America and Caribbean,2006,Costa Rica,834.19133947
+530,Costa Rica,CRI,7.43,78.36,Latin America and Caribbean,2007,Costa Rica,1012.25265567
+776,Costa Rica,CRI,6.85,78.49,Latin America and Caribbean,2008,Costa Rica,1081.67483043
+1022,Costa Rica,CRI,7.61,78.63,Latin America and Caribbean,2009,Costa Rica,1145.26399013
+1268,Costa Rica,CRI,7.27,78.77,Latin America and Caribbean,2010,Costa Rica,1197.81235066
+1514,Costa Rica,CRI,7.23,78.92,Latin America and Caribbean,2011,Costa Rica,1271.84101337
+1760,Costa Rica,CRI,7.27,79.07,Latin America and Caribbean,2012,Costa Rica,1322.40118483
+2006,Costa Rica,CRI,7.16,79.23,Latin America and Caribbean,2013,Costa Rica,1359.43711511
+2252,Costa Rica,CRI,7.25,79.4,Latin America and Caribbean,2014,Costa Rica,1389.33691785
+2498,Costa Rica,CRI,6.85,79.56,Latin America and Caribbean,2015,Costa Rica,
+2744,Costa Rica,CRI,7.14,79.74,Latin America and Caribbean,2016,Costa Rica,
+2990,Costa Rica,CRI,7.23,79.91,Latin America and Caribbean,2017,Costa Rica,
+3236,Costa Rica,CRI,7.14,80.1,Latin America and Caribbean,2018,Costa Rica,
+86,Cote d'Ivoire,CIV,,,,2005,Cote d'Ivoire,130.17252563
+332,Cote d'Ivoire,CIV,,,,2006,Cote d'Ivoire,145.53252804
+578,Cote d'Ivoire,CIV,,,,2007,Cote d'Ivoire,161.06691863
+824,Cote d'Ivoire,CIV,,,,2008,Cote d'Ivoire,161.26178166
+1070,Cote d'Ivoire,CIV,4.2,52.31,,2009,Cote d'Ivoire,169.66543002
+1316,Cote d'Ivoire,CIV,,,,2010,Cote d'Ivoire,168.91862407
+1562,Cote d'Ivoire,CIV,,,,2011,Cote d'Ivoire,163.52480714
+1808,Cote d'Ivoire,CIV,,,,2012,Cote d'Ivoire,172.15842302
+2054,Cote d'Ivoire,CIV,3.74,54.91,,2013,Cote d'Ivoire,176.12666547
+2300,Cote d'Ivoire,CIV,3.57,55.51,,2014,Cote d'Ivoire,187.0199205
+2546,Cote d'Ivoire,CIV,4.45,56.06,,2015,Cote d'Ivoire,
+2792,Cote d'Ivoire,CIV,4.54,56.57,,2016,Cote d'Ivoire,
+3038,Cote d'Ivoire,CIV,5.04,57.02,,2017,Cote d'Ivoire,
+3284,Cote d'Ivoire,CIV,5.27,57.42,,2018,Cote d'Ivoire,
+79,Croatia,HRV,,,Central and Eastern Europe,2005,Croatia,1103.83464457
+325,Croatia,HRV,,,Central and Eastern Europe,2006,Croatia,1218.5305844
+571,Croatia,HRV,5.82,75.96,Central and Eastern Europe,2007,Croatia,1448.71081248
+817,Croatia,HRV,,,Central and Eastern Europe,2008,Croatia,1621.85872593
+1063,Croatia,HRV,5.43,76.52,Central and Eastern Europe,2009,Croatia,1630.49545604
+1309,Croatia,HRV,5.6,76.8,Central and Eastern Europe,2010,Croatia,1606.62998462
+1555,Croatia,HRV,5.39,77.06,Central and Eastern Europe,2011,Croatia,1601.23714741
+1801,Croatia,HRV,6.03,77.3,Central and Eastern Europe,2012,Croatia,1643.41053024
+2047,Croatia,HRV,5.89,77.52,Central and Eastern Europe,2013,Croatia,1666.05727215
+2293,Croatia,HRV,5.38,77.72,Central and Eastern Europe,2014,Croatia,1652.12229359
+2539,Croatia,HRV,5.21,77.89,Central and Eastern Europe,2015,Croatia,
+2785,Croatia,HRV,5.42,78.05,Central and Eastern Europe,2016,Croatia,
+3031,Croatia,HRV,5.34,78.2,Central and Eastern Europe,2017,Croatia,
+3277,Croatia,HRV,5.54,78.34,Central and Eastern Europe,2018,Croatia,
+43,Cyprus,CYP,,,Western Europe,2005,Cyprus,1599.97373517
+289,Cyprus,CYP,6.24,78.76,Western Europe,2006,Cyprus,1716.59446851
+535,Cyprus,CYP,,,Western Europe,2007,Cyprus,1780.14473407
+781,Cyprus,CYP,,,Western Europe,2008,Cyprus,2224.18944686
+1027,Cyprus,CYP,6.83,79.24,Western Europe,2009,Cyprus,2343.92185202
+1273,Cyprus,CYP,6.39,79.43,Western Europe,2010,Cyprus,2270.02064689
+1519,Cyprus,CYP,6.69,79.62,Western Europe,2011,Cyprus,2313.10418684
+1765,Cyprus,CYP,6.18,79.81,Western Europe,2012,Cyprus,2215.65822382
+2011,Cyprus,CYP,5.44,80.0,Western Europe,2013,Cyprus,2112.02125071
+2257,Cyprus,CYP,5.63,80.18,Western Europe,2014,Cyprus,2062.37405757
+2503,Cyprus,CYP,5.44,80.35,Western Europe,2015,Cyprus,
+2749,Cyprus,CYP,5.79,80.51,Western Europe,2016,Cyprus,
+2995,Cyprus,CYP,6.06,80.67,Western Europe,2017,Cyprus,
+3241,Cyprus,CYP,6.28,80.83,Western Europe,2018,Cyprus,
+57,Czech Republic,CZE,6.44,76.27,Central and Eastern Europe,2005,Czech Republic,1479.93172737
+303,Czech Republic,CZE,,,Central and Eastern Europe,2006,Czech Republic,1564.74530522
+549,Czech Republic,CZE,6.5,76.84,Central and Eastern Europe,2007,Czech Republic,1670.77141503
+795,Czech Republic,CZE,,,Central and Eastern Europe,2008,Czech Republic,1778.97652652
+1041,Czech Republic,CZE,,,Central and Eastern Europe,2009,Czech Republic,2035.30197116
+1287,Czech Republic,CZE,6.25,77.61,Central and Eastern Europe,2010,Czech Republic,1929.9186415
+1533,Czech Republic,CZE,6.33,77.84,Central and Eastern Europe,2011,Czech Republic,2041.37545556
+1779,Czech Republic,CZE,6.33,78.07,Central and Eastern Europe,2012,Czech Republic,2057.5888613000000
+2025,Czech Republic,CZE,6.7,78.28,Central and Eastern Europe,2013,Czech Republic,2064.43317578
+2271,Czech Republic,CZE,6.48,78.49,Central and Eastern Europe,2014,Czech Republic,2146.32088342
+2517,Czech Republic,CZE,6.61,78.69,Central and Eastern Europe,2015,Czech Republic,
+2763,Czech Republic,CZE,6.74,78.88,Central and Eastern Europe,2016,Czech Republic,
+3009,Czech Republic,CZE,6.79,79.06,Central and Eastern Europe,2017,Czech Republic,
+3255,Czech Republic,CZE,7.03,79.22,Central and Eastern Europe,2018,Czech Republic,
+44,Denmark,DNK,8.02,77.94,Western Europe,2005,Denmark,3248.01957278
+290,Denmark,DNK,,,Western Europe,2006,Denmark,3585.61282055
+536,Denmark,DNK,7.83,78.49,Western Europe,2007,Denmark,3774.79170231
+782,Denmark,DNK,7.97,78.79,Western Europe,2008,Denmark,4069.65315879
+1028,Denmark,DNK,7.68,79.11,Western Europe,2009,Denmark,4424.46079418
+1274,Denmark,DNK,7.77,79.42,Western Europe,2010,Denmark,4544.76453372
+1520,Denmark,DNK,7.79,79.7,Western Europe,2011,Denmark,4608.18814286
+1766,Denmark,DNK,7.52,79.96,Western Europe,2012,Denmark,4688.67364942
+2012,Denmark,DNK,7.59,80.17,Western Europe,2013,Denmark,4858.19955402
+2258,Denmark,DNK,7.51,80.34,Western Europe,2014,Denmark,4782.05951391
+2504,Denmark,DNK,7.51,80.47,Western Europe,2015,Denmark,
+2750,Denmark,DNK,7.56,80.58,Western Europe,2016,Denmark,
+2996,Denmark,DNK,7.59,80.68,Western Europe,2017,Denmark,
+3242,Denmark,DNK,7.65,80.78,Western Europe,2018,Denmark,
+47,Dominican Republic,DOM,,,Latin America and Caribbean,2005,Dominican Republic,336.64438475
+293,Dominican Republic,DOM,5.09,71.04,Latin America and Caribbean,2006,Dominican Republic,385.89104191
+539,Dominican Republic,DOM,5.08,71.3,Latin America and Caribbean,2007,Dominican Republic,423.64115074
+785,Dominican Republic,DOM,4.84,71.56,Latin America and Caribbean,2008,Dominican Republic,424.52786422
+1031,Dominican Republic,DOM,5.43,71.81,Latin America and Caribbean,2009,Dominican Republic,447.72871902
+1277,Dominican Republic,DOM,4.74,72.05,Latin America and Caribbean,2010,Dominican Republic,446.10696774
+1523,Dominican Republic,DOM,5.4,72.28,Latin America and Caribbean,2011,Dominican Republic,479.92989722
+1769,Dominican Republic,DOM,4.75,72.52,Latin America and Caribbean,2012,Dominican Republic,500.38073194
+2015,Dominican Republic,DOM,5.02,72.76,Latin America and Caribbean,2013,Dominican Republic,507.67586568
+2261,Dominican Republic,DOM,5.39,73.0,Latin America and Caribbean,2014,Dominican Republic,580.32840812
+2507,Dominican Republic,DOM,5.06,73.24,Latin America and Caribbean,2015,Dominican Republic,
+2753,Dominican Republic,DOM,5.24,73.47,Latin America and Caribbean,2016,Dominican Republic,
+2999,Dominican Republic,DOM,5.61,73.69,Latin America and Caribbean,2017,Dominican Republic,
+3245,Dominican Republic,DOM,5.43,73.89,Latin America and Caribbean,2018,Dominican Republic,
+48,Ecuador,ECU,,,Latin America and Caribbean,2005,Ecuador,450.12004639
+294,Ecuador,ECU,5.02,74.32,Latin America and Caribbean,2006,Ecuador,475.04887316
+540,Ecuador,ECU,5.0,74.51,Latin America and Caribbean,2007,Ecuador,496.69194340000000
+786,Ecuador,ECU,5.3,74.7,Latin America and Caribbean,2008,Ecuador,504.92571703
+1032,Ecuador,ECU,6.02,74.9,Latin America and Caribbean,2009,Ecuador,495.57281303
+1278,Ecuador,ECU,5.84,75.09,Latin America and Caribbean,2010,Ecuador,540.82320613
+1524,Ecuador,ECU,5.8,75.29,Latin America and Caribbean,2011,Ecuador,587.19588864
+1770,Ecuador,ECU,5.96,75.5,Latin America and Caribbean,2012,Ecuador,678.10835017
+2016,Ecuador,ECU,6.02,75.71,Latin America and Caribbean,2013,Ecuador,797.40474946
+2262,Ecuador,ECU,5.95,75.92,Latin America and Caribbean,2014,Ecuador,1039.75658557
+2508,Ecuador,ECU,5.96,76.14,Latin America and Caribbean,2015,Ecuador,
+2754,Ecuador,ECU,6.12,76.36,Latin America and Caribbean,2016,Ecuador,
+3000,Ecuador,ECU,5.84,76.58,Latin America and Caribbean,2017,Ecuador,
+3246,Ecuador,ECU,6.13,76.8,Latin America and Caribbean,2018,Ecuador,
+49,Egypt,EGY,5.17,69.43,Middle East and Northern Africa,2005,Egypt,374.45213214
+295,Egypt,EGY,,,Middle East and Northern Africa,2006,Egypt,413.68671245
+541,Egypt,EGY,5.54,69.79,Middle East and Northern Africa,2007,Egypt,422.33595373
+787,Egypt,EGY,4.63,69.97,Middle East and Northern Africa,2008,Egypt,441.45361796
+1033,Egypt,EGY,5.07,70.16,Middle East and Northern Africa,2009,Egypt,475.10315894
+1279,Egypt,EGY,4.67,70.35,Middle East and Northern Africa,2010,Egypt,474.81048105
+1525,Egypt,EGY,4.17,70.54,Middle East and Northern Africa,2011,Egypt,507.54714318
+1771,Egypt,EGY,4.2,70.74,Middle East and Northern Africa,2012,Egypt,542.45978488
+2017,Egypt,EGY,3.56,70.93,Middle East and Northern Africa,2013,Egypt,567.16992413
+2263,Egypt,EGY,4.89,71.12,Middle East and Northern Africa,2014,Egypt,594.11025159
+2509,Egypt,EGY,4.76,71.3,Middle East and Northern Africa,2015,Egypt,
+2755,Egypt,EGY,4.56,71.48,Middle East and Northern Africa,2016,Egypt,
+3001,Egypt,EGY,3.93,71.66,Middle East and Northern Africa,2017,Egypt,
+3247,Egypt,EGY,4.01,71.82,Middle East and Northern Africa,2018,Egypt,
+54,El Salvador,SLV,,,Latin America and Caribbean,2005,El Salvador,451.48075267
+300,El Salvador,SLV,5.7,70.33,Latin America and Caribbean,2006,El Salvador,447.47473231
+546,El Salvador,SLV,5.3,70.54,Latin America and Caribbean,2007,El Salvador,449.78000159
+792,El Salvador,SLV,5.19,70.76,Latin America and Caribbean,2008,El Salvador,455.60604182
+1038,El Salvador,SLV,6.84,70.98,Latin America and Caribbean,2009,El Salvador,487.52917351
+1284,El Salvador,SLV,6.74,71.21,Latin America and Caribbean,2010,El Salvador,504.73569543
+1530,El Salvador,SLV,4.74,71.45,Latin America and Caribbean,2011,El Salvador,517.17539096
+1776,El Salvador,SLV,5.93,71.69,Latin America and Caribbean,2012,El Salvador,526.71846129
+2022,El Salvador,SLV,6.33,71.94,Latin America and Caribbean,2013,El Salvador,561.48145087
+2268,El Salvador,SLV,5.86,72.18,Latin America and Caribbean,2014,El Salvador,564.88546103
+2514,El Salvador,SLV,6.02,72.41,Latin America and Caribbean,2015,El Salvador,
+2760,El Salvador,SLV,6.14,72.64,Latin America and Caribbean,2016,El Salvador,
+3006,El Salvador,SLV,6.34,72.87,Latin America and Caribbean,2017,El Salvador,
+3252,El Salvador,SLV,6.28,73.1,Latin America and Caribbean,2018,El Salvador,
+52,Estonia,EST,,,Central and Eastern Europe,2005,Estonia,823.8641548000000
+298,Estonia,EST,5.37,73.09,Central and Eastern Europe,2006,Estonia,957.16169373
+544,Estonia,EST,5.33,73.6,Central and Eastern Europe,2007,Estonia,1113.43344617
+790,Estonia,EST,5.45,74.15,Central and Eastern Europe,2008,Estonia,1339.32423811
+1036,Estonia,EST,5.14,74.72,Central and Eastern Europe,2009,Estonia,1383.63325647
+1282,Estonia,EST,,,Central and Eastern Europe,2010,Estonia,1300.06840081
+1528,Estonia,EST,5.49,75.89,Central and Eastern Europe,2011,Estonia,1356.0576791000000
+1774,Estonia,EST,5.36,76.45,Central and Eastern Europe,2012,Estonia,1555.76599292
+2020,Estonia,EST,5.37,76.95,Central and Eastern Europe,2013,Estonia,1660.09306244
+2266,Estonia,EST,5.56,77.4,Central and Eastern Europe,2014,Estonia,1668.31346668
+2512,Estonia,EST,5.63,77.78,Central and Eastern Europe,2015,Estonia,
+2758,Estonia,EST,5.65,78.1,Central and Eastern Europe,2016,Estonia,
+3004,Estonia,EST,5.94,78.35,Central and Eastern Europe,2017,Estonia,
+3250,Estonia,EST,6.09,78.57,Central and Eastern Europe,2018,Estonia,
+55,Ethiopia,ETH,,,Sub-Saharan Africa,2005,Ethiopia,27.44203037
+301,Ethiopia,ETH,,,Sub-Saharan Africa,2006,Ethiopia,32.42684174
+547,Ethiopia,ETH,,,Sub-Saharan Africa,2007,Ethiopia,37.92213038
+793,Ethiopia,ETH,,,Sub-Saharan Africa,2008,Ethiopia,38.066829800000000
+1039,Ethiopia,ETH,,,Sub-Saharan Africa,2009,Ethiopia,41.86599854
+1285,Ethiopia,ETH,,,Sub-Saharan Africa,2010,Ethiopia,72.30531157
+1531,Ethiopia,ETH,,,Sub-Saharan Africa,2011,Ethiopia,76.29493633
+1777,Ethiopia,ETH,4.56,63.28,Sub-Saharan Africa,2012,Ethiopia,72.46903911
+2023,Ethiopia,ETH,4.44,63.96,Sub-Saharan Africa,2013,Ethiopia,71.30421924
+2269,Ethiopia,ETH,4.51,64.55,Sub-Saharan Africa,2014,Ethiopia,72.96435215
+2515,Ethiopia,ETH,4.57,65.05,Sub-Saharan Africa,2015,Ethiopia,
+2761,Ethiopia,ETH,4.3,65.48,Sub-Saharan Africa,2016,Ethiopia,
+3007,Ethiopia,ETH,4.18,65.87,Sub-Saharan Africa,2017,Ethiopia,
+3253,Ethiopia,ETH,4.38,66.24,Sub-Saharan Africa,2018,Ethiopia,
+59,Finland,FIN,,,Western Europe,2005,Finland,2593.50706668
+305,Finland,FIN,7.67,79.21,Western Europe,2006,Finland,2784.69204552
+551,Finland,FIN,,,Western Europe,2007,Finland,2932.89555683
+797,Finland,FIN,7.67,79.67,Western Europe,2008,Finland,3189.34953303
+1043,Finland,FIN,,,Western Europe,2009,Finland,3297.29770023
+1289,Finland,FIN,7.39,80.14,Western Europe,2010,Finland,3316.64056492
+1535,Finland,FIN,7.35,80.36,Western Europe,2011,Finland,3486.13666951
+1781,Finland,FIN,7.42,80.59,Western Europe,2012,Finland,3608.12012046
+2027,Finland,FIN,7.44,80.8,Western Europe,2013,Finland,3653.76711943
+2273,Finland,FIN,7.38,81.0,Western Europe,2014,Finland,3701.14112734
+2519,Finland,FIN,7.45,81.2,Western Europe,2015,Finland,
+2765,Finland,FIN,7.66,81.38,Western Europe,2016,Finland,
+3011,Finland,FIN,7.79,81.56,Western Europe,2017,Finland,
+3257,Finland,FIN,7.86,81.74,Western Europe,2018,Finland,
+64,France,FRA,7.09,80.29,Western Europe,2005,France,3240.66942948
+310,France,FRA,6.58,80.56,Western Europe,2006,France,3420.67411107
+556,France,FRA,,,Western Europe,2007,France,3577.35634733
+802,France,FRA,7.01,81.07,Western Europe,2008,France,3735.80177306
+1048,France,FRA,6.28,81.3,Western Europe,2009,France,3948.40228973
+1294,France,FRA,6.8,81.51,Western Europe,2010,France,4039.00624517
+1540,France,FRA,6.96,81.69,Western Europe,2011,France,4254.53310822
+1786,France,FRA,6.65,81.85,Western Europe,2012,France,4285.43859289
+2032,France,FRA,6.67,81.99,Western Europe,2013,France,4369.9330592
+2278,France,FRA,6.47,82.11,Western Europe,2014,France,4508.13456593
+2524,France,FRA,6.36,82.22,Western Europe,2015,France,
+2770,France,FRA,6.48,82.33,Western Europe,2016,France,
+3016,France,FRA,6.64,82.43,Western Europe,2017,France,
+3262,France,FRA,6.67,82.54,Western Europe,2018,France,
+66,Gabon,GAB,,,Sub-Saharan Africa,2005,Gabon,419.24412257
+312,Gabon,GAB,,,Sub-Saharan Africa,2006,Gabon,425.95637411
+558,Gabon,GAB,,,Sub-Saharan Africa,2007,Gabon,451.57857287
+804,Gabon,GAB,,,Sub-Saharan Africa,2008,Gabon,387.29100119
+1050,Gabon,GAB,,,Sub-Saharan Africa,2009,Gabon,509.55117821
+1296,Gabon,GAB,,,Sub-Saharan Africa,2010,Gabon,538.24044945
+1542,Gabon,GAB,4.26,62.17,Sub-Saharan Africa,2011,Gabon,523.54050461
+1788,Gabon,GAB,3.97,62.92,Sub-Saharan Africa,2012,Gabon,556.46077173
+2034,Gabon,GAB,3.8,63.65,Sub-Saharan Africa,2013,Gabon,671.05866982
+2280,Gabon,GAB,3.92,64.32,Sub-Saharan Africa,2014,Gabon,599.26416402
+2526,Gabon,GAB,4.66,64.91,Sub-Saharan Africa,2015,Gabon,
+2772,Gabon,GAB,4.83,65.42,Sub-Saharan Africa,2016,Gabon,
+3018,Gabon,GAB,4.78,65.84,Sub-Saharan Africa,2017,Gabon,
+3264,Gabon,GAB,4.78,66.19,Sub-Saharan Africa,2018,Gabon,
+67,Georgia,GEO,,,Central and Eastern Europe,2005,Georgia,351.91494629
+313,Georgia,GEO,3.68,70.64,Central and Eastern Europe,2006,Georgia,391.35248281
+559,Georgia,GEO,3.71,70.76,Central and Eastern Europe,2007,Georgia,443.50010478
+805,Georgia,GEO,4.16,70.95,Central and Eastern Europe,2008,Georgia,514.44190161
+1051,Georgia,GEO,3.8,71.18,Central and Eastern Europe,2009,Georgia,571.26260998
+1297,Georgia,GEO,4.1,71.46,Central and Eastern Europe,2010,Georgia,612.69712539
+1543,Georgia,GEO,4.2,71.77,Central and Eastern Europe,2011,Georgia,633.75127965
+1789,Georgia,GEO,4.25,72.1,Central and Eastern Europe,2012,Georgia,634.45738302
+2035,Georgia,GEO,4.35,72.41,Central and Eastern Europe,2013,Georgia,570.29801304
+2281,Georgia,GEO,4.29,72.71,Central and Eastern Europe,2014,Georgia,627.74076411
+2527,Georgia,GEO,4.12,72.97,Central and Eastern Europe,2015,Georgia,
+2773,Georgia,GEO,4.45,73.21,Central and Eastern Europe,2016,Georgia,
+3019,Georgia,GEO,4.45,73.41,Central and Eastern Europe,2017,Georgia,
+3265,Georgia,GEO,4.66,73.6,Central and Eastern Europe,2018,Georgia,
+71,Germany,DEU,6.62,79.22,Western Europe,2005,Germany,3383.71807476
+317,Germany,DEU,,,Western Europe,2006,Germany,3586.91990718
+563,Germany,DEU,6.42,79.63,Western Europe,2007,Germany,3742.33941197
+809,Germany,DEU,6.52,79.81,Western Europe,2008,Germany,3989.53955837
+1055,Germany,DEU,6.64,79.97,Western Europe,2009,Germany,4228.28429095
+1301,Germany,DEU,6.72,80.12,Western Europe,2010,Germany,4455.61967469
+1547,Germany,DEU,6.62,80.26,Western Europe,2011,Germany,4609.96443322
+1793,Germany,DEU,6.7,80.39,Western Europe,2012,Germany,4709.5936016000000
+2039,Germany,DEU,6.97,80.52,Western Europe,2013,Germany,4837.27200203
+2285,Germany,DEU,6.98,80.64,Western Europe,2014,Germany,5182.11404918
+2531,Germany,DEU,7.04,80.77,Western Europe,2015,Germany,
+2777,Germany,DEU,6.87,80.9,Western Europe,2016,Germany,
+3023,Germany,DEU,7.07,81.04,Western Europe,2017,Germany,
+3269,Germany,DEU,7.12,81.18,Western Europe,2018,Germany,
+68,Ghana,GHA,,,Sub-Saharan Africa,2005,Ghana,163.52329684
+314,Ghana,GHA,4.54,59.23,Sub-Saharan Africa,2006,Ghana,112.82288182
+560,Ghana,GHA,5.22,59.74,Sub-Saharan Africa,2007,Ghana,137.35382342
+806,Ghana,GHA,4.97,60.22,Sub-Saharan Africa,2008,Ghana,135.44003571
+1052,Ghana,GHA,4.2,60.64,Sub-Saharan Africa,2009,Ghana,146.7616323
+1298,Ghana,GHA,4.61,61.03,Sub-Saharan Africa,2010,Ghana,161.18140405
+1544,Ghana,GHA,5.61,61.38,Sub-Saharan Africa,2011,Ghana,164.93482091
+1790,Ghana,GHA,5.06,61.72,Sub-Saharan Africa,2012,Ghana,178.42535533
+2036,Ghana,GHA,4.97,62.06,Sub-Saharan Africa,2013,Ghana,180.32007765
+2282,Ghana,GHA,3.86,62.42,Sub-Saharan Africa,2014,Ghana,145.36813142
+2528,Ghana,GHA,3.99,62.77,Sub-Saharan Africa,2015,Ghana,
+2774,Ghana,GHA,4.51,63.12,Sub-Saharan Africa,2016,Ghana,
+3020,Ghana,GHA,5.48,63.46,Sub-Saharan Africa,2017,Ghana,
+3266,Ghana,GHA,,,Sub-Saharan Africa,2018,Ghana,
+73,Greece,GRC,6.01,79.56,Western Europe,2005,Greece,2359.06219128
+319,Greece,GRC,,,Western Europe,2006,Greece,2619.20027321
+565,Greece,GRC,6.65,79.93,Western Europe,2007,Greece,2734.11349222
+811,Greece,GRC,,,Western Europe,2008,Greece,3012.66438545
+1057,Greece,GRC,6.04,80.33,Western Europe,2009,Greece,2971.4141727000000
+1303,Greece,GRC,5.84,80.54,Western Europe,2010,Greece,2645.40176711
+1549,Greece,GRC,5.37,80.75,Western Europe,2011,Greece,2597.67446158
+1795,Greece,GRC,5.1,80.96,Western Europe,2012,Greece,2319.27022597
+2041,Greece,GRC,4.72,81.17,Western Europe,2013,Greece,2357.07718385
+2287,Greece,GRC,4.76,81.36,Western Europe,2014,Greece,2098.05225625
+2533,Greece,GRC,5.62,81.55,Western Europe,2015,Greece,
+2779,Greece,GRC,5.3,81.73,Western Europe,2016,Greece,
+3025,Greece,GRC,5.15,81.9,Western Europe,2017,Greece,
+3271,Greece,GRC,5.41,82.07,Western Europe,2018,Greece,
+74,Guatemala,GTM,,,Latin America and Caribbean,2005,Guatemala,376.47516422
+320,Guatemala,GTM,5.9,70.08,Latin America and Caribbean,2006,Guatemala,416.25780999
+566,Guatemala,GTM,6.33,70.41,Latin America and Caribbean,2007,Guatemala,430.57606066
+812,Guatemala,GTM,6.41,70.75,Latin America and Caribbean,2008,Guatemala,430.09442268
+1058,Guatemala,GTM,6.45,71.11,Latin America and Caribbean,2009,Guatemala,435.14042101
+1304,Guatemala,GTM,6.29,71.48,Latin America and Caribbean,2010,Guatemala,433.67265898
+1550,Guatemala,GTM,5.74,71.86,Latin America and Caribbean,2011,Guatemala,427.22915688
+1796,Guatemala,GTM,5.86,72.24,Latin America and Caribbean,2012,Guatemala,441.680547
+2042,Guatemala,GTM,5.98,72.6,Latin America and Caribbean,2013,Guatemala,452.92838485
+2288,Guatemala,GTM,6.54,72.94,Latin America and Caribbean,2014,Guatemala,472.85084974
+2534,Guatemala,GTM,6.46,73.25,Latin America and Caribbean,2015,Guatemala,
+2780,Guatemala,GTM,6.36,73.54,Latin America and Caribbean,2016,Guatemala,
+3026,Guatemala,GTM,6.33,73.81,Latin America and Caribbean,2017,Guatemala,
+3272,Guatemala,GTM,6.63,74.06,Latin America and Caribbean,2018,Guatemala,
+75,Guinea,GIN,,,Sub-Saharan Africa,2005,Guinea,30.11027449
+321,Guinea,GIN,,,Sub-Saharan Africa,2006,Guinea,33.26281195
+567,Guinea,GIN,,,Sub-Saharan Africa,2007,Guinea,34.5268482
+813,Guinea,GIN,,,Sub-Saharan Africa,2008,Guinea,37.47494619
+1059,Guinea,GIN,,,Sub-Saharan Africa,2009,Guinea,43.96902593
+1305,Guinea,GIN,,,Sub-Saharan Africa,2010,Guinea,52.15954757
+1551,Guinea,GIN,4.04,57.39,Sub-Saharan Africa,2011,Guinea,56.00818896
+1797,Guinea,GIN,3.65,57.9,Sub-Saharan Africa,2012,Guinea,65.71973754
+2043,Guinea,GIN,3.9,58.45,Sub-Saharan Africa,2013,Guinea,67.66005
+2289,Guinea,GIN,3.41,59.02,Sub-Saharan Africa,2014,Guinea,68.45821523
+2535,Guinea,GIN,3.5,59.6,Sub-Saharan Africa,2015,Guinea,
+2781,Guinea,GIN,3.6,60.17,Sub-Saharan Africa,2016,Guinea,
+3027,Guinea,GIN,4.87,60.71,Sub-Saharan Africa,2017,Guinea,
+3273,Guinea,GIN,5.25,61.18,Sub-Saharan Africa,2018,Guinea,
+77,Haiti,HTI,,,Latin America and Caribbean,2005,Haiti,61.29417516
+323,Haiti,HTI,3.75,59.03,Latin America and Caribbean,2006,Haiti,82.24633664
+569,Haiti,HTI,,,Latin America and Caribbean,2007,Haiti,83.75989972
+815,Haiti,HTI,3.85,59.78,Latin America and Caribbean,2008,Haiti,90.38626521
+1061,Haiti,HTI,,,Latin America and Caribbean,2009,Haiti,104.27861654
+1307,Haiti,HTI,3.77,60.51,Latin America and Caribbean,2010,Haiti,119.1245983
+1553,Haiti,HTI,4.84,60.88,Latin America and Caribbean,2011,Haiti,162.71207697
+1799,Haiti,HTI,4.41,61.26,Latin America and Caribbean,2012,Haiti,159.45004854
+2045,Haiti,HTI,4.62,61.66,Latin America and Caribbean,2013,Haiti,136.42137796
+2291,Haiti,HTI,3.89,62.07,Latin America and Caribbean,2014,Haiti,130.84864328
+2537,Haiti,HTI,3.57,62.48,Latin America and Caribbean,2015,Haiti,
+2783,Haiti,HTI,3.35,62.9,Latin America and Caribbean,2016,Haiti,
+3029,Haiti,HTI,3.82,63.29,Latin America and Caribbean,2017,Haiti,
+3275,Haiti,HTI,3.61,63.66,Latin America and Caribbean,2018,Haiti,
+78,Honduras,HND,,,Latin America and Caribbean,2005,Honduras,275.69457871
+324,Honduras,HND,5.4,72.28,Latin America and Caribbean,2006,Honduras,290.41333821
+570,Honduras,HND,5.1,72.54,Latin America and Caribbean,2007,Honduras,321.63594308
+816,Honduras,HND,5.42,72.8,Latin America and Caribbean,2008,Honduras,357.48073171
+1062,Honduras,HND,6.03,73.06,Latin America and Caribbean,2009,Honduras,363.61725929
+1308,Honduras,HND,5.87,73.32,Latin America and Caribbean,2010,Honduras,359.09248949
+1554,Honduras,HND,4.96,73.57,Latin America and Caribbean,2011,Honduras,379.8822363
+1800,Honduras,HND,4.6,73.81,Latin America and Caribbean,2012,Honduras,421.88279306
+2046,Honduras,HND,4.71,74.05,Latin America and Caribbean,2013,Honduras,405.13054385
+2292,Honduras,HND,5.06,74.28,Latin America and Caribbean,2014,Honduras,399.74980915
+2538,Honduras,HND,4.85,74.5,Latin America and Caribbean,2015,Honduras,
+2784,Honduras,HND,5.65,74.7,Latin America and Caribbean,2016,Honduras,
+3030,Honduras,HND,6.02,74.9,Latin America and Caribbean,2017,Honduras,
+3276,Honduras,HND,5.91,75.09,Latin America and Caribbean,2018,Honduras,
+129,Hong Kong,,,,Eastern Asia,2005,Hong Kong,
+375,Hong Kong,,5.51,82.15,Eastern Asia,2006,Hong Kong,
+621,Hong Kong,,,,Eastern Asia,2007,Hong Kong,
+867,Hong Kong,,5.14,82.52,Eastern Asia,2008,Hong Kong,
+1113,Hong Kong,,5.4,82.71,Eastern Asia,2009,Hong Kong,
+1359,Hong Kong,,5.64,82.9,Eastern Asia,2010,Hong Kong,
+1605,Hong Kong,,5.47,83.11,Eastern Asia,2011,Hong Kong,
+1851,Hong Kong,,5.48,83.33,Eastern Asia,2012,Hong Kong,
+2097,Hong Kong,,,,Eastern Asia,2013,Hong Kong,
+2343,Hong Kong,,5.46,83.8,Eastern Asia,2014,Hong Kong,
+2589,Hong Kong,,,,Eastern Asia,2015,Hong Kong,
+2835,Hong Kong,,5.5,84.28,Eastern Asia,2016,Hong Kong,
+3081,Hong Kong,,5.36,84.49,Eastern Asia,2017,Hong Kong,
+3327,Hong Kong,,,,Eastern Asia,2018,Hong Kong,
+80,Hungary,HUN,5.19,73.15,Central and Eastern Europe,2005,Hungary,1432.1922784
+326,Hungary,HUN,,,Central and Eastern Europe,2006,Hungary,1511.09604481
+572,Hungary,HUN,4.95,73.65,Central and Eastern Europe,2007,Hungary,1450.80323509
+818,Hungary,HUN,,,Central and Eastern Europe,2008,Hungary,1523.6695888
+1064,Hungary,HUN,4.89,74.19,Central and Eastern Europe,2009,Hungary,1574.18290013
+1310,Hungary,HUN,4.73,74.49,Central and Eastern Europe,2010,Hungary,1690.34508385
+1556,Hungary,HUN,4.92,74.8,Central and Eastern Europe,2011,Hungary,1769.74238545
+1802,Hungary,HUN,4.68,75.11,Central and Eastern Europe,2012,Hungary,1744.13677981
+2048,Hungary,HUN,4.91,75.42,Central and Eastern Europe,2013,Hungary,1766.79369483
+2294,Hungary,HUN,5.18,75.72,Central and Eastern Europe,2014,Hungary,1826.67506469
+2540,Hungary,HUN,5.34,76.01,Central and Eastern Europe,2015,Hungary,
+2786,Hungary,HUN,5.45,76.27,Central and Eastern Europe,2016,Hungary,
+3032,Hungary,HUN,6.07,76.5,Central and Eastern Europe,2017,Hungary,
+3278,Hungary,HUN,,,Central and Eastern Europe,2018,Hungary,
+81,Iceland,ISL,,,Western Europe,2005,Iceland,3340.09126702
+327,Iceland,ISL,,,Western Europe,2006,Iceland,3337.40700803
+573,Iceland,ISL,,,Western Europe,2007,Iceland,3430.97478753
+819,Iceland,ISL,6.89,81.51,Western Europe,2008,Iceland,3664.23068305
+1065,Iceland,ISL,,,Western Europe,2009,Iceland,3631.55364335
+1311,Iceland,ISL,,,Western Europe,2010,Iceland,3421.63945
+1557,Iceland,ISL,,,Western Europe,2011,Iceland,3429.09325548
+1803,Iceland,ISL,7.59,82.1,Western Europe,2012,Iceland,3529.11341903
+2049,Iceland,ISL,7.5,82.23,Western Europe,2013,Iceland,3697.46777667
+2295,Iceland,ISL,,,Western Europe,2014,Iceland,3881.70373177
+2541,Iceland,ISL,7.5,82.48,Western Europe,2015,Iceland,
+2787,Iceland,ISL,7.51,82.6,Western Europe,2016,Iceland,
+3033,Iceland,ISL,7.48,82.72,Western Europe,2017,Iceland,
+3279,Iceland,ISL,,,Western Europe,2018,Iceland,
+82,India,IND,,,Southern Asia,2005,India,122.50812367
+328,India,IND,5.35,64.92,Southern Asia,2006,India,134.73477467
+574,India,IND,5.03,65.35,Southern Asia,2007,India,148.90236054
+820,India,IND,5.15,65.79,Southern Asia,2008,India,159.59437858
+1066,India,IND,4.52,66.24,Southern Asia,2009,India,173.42039912
+1312,India,IND,4.99,66.69,Southern Asia,2010,India,186.71595995
+1558,India,IND,4.63,67.13,Southern Asia,2011,India,202.95182006
+1804,India,IND,4.72,67.54,Southern Asia,2012,India,217.18429871
+2050,India,IND,4.43,67.93,Southern Asia,2013,India,240.12450751
+2296,India,IND,4.42,68.29,Southern Asia,2014,India,267.40862498
+2542,India,IND,4.34,68.61,Southern Asia,2015,India,
+2788,India,IND,4.18,68.9,Southern Asia,2016,India,
+3034,India,IND,4.05,69.17,Southern Asia,2017,India,
+3280,India,IND,3.82,69.42,Southern Asia,2018,India,
+224,Indonesia,IDN,,,Southeastern Asia,2005,Indonesia,169.85419684
+470,Indonesia,IDN,4.95,67.72,Southeastern Asia,2006,Indonesia,189.83032185
+716,Indonesia,IDN,5.1,68.1,Southeastern Asia,2007,Indonesia,218.15107463
+962,Indonesia,IDN,4.82,68.48,Southeastern Asia,2008,Indonesia,210.7662338
+1208,Indonesia,IDN,5.47,68.85,Southeastern Asia,2009,Indonesia,220.82963446
+1454,Indonesia,IDN,5.46,69.2,Southeastern Asia,2010,Indonesia,227.31310597
+1700,Indonesia,IDN,5.17,69.54,Southeastern Asia,2011,Indonesia,240.66538403
+1946,Indonesia,IDN,5.37,69.87,Southeastern Asia,2012,Indonesia,273.82995279
+2192,Indonesia,IDN,5.29,70.18,Southeastern Asia,2013,Indonesia,292.44637015
+2438,Indonesia,IDN,5.6,70.48,Southeastern Asia,2014,Indonesia,299.40513924
+2684,Indonesia,IDN,5.04,70.77,Southeastern Asia,2015,Indonesia,
+2930,Indonesia,IDN,5.14,71.04,Southeastern Asia,2016,Indonesia,
+3176,Indonesia,IDN,5.1,71.28,Southeastern Asia,2017,Indonesia,
+3422,Indonesia,IDN,5.34,71.51,Southeastern Asia,2018,Indonesia,
+87,Iraq,IRQ,,,Middle East and Northern Africa,2005,Iraq,109.30025544
+333,Iraq,IRQ,,,Middle East and Northern Africa,2006,Iraq,107.18328229
+579,Iraq,IRQ,,,Middle East and Northern Africa,2007,Iraq,122.35714233
+825,Iraq,IRQ,4.59,68.19,Middle East and Northern Africa,2008,Iraq,144.62689486
+1071,Iraq,IRQ,4.78,68.34,Middle East and Northern Africa,2009,Iraq,460.19343131
+1317,Iraq,IRQ,5.07,68.57,Middle East and Northern Africa,2010,Iraq,391.48417883
+1563,Iraq,IRQ,4.73,68.85,Middle East and Northern Africa,2011,Iraq,371.60151551
+1809,Iraq,IRQ,4.66,69.15,Middle East and Northern Africa,2012,Iraq,650.84115684
+2055,Iraq,IRQ,4.73,69.44,Middle East and Northern Africa,2013,Iraq,774.39691943
+2301,Iraq,IRQ,4.54,69.7,Middle East and Northern Africa,2014,Iraq,667.00735289
+2547,Iraq,IRQ,4.49,69.93,Middle East and Northern Africa,2015,Iraq,
+2793,Iraq,IRQ,4.41,70.12,Middle East and Northern Africa,2016,Iraq,
+3039,Iraq,IRQ,4.46,70.29,Middle East and Northern Africa,2017,Iraq,
+3285,Iraq,IRQ,,,Middle East and Northern Africa,2018,Iraq,
+50,Ireland,IRL,,,Western Europe,2005,Ireland,2974.18394801
+296,Ireland,IRL,7.14,79.17,Western Europe,2006,Ireland,3227.2599024
+542,Ireland,IRL,,,Western Europe,2007,Ireland,3586.31621945
+788,Ireland,IRL,7.57,79.74,Western Europe,2008,Ireland,3821.29229571
+1034,Ireland,IRL,7.05,79.97,Western Europe,2009,Ireland,4003.88214846
+1280,Ireland,IRL,7.26,80.18,Western Europe,2010,Ireland,3795.75328145
+1526,Ireland,IRL,7.01,80.38,Western Europe,2011,Ireland,3725.79464194
+1772,Ireland,IRL,6.96,80.59,Western Europe,2012,Ireland,3813.98599686
+2018,Ireland,IRL,6.76,80.82,Western Europe,2013,Ireland,3761.83568795
+2264,Ireland,IRL,7.02,81.08,Western Europe,2014,Ireland,3801.06423038
+2510,Ireland,IRL,6.83,81.34,Western Europe,2015,Ireland,
+2756,Ireland,IRL,7.04,81.61,Western Europe,2016,Ireland,
+3002,Ireland,IRL,7.06,81.87,Western Europe,2017,Ireland,
+3248,Ireland,IRL,6.96,82.1,Western Europe,2018,Ireland,
+84,Israel,ISR,,,Middle East and Northern Africa,2005,Israel,1829.32032637
+330,Israel,ISR,7.17,80.54,Middle East and Northern Africa,2006,Israel,1872.92965115
+576,Israel,ISR,6.84,80.79,Middle East and Northern Africa,2007,Israel,2004.38464268
+822,Israel,ISR,7.26,81.04,Middle East and Northern Africa,2008,Israel,1990.50913357
+1068,Israel,ISR,7.35,81.26,Middle East and Northern Africa,2009,Israel,2041.13243226
+1314,Israel,ISR,7.36,81.46,Middle East and Northern Africa,2010,Israel,2116.06877744
+1560,Israel,ISR,7.43,81.65,Middle East and Northern Africa,2011,Israel,2231.8163882
+1806,Israel,ISR,7.11,81.83,Middle East and Northern Africa,2012,Israel,2446.05593478
+2052,Israel,ISR,7.32,82.01,Middle East and Northern Africa,2013,Israel,2571.88587936
+2298,Israel,ISR,7.4,82.18,Middle East and Northern Africa,2014,Israel,2599.13225388
+2544,Israel,ISR,7.08,82.34,Middle East and Northern Africa,2015,Israel,
+2790,Israel,ISR,7.16,82.5,Middle East and Northern Africa,2016,Israel,
+3036,Israel,ISR,7.33,82.66,Middle East and Northern Africa,2017,Israel,
+3282,Israel,ISR,6.93,82.82,Middle East and Northern Africa,2018,Israel,
+85,Italy,ITA,6.85,80.95,Western Europe,2005,Italy,2587.33351657
+331,Italy,ITA,,,Western Europe,2006,Italy,2824.75199502
+577,Italy,ITA,6.57,81.4,Western Europe,2007,Italy,2871.55217698
+823,Italy,ITA,6.78,81.6,Western Europe,2008,Italy,3136.0461791
+1069,Italy,ITA,6.33,81.78,Western Europe,2009,Italy,3222.2850816
+1315,Italy,ITA,6.35,81.96,Western Europe,2010,Italy,3275.0558989
+1561,Italy,ITA,6.06,82.13,Western Europe,2011,Italy,3330.70801916
+1807,Italy,ITA,5.84,82.3,Western Europe,2012,Italy,3304.59641037
+2053,Italy,ITA,6.01,82.47,Western Europe,2013,Italy,3257.46687032
+2299,Italy,ITA,6.03,82.65,Western Europe,2014,Italy,3238.88900053
+2545,Italy,ITA,5.85,82.83,Western Europe,2015,Italy,
+2791,Italy,ITA,5.95,83.01,Western Europe,2016,Italy,
+3037,Italy,ITA,6.2,83.18,Western Europe,2017,Italy,
+3283,Italy,ITA,6.52,83.35,Western Europe,2018,Italy,
+89,Jamaica,,,,Latin America and Caribbean,2005,Jamaica,285.18436267
+335,Jamaica,,6.21,74.14,Latin America and Caribbean,2006,Jamaica,341.93644427
+581,Jamaica,,,,Latin America and Caribbean,2007,Jamaica,408.82774665
+827,Jamaica,,,,Latin America and Caribbean,2008,Jamaica,456.94491018
+1073,Jamaica,,,,Latin America and Caribbean,2009,Jamaica,418.17366126
+1319,Jamaica,,,,Latin America and Caribbean,2010,Jamaica,426.41210452
+1565,Jamaica,,5.37,74.01,Latin America and Caribbean,2011,Jamaica,433.74205157
+1811,Jamaica,,,,Latin America and Caribbean,2012,Jamaica,480.89471243
+2057,Jamaica,,5.71,74.01,Latin America and Caribbean,2013,Jamaica,514.09869668
+2303,Jamaica,,5.31,74.04,Latin America and Caribbean,2014,Jamaica,476.17910904
+2549,Jamaica,,,,Latin America and Caribbean,2015,Jamaica,
+2795,Jamaica,,,,Latin America and Caribbean,2016,Jamaica,
+3041,Jamaica,,5.89,74.27,Latin America and Caribbean,2017,Jamaica,
+3287,Jamaica,,,,Latin America and Caribbean,2018,Jamaica,
+88,Japan,JPN,6.52,82.27,Eastern Asia,2005,Japan,2490.66938769
+334,Japan,JPN,,,Eastern Asia,2006,Japan,2604.02162375
+580,Japan,JPN,6.24,82.58,Eastern Asia,2007,Japan,2747.22483946
+826,Japan,JPN,5.91,82.71,Eastern Asia,2008,Japan,2879.78712185
+1072,Japan,JPN,5.84,82.84,Eastern Asia,2009,Japan,3031.26409483
+1318,Japan,JPN,6.06,82.97,Eastern Asia,2010,Japan,3232.15335908
+1564,Japan,JPN,6.26,83.12,Eastern Asia,2011,Japan,3456.72990538
+1810,Japan,JPN,5.97,83.28,Eastern Asia,2012,Japan,3621.57581372
+2056,Japan,JPN,5.96,83.47,Eastern Asia,2013,Japan,3713.12664985
+2302,Japan,JPN,5.92,83.67,Eastern Asia,2014,Japan,3726.67637444
+2548,Japan,JPN,5.88,83.88,Eastern Asia,2015,Japan,
+2794,Japan,JPN,5.95,84.09,Eastern Asia,2016,Japan,
+3040,Japan,JPN,5.91,84.29,Eastern Asia,2017,Japan,
+3286,Japan,JPN,5.79,84.47,Eastern Asia,2018,Japan,
+90,Jordan,JOR,6.29,72.6,Middle East and Northern Africa,2005,Jordan,745.69566163
+336,Jordan,JOR,,,Middle East and Northern Africa,2006,Jordan,729.23780047
+582,Jordan,JOR,5.6,72.93,Middle East and Northern Africa,2007,Jordan,802.6847951000000
+828,Jordan,JOR,4.93,73.1,Middle East and Northern Africa,2008,Jordan,884.45821251
+1074,Jordan,JOR,6.0,73.27,Middle East and Northern Africa,2009,Jordan,980.2638588
+1320,Jordan,JOR,5.57,73.43,Middle East and Northern Africa,2010,Jordan,861.11594911
+1566,Jordan,JOR,5.54,73.58,Middle East and Northern Africa,2011,Jordan,865.8204400000000
+1812,Jordan,JOR,5.13,73.72,Middle East and Northern Africa,2012,Jordan,834.67704793
+2058,Jordan,JOR,5.17,73.85,Middle East and Northern Africa,2013,Jordan,763.08103195
+2304,Jordan,JOR,5.33,73.97,Middle East and Northern Africa,2014,Jordan,797.59333291
+2550,Jordan,JOR,5.4,74.08,Middle East and Northern Africa,2015,Jordan,
+2796,Jordan,JOR,5.27,74.18,Middle East and Northern Africa,2016,Jordan,
+3042,Jordan,JOR,4.81,74.29,Middle East and Northern Africa,2017,Jordan,
+3288,Jordan,JOR,4.64,74.4,Middle East and Northern Africa,2018,Jordan,
+97,Kazakhstan,KAZ,,,Central and Eastern Europe,2005,Kazakhstan,554.79502643
+343,Kazakhstan,KAZ,5.48,65.54,Central and Eastern Europe,2006,Kazakhstan,574.05740575
+589,Kazakhstan,KAZ,5.72,65.91,Central and Eastern Europe,2007,Kazakhstan,543.29500894
+835,Kazakhstan,KAZ,5.89,66.32,Central and Eastern Europe,2008,Kazakhstan,648.81251495
+1081,Kazakhstan,KAZ,5.38,66.81,Central and Eastern Europe,2009,Kazakhstan,741.26549823
+1327,Kazakhstan,KAZ,5.51,67.38,Central and Eastern Europe,2010,Kazakhstan,849.49397234
+1573,Kazakhstan,KAZ,5.74,68.05,Central and Eastern Europe,2011,Kazakhstan,842.47592164
+1819,Kazakhstan,KAZ,5.76,68.81,Central and Eastern Europe,2012,Kazakhstan,943.00901743
+2065,Kazakhstan,KAZ,5.84,69.63,Central and Eastern Europe,2013,Kazakhstan,994.24818599
+2311,Kazakhstan,KAZ,5.97,70.48,Central and Eastern Europe,2014,Kazakhstan,1068.06212381
+2557,Kazakhstan,KAZ,5.95,71.32,Central and Eastern Europe,2015,Kazakhstan,
+2803,Kazakhstan,KAZ,5.53,72.08,Central and Eastern Europe,2016,Kazakhstan,
+3049,Kazakhstan,KAZ,5.88,72.73,Central and Eastern Europe,2017,Kazakhstan,
+3295,Kazakhstan,KAZ,6.01,73.24,Central and Eastern Europe,2018,Kazakhstan,
+91,Kenya,KEN,,,Sub-Saharan Africa,2005,Kenya,88.11569198
+337,Kenya,KEN,4.22,56.09,Sub-Saharan Africa,2006,Kenya,91.4932173
+583,Kenya,KEN,4.58,57.46,Sub-Saharan Africa,2007,Kenya,94.07296852
+829,Kenya,KEN,4.02,58.76,Sub-Saharan Africa,2008,Kenya,89.54680272
+1075,Kenya,KEN,4.27,59.93,Sub-Saharan Africa,2009,Kenya,97.01443575
+1321,Kenya,KEN,4.26,60.96,Sub-Saharan Africa,2010,Kenya,98.83523898
+1567,Kenya,KEN,4.41,61.85,Sub-Saharan Africa,2011,Kenya,137.20624298
+1813,Kenya,KEN,4.55,62.66,Sub-Saharan Africa,2012,Kenya,149.2181468
+2059,Kenya,KEN,3.8,63.42,Sub-Saharan Africa,2013,Kenya,158.0382434
+2305,Kenya,KEN,4.9,64.14,Sub-Saharan Africa,2014,Kenya,168.9817873
+2551,Kenya,KEN,4.36,64.8,Sub-Saharan Africa,2015,Kenya,
+2797,Kenya,KEN,4.4,65.39,Sub-Saharan Africa,2016,Kenya,
+3043,Kenya,KEN,4.48,65.91,Sub-Saharan Africa,2017,Kenya,
+3289,Kenya,KEN,4.66,66.34,Sub-Saharan Africa,2018,Kenya,
+96,Kuwait,KWT,,,Middle East and Northern Africa,2005,Kuwait,1990.36328375
+342,Kuwait,KWT,6.08,73.66,Middle East and Northern Africa,2006,Kuwait,1979.11506181
+588,Kuwait,KWT,,,Middle East and Northern Africa,2007,Kuwait,1919.60460948
+834,Kuwait,KWT,,,Middle East and Northern Africa,2008,Kuwait,1704.4821513
+1080,Kuwait,KWT,6.59,74.16,Middle East and Northern Africa,2009,Kuwait,3004.51903029
+1326,Kuwait,KWT,6.8,74.36,Middle East and Northern Africa,2010,Kuwait,1992.46907837
+1572,Kuwait,KWT,6.38,74.55,Middle East and Northern Africa,2011,Kuwait,1996.64405008
+1818,Kuwait,KWT,6.22,74.73,Middle East and Northern Africa,2012,Kuwait,2017.85263455
+2064,Kuwait,KWT,6.48,74.89,Middle East and Northern Africa,2013,Kuwait,1968.30494708
+2310,Kuwait,KWT,6.18,75.02,Middle East and Northern Africa,2014,Kuwait,2319.60464971
+2556,Kuwait,KWT,6.15,75.13,Middle East and Northern Africa,2015,Kuwait,
+2802,Kuwait,KWT,5.95,75.22,Middle East and Northern Africa,2016,Kuwait,
+3048,Kuwait,KWT,6.09,75.31,Middle East and Northern Africa,2017,Kuwait,
+3294,Kuwait,KWT,,,Middle East and Northern Africa,2018,Kuwait,
+92,Kyrgyzstan,KGZ,,,Central and Eastern Europe,2005,Kyrgyzstan,124.00449222
+338,Kyrgyzstan,KGZ,4.64,67.24,Central and Eastern Europe,2006,Kyrgyzstan,150.91220216
+584,Kyrgyzstan,KGZ,4.7,67.51,Central and Eastern Europe,2007,Kyrgyzstan,169.59303505
+830,Kyrgyzstan,KGZ,4.74,67.88,Central and Eastern Europe,2008,Kyrgyzstan,163.31406661
+1076,Kyrgyzstan,KGZ,5.07,68.34,Central and Eastern Europe,2009,Kyrgyzstan,186.69943548
+1322,Kyrgyzstan,KGZ,5.0,68.85,Central and Eastern Europe,2010,Kyrgyzstan,181.43822254
+1568,Kyrgyzstan,KGZ,4.92,69.38,Central and Eastern Europe,2011,Kyrgyzstan,179.21080198
+1814,Kyrgyzstan,KGZ,5.21,69.87,Central and Eastern Europe,2012,Kyrgyzstan,202.24289489
+2060,Kyrgyzstan,KGZ,5.4,70.29,Central and Eastern Europe,2013,Kyrgyzstan,214.33444519
+2306,Kyrgyzstan,KGZ,5.25,70.63,Central and Eastern Europe,2014,Kyrgyzstan,215.05762807
+2552,Kyrgyzstan,KGZ,4.91,70.88,Central and Eastern Europe,2015,Kyrgyzstan,
+2798,Kyrgyzstan,KGZ,4.86,71.05,Central and Eastern Europe,2016,Kyrgyzstan,
+3044,Kyrgyzstan,KGZ,5.63,71.19,Central and Eastern Europe,2017,Kyrgyzstan,
+3290,Kyrgyzstan,KGZ,5.3,71.32,Central and Eastern Europe,2018,Kyrgyzstan,
+100,Latvia,LVA,,,Central and Eastern Europe,2005,Latvia,593.69157509
+346,Latvia,LVA,4.71,71.33,Central and Eastern Europe,2006,Latvia,733.35800825
+592,Latvia,LVA,4.67,71.6,Central and Eastern Europe,2007,Latvia,867.69503335
+838,Latvia,LVA,5.15,71.95,Central and Eastern Europe,2008,Latvia,866.31529378
+1084,Latvia,LVA,4.67,72.37,Central and Eastern Europe,2009,Latvia,802.2451759000000
+1330,Latvia,LVA,,,Central and Eastern Europe,2010,Latvia,804.87949766
+1576,Latvia,LVA,4.97,73.32,Central and Eastern Europe,2011,Latvia,830.86210765
+1822,Latvia,LVA,5.13,73.78,Central and Eastern Europe,2012,Latvia,869.78772887
+2068,Latvia,LVA,5.07,74.17,Central and Eastern Europe,2013,Latvia,894.61833297
+2314,Latvia,LVA,5.73,74.49,Central and Eastern Europe,2014,Latvia,940.30243923
+2560,Latvia,LVA,5.88,74.73,Central and Eastern Europe,2015,Latvia,
+2806,Latvia,LVA,5.94,74.91,Central and Eastern Europe,2016,Latvia,
+3052,Latvia,LVA,5.98,75.05,Central and Eastern Europe,2017,Latvia,
+3298,Latvia,LVA,5.9,75.17,Central and Eastern Europe,2018,Latvia,
+99,Lebanon,LBN,5.49,76.86,Middle East and Northern Africa,2005,Lebanon,918.92592804
+345,Lebanon,LBN,4.65,77.26,Middle East and Northern Africa,2006,Lebanon,991.85834735
+591,Lebanon,LBN,,,Middle East and Northern Africa,2007,Lebanon,1115.47744961
+837,Lebanon,LBN,4.59,77.91,Middle East and Northern Africa,2008,Lebanon,1118.26104131
+1083,Lebanon,LBN,5.21,78.16,Middle East and Northern Africa,2009,Lebanon,1123.46829459
+1329,Lebanon,LBN,5.03,78.36,Middle East and Northern Africa,2010,Lebanon,1146.90697821
+1575,Lebanon,LBN,5.19,78.51,Middle East and Northern Africa,2011,Lebanon,1117.3512263
+1821,Lebanon,LBN,4.57,78.61,Middle East and Northern Africa,2012,Lebanon,1085.66597271
+2067,Lebanon,LBN,4.98,78.68,Middle East and Northern Africa,2013,Lebanon,1033.01042698
+2313,Lebanon,LBN,5.23,78.73,Middle East and Northern Africa,2014,Lebanon,987.38532955
+2559,Lebanon,LBN,5.17,78.77,Middle East and Northern Africa,2015,Lebanon,
+2805,Lebanon,LBN,5.27,78.8,Middle East and Northern Africa,2016,Lebanon,
+3051,Lebanon,LBN,5.15,78.83,Middle East and Northern Africa,2017,Lebanon,
+3297,Lebanon,LBN,5.17,78.88,Middle East and Northern Africa,2018,Lebanon,
+103,Liberia,LBR,,,Sub-Saharan Africa,2005,Liberia,33.65925069
+349,Liberia,LBR,,,Sub-Saharan Africa,2006,Liberia,49.92388994
+595,Liberia,LBR,3.7,57.36,Sub-Saharan Africa,2007,Liberia,53.48293647
+841,Liberia,LBR,4.22,58.23,Sub-Saharan Africa,2008,Liberia,66.78454272
+1087,Liberia,LBR,,,Sub-Saharan Africa,2009,Liberia,89.53313312
+1333,Liberia,LBR,4.2,59.6,Sub-Saharan Africa,2010,Liberia,80.05559984
+1579,Liberia,LBR,,,Sub-Saharan Africa,2011,Liberia,81.88426596
+1825,Liberia,LBR,,,Sub-Saharan Africa,2012,Liberia,81.13406016
+2071,Liberia,LBR,,,Sub-Saharan Africa,2013,Liberia,83.65994451
+2317,Liberia,LBR,4.57,61.72,Sub-Saharan Africa,2014,Liberia,98.28589164
+2563,Liberia,LBR,2.7,62.27,Sub-Saharan Africa,2015,Liberia,
+2809,Liberia,LBR,3.35,62.8,Sub-Saharan Africa,2016,Liberia,
+3055,Liberia,LBR,4.42,63.3,Sub-Saharan Africa,2017,Liberia,
+3301,Liberia,LBR,4.13,63.73,Sub-Saharan Africa,2018,Liberia,
+102,Lithuania,LTU,,,Central and Eastern Europe,2005,Lithuania,846.9531222
+348,Lithuania,LTU,5.95,71.78,Central and Eastern Europe,2006,Lithuania,1032.69485824
+594,Lithuania,LTU,5.81,71.93,Central and Eastern Europe,2007,Lithuania,1179.89630668
+840,Lithuania,LTU,5.55,72.15,Central and Eastern Europe,2008,Lithuania,1356.63950564
+1086,Lithuania,LTU,5.47,72.45,Central and Eastern Europe,2009,Lithuania,1359.38844561
+1332,Lithuania,LTU,5.07,72.83,Central and Eastern Europe,2010,Lithuania,1387.5335155
+1578,Lithuania,LTU,5.43,73.26,Central and Eastern Europe,2011,Lithuania,1532.11929898
+1824,Lithuania,LTU,5.77,73.71,Central and Eastern Europe,2012,Lithuania,1583.97181122
+2070,Lithuania,LTU,5.6,74.14,Central and Eastern Europe,2013,Lithuania,1668.16169048
+2316,Lithuania,LTU,6.13,74.56,Central and Eastern Europe,2014,Lithuania,1718.02329039
+2562,Lithuania,LTU,5.71,74.92,Central and Eastern Europe,2015,Lithuania,
+2808,Lithuania,LTU,5.87,75.24,Central and Eastern Europe,2016,Lithuania,
+3054,Lithuania,LTU,6.27,75.51,Central and Eastern Europe,2017,Lithuania,
+3300,Lithuania,LTU,6.31,75.74,Central and Eastern Europe,2018,Lithuania,
+135,Luxembourg,LUX,,,Western Europe,2005,Luxembourg,5475.08722901
+381,Luxembourg,LUX,,,Western Europe,2006,Luxembourg,6131.899861600000
+627,Luxembourg,LUX,,,Western Europe,2007,Luxembourg,5792.58186328
+873,Luxembourg,LUX,,,Western Europe,2008,Luxembourg,6255.32373372
+1119,Luxembourg,LUX,6.96,80.03,Western Europe,2009,Luxembourg,6449.5593575
+1365,Luxembourg,LUX,7.1,80.35,Western Europe,2010,Luxembourg,6519.8471181
+1611,Luxembourg,LUX,7.1,80.66,Western Europe,2011,Luxembourg,6701.88912235
+1857,Luxembourg,LUX,6.96,80.96,Western Europe,2012,Luxembourg,6541.34817283
+2103,Luxembourg,LUX,7.13,81.22,Western Europe,2013,Luxembourg,6566.08708884
+2349,Luxembourg,LUX,6.89,81.44,Western Europe,2014,Luxembourg,6812.08034785
+2595,Luxembourg,LUX,6.7,81.64,Western Europe,2015,Luxembourg,
+2841,Luxembourg,LUX,6.97,81.8,Western Europe,2016,Luxembourg,
+3087,Luxembourg,LUX,7.06,81.96,Western Europe,2017,Luxembourg,
+3333,Luxembourg,LUX,7.24,82.1,Western Europe,2018,Luxembourg,
+107,Madagascar,MDG,,,Sub-Saharan Africa,2005,Madagascar,62.38910781
+353,Madagascar,MDG,3.98,61.65,Sub-Saharan Africa,2006,Madagascar,66.68191258
+599,Madagascar,MDG,,,Sub-Saharan Africa,2007,Madagascar,68.91424403
+845,Madagascar,MDG,4.64,62.51,Sub-Saharan Africa,2008,Madagascar,66.00689973
+1091,Madagascar,MDG,,,Sub-Saharan Africa,2009,Madagascar,64.89127922
+1337,Madagascar,MDG,,,Sub-Saharan Africa,2010,Madagascar,66.26698187
+1583,Madagascar,MDG,4.38,63.84,Sub-Saharan Africa,2011,Madagascar,58.09751877
+1829,Madagascar,MDG,3.55,64.28,Sub-Saharan Africa,2012,Madagascar,48.34825107
+2075,Madagascar,MDG,3.82,64.71,Sub-Saharan Africa,2013,Madagascar,58.64733798
+2321,Madagascar,MDG,3.68,65.13,Sub-Saharan Africa,2014,Madagascar,43.70476778
+2567,Madagascar,MDG,3.59,65.54,Sub-Saharan Africa,2015,Madagascar,
+2813,Madagascar,MDG,3.66,65.93,Sub-Saharan Africa,2016,Madagascar,
+3059,Madagascar,MDG,4.08,66.31,Sub-Saharan Africa,2017,Madagascar,
+3305,Madagascar,MDG,4.07,66.68,Sub-Saharan Africa,2018,Madagascar,
+122,Malawi,MWI,,,Sub-Saharan Africa,2005,Malawi,45.09145268
+368,Malawi,MWI,3.83,49.12,Sub-Saharan Africa,2006,Malawi,50.56483851
+614,Malawi,MWI,4.89,50.6,Sub-Saharan Africa,2007,Malawi,57.17483037
+860,Malawi,MWI,,,Sub-Saharan Africa,2008,Malawi,70.43157070000000
+1106,Malawi,MWI,5.15,53.89,Sub-Saharan Africa,2009,Malawi,71.43527296
+1352,Malawi,MWI,,,Sub-Saharan Africa,2010,Malawi,73.76398658
+1598,Malawi,MWI,3.95,57.16,Sub-Saharan Africa,2011,Malawi,88.54359650000000
+1844,Malawi,MWI,4.28,58.63,Sub-Saharan Africa,2012,Malawi,91.98897678
+2090,Malawi,MWI,4.04,59.93,Sub-Saharan Africa,2013,Malawi,86.60257164
+2336,Malawi,MWI,4.56,61.04,Sub-Saharan Africa,2014,Malawi,93.48208694
+2582,Malawi,MWI,3.87,61.95,Sub-Saharan Africa,2015,Malawi,
+2828,Malawi,MWI,3.48,62.68,Sub-Saharan Africa,2016,Malawi,
+3074,Malawi,MWI,3.42,63.28,Sub-Saharan Africa,2017,Malawi,
+3320,Malawi,MWI,3.33,63.8,Sub-Saharan Africa,2018,Malawi,
+120,Malaysia,MYS,,,Southeastern Asia,2005,Malaysia,526.45850477
+366,Malaysia,MYS,6.01,73.74,Southeastern Asia,2006,Malaysia,624.71139687
+612,Malaysia,MYS,6.24,73.93,Southeastern Asia,2007,Malaysia,660.9010146
+858,Malaysia,MYS,5.81,74.12,Southeastern Asia,2008,Malaysia,668.4281923
+1104,Malaysia,MYS,5.38,74.31,Southeastern Asia,2009,Malaysia,746.74773417
+1350,Malaysia,MYS,5.58,74.49,Southeastern Asia,2010,Malaysia,801.95280727
+1596,Malaysia,MYS,5.79,74.68,Southeastern Asia,2011,Malaysia,825.50830671
+1842,Malaysia,MYS,5.91,74.88,Southeastern Asia,2012,Malaysia,901.81763854
+2088,Malaysia,MYS,5.77,75.07,Southeastern Asia,2013,Malaysia,945.73613242
+2334,Malaysia,MYS,5.96,75.27,Southeastern Asia,2014,Malaysia,1040.23279265
+2580,Malaysia,MYS,6.32,75.46,Southeastern Asia,2015,Malaysia,
+2826,Malaysia,MYS,,,Southeastern Asia,2016,Malaysia,
+3072,Malaysia,MYS,,,Southeastern Asia,2017,Malaysia,
+3318,Malaysia,MYS,5.34,76.0,Southeastern Asia,2018,Malaysia,
+112,Mali,MLI,,,Sub-Saharan Africa,2005,Mali,80.18927412
+358,Mali,MLI,4.01,52.84,Sub-Saharan Africa,2006,Mali,86.8998321
+604,Mali,MLI,,,Sub-Saharan Africa,2007,Mali,95.73532231
+850,Mali,MLI,4.11,54.19,Sub-Saharan Africa,2008,Mali,95.78012205
+1096,Mali,MLI,3.98,54.76,Sub-Saharan Africa,2009,Mali,99.20487992
+1342,Mali,MLI,3.76,55.25,Sub-Saharan Africa,2010,Mali,95.47477221
+1588,Mali,MLI,4.67,55.7,Sub-Saharan Africa,2011,Mali,102.39318512
+1834,Mali,MLI,4.31,56.14,Sub-Saharan Africa,2012,Mali,101.17600249
+2080,Mali,MLI,3.68,56.58,Sub-Saharan Africa,2013,Mali,99.17748647
+2326,Mali,MLI,3.97,57.04,Sub-Saharan Africa,2014,Mali,108.09989826
+2572,Mali,MLI,4.58,57.51,Sub-Saharan Africa,2015,Mali,
+2818,Mali,MLI,4.02,57.99,Sub-Saharan Africa,2016,Mali,
+3064,Mali,MLI,4.74,58.45,Sub-Saharan Africa,2017,Mali,
+3310,Mali,MLI,4.42,58.89,Sub-Saharan Africa,2018,Mali,
+116,Malta,MLT,,,Western Europe,2005,Malta,1993.7680404
+362,Malta,MLT,,,Western Europe,2006,Malta,2120.48422571
+608,Malta,MLT,,,Western Europe,2007,Malta,2092.23301174
+854,Malta,MLT,,,Western Europe,2008,Malta,2191.61711671
+1100,Malta,MLT,6.33,80.64,Western Europe,2009,Malta,2280.10126351
+1346,Malta,MLT,5.77,80.87,Western Europe,2010,Malta,2372.9357941
+1592,Malta,MLT,6.15,81.09,Western Europe,2011,Malta,2798.53855455
+1838,Malta,MLT,5.96,81.31,Western Europe,2012,Malta,2959.79092702
+2084,Malta,MLT,6.38,81.52,Western Europe,2013,Malta,3054.57261141
+2330,Malta,MLT,6.45,81.72,Western Europe,2014,Malta,3071.62765078
+2576,Malta,MLT,6.61,81.9,Western Europe,2015,Malta,
+2822,Malta,MLT,6.59,82.06,Western Europe,2016,Malta,
+3068,Malta,MLT,6.68,82.22,Western Europe,2017,Malta,
+3314,Malta,MLT,6.91,82.38,Western Europe,2018,Malta,
+115,Mauritania,MRT,,,Sub-Saharan Africa,2005,Mauritania,110.39375691
+361,Mauritania,MRT,,,Sub-Saharan Africa,2006,Mauritania,100.35767993
+607,Mauritania,MRT,4.15,61.78,Sub-Saharan Africa,2007,Mauritania,113.71924748
+853,Mauritania,MRT,4.25,62.02,Sub-Saharan Africa,2008,Mauritania,104.26793759
+1099,Mauritania,MRT,4.5,62.27,Sub-Saharan Africa,2009,Mauritania,118.9862779
+1345,Mauritania,MRT,4.77,62.53,Sub-Saharan Africa,2010,Mauritania,106.54060157
+1591,Mauritania,MRT,4.78,62.8,Sub-Saharan Africa,2011,Mauritania,96.85331914
+1837,Mauritania,MRT,4.67,63.08,Sub-Saharan Africa,2012,Mauritania,119.34286766
+2083,Mauritania,MRT,4.2,63.37,Sub-Saharan Africa,2013,Mauritania,134.97291781
+2329,Mauritania,MRT,4.48,63.65,Sub-Saharan Africa,2014,Mauritania,148.10751933
+2575,Mauritania,MRT,3.92,63.94,Sub-Saharan Africa,2015,Mauritania,
+2821,Mauritania,MRT,4.47,64.21,Sub-Saharan Africa,2016,Mauritania,
+3067,Mauritania,MRT,4.68,64.46,Sub-Saharan Africa,2017,Mauritania,
+3313,Mauritania,MRT,4.31,64.7,Sub-Saharan Africa,2018,Mauritania,
+114,Mauritius,MUS,,,Sub-Saharan Africa,2005,Mauritius,509.76472260000000
+360,Mauritius,MUS,,,Sub-Saharan Africa,2006,Mauritius,532.67090924
+606,Mauritius,MUS,,,Sub-Saharan Africa,2007,Mauritius,558.47312433
+852,Mauritius,MUS,,,Sub-Saharan Africa,2008,Mauritius,649.45504053
+1098,Mauritius,MUS,,,Sub-Saharan Africa,2009,Mauritius,724.8408885
+1344,Mauritius,MUS,,,Sub-Saharan Africa,2010,Mauritius,809.35645916
+1590,Mauritius,MUS,5.48,73.72,Sub-Saharan Africa,2011,Mauritius,812.53494416
+1836,Mauritius,MUS,,,Sub-Saharan Africa,2012,Mauritius,804.58658084
+2082,Mauritius,MUS,,,Sub-Saharan Africa,2013,Mauritius,851.45224809
+2328,Mauritius,MUS,5.65,74.35,Sub-Saharan Africa,2014,Mauritius,896.1581696000000
+2574,Mauritius,MUS,,,Sub-Saharan Africa,2015,Mauritius,
+2820,Mauritius,MUS,5.61,74.63,Sub-Saharan Africa,2016,Mauritius,
+3066,Mauritius,MUS,6.17,74.74,Sub-Saharan Africa,2017,Mauritius,
+3312,Mauritius,MUS,5.88,74.86,Sub-Saharan Africa,2018,Mauritius,
+119,Mexico,MEX,6.58,75.3,Latin America and Caribbean,2005,Mexico,750.37685211
+365,Mexico,MEX,,,Latin America and Caribbean,2006,Mexico,792.1867265
+611,Mexico,MEX,6.53,75.26,Latin America and Caribbean,2007,Mexico,841.1228725
+857,Mexico,MEX,6.83,75.19,Latin America and Caribbean,2008,Mexico,899.85037586
+1103,Mexico,MEX,6.96,75.13,Latin America and Caribbean,2009,Mexico,956.59390796
+1349,Mexico,MEX,6.8,75.06,Latin America and Caribbean,2010,Mexico,974.8553200000000
+1595,Mexico,MEX,6.91,75.01,Latin America and Caribbean,2011,Mexico,995.90824513
+1841,Mexico,MEX,7.32,74.97,Latin America and Caribbean,2012,Mexico,1051.51525325
+2087,Mexico,MEX,7.44,74.93,Latin America and Caribbean,2013,Mexico,1070.12281272
+2333,Mexico,MEX,6.68,74.91,Latin America and Caribbean,2014,Mexico,1121.9887776000000
+2579,Mexico,MEX,6.24,74.9,Latin America and Caribbean,2015,Mexico,
+2825,Mexico,MEX,6.82,74.92,Latin America and Caribbean,2016,Mexico,
+3071,Mexico,MEX,6.41,74.95,Latin America and Caribbean,2017,Mexico,
+3317,Mexico,MEX,6.55,74.99,Latin America and Caribbean,2018,Mexico,
+109,Mongolia,MNG,,,Eastern Asia,2005,Mongolia,273.82846264
+355,Mongolia,MNG,,,Eastern Asia,2006,Mongolia,278.18074914
+601,Mongolia,MNG,4.61,65.98,Eastern Asia,2007,Mongolia,336.44597329
+847,Mongolia,MNG,4.49,66.45,Eastern Asia,2008,Mongolia,405.68023185
+1093,Mongolia,MNG,,,Eastern Asia,2009,Mongolia,377.07281553
+1339,Mongolia,MNG,4.59,67.38,Eastern Asia,2010,Mongolia,354.74307051
+1585,Mongolia,MNG,5.03,67.82,Eastern Asia,2011,Mongolia,395.96184958
+1831,Mongolia,MNG,4.89,68.22,Eastern Asia,2012,Mongolia,421.36811594
+2077,Mongolia,MNG,4.91,68.57,Eastern Asia,2013,Mongolia,468.02711423
+2323,Mongolia,MNG,4.82,68.86,Eastern Asia,2014,Mongolia,565.07024752
+2569,Mongolia,MNG,4.98,69.11,Eastern Asia,2015,Mongolia,
+2815,Mongolia,MNG,5.06,69.32,Eastern Asia,2016,Mongolia,
+3061,Mongolia,MNG,5.33,69.51,Eastern Asia,2017,Mongolia,
+3307,Mongolia,MNG,5.46,69.69,Eastern Asia,2018,Mongolia,
+139,Montenegro,MNE,,,Central and Eastern Europe,2005,Montenegro,708.86869574
+385,Montenegro,MNE,,,Central and Eastern Europe,2006,Montenegro,840.27964083
+631,Montenegro,MNE,5.2,74.11,Central and Eastern Europe,2007,Montenegro,838.03404909
+877,Montenegro,MNE,,,Central and Eastern Europe,2008,Montenegro,850.00337062
+1123,Montenegro,MNE,4.8,74.78,Central and Eastern Europe,2009,Montenegro,794.43184856
+1369,Montenegro,MNE,5.46,75.15,Central and Eastern Europe,2010,Montenegro,916.8979996000000
+1615,Montenegro,MNE,5.22,75.5,Central and Eastern Europe,2011,Montenegro,970.63412665
+1861,Montenegro,MNE,5.22,75.82,Central and Eastern Europe,2012,Montenegro,979.68980209
+2107,Montenegro,MNE,5.07,76.09,Central and Eastern Europe,2013,Montenegro,903.24348361
+2353,Montenegro,MNE,5.28,76.3,Central and Eastern Europe,2014,Montenegro,888.16736185
+2599,Montenegro,MNE,5.12,76.45,Central and Eastern Europe,2015,Montenegro,
+2845,Montenegro,MNE,5.3,76.57,Central and Eastern Europe,2016,Montenegro,
+3091,Montenegro,MNE,5.61,76.67,Central and Eastern Europe,2017,Montenegro,
+3337,Montenegro,MNE,5.65,76.77,Central and Eastern Europe,2018,Montenegro,
+113,Morocco,MAR,,,Middle East and Northern Africa,2005,Morocco,242.88279202
+359,Morocco,MAR,,,Middle East and Northern Africa,2006,Morocco,276.37184787
+605,Morocco,MAR,,,Middle East and Northern Africa,2007,Morocco,301.68937912
+851,Morocco,MAR,,,Middle East and Northern Africa,2008,Morocco,317.74171764
+1097,Morocco,MAR,,,Middle East and Northern Africa,2009,Morocco,346.87940032
+1343,Morocco,MAR,4.38,74.38,Middle East and Northern Africa,2010,Morocco,277.95652767
+1589,Morocco,MAR,5.08,74.7,Middle East and Northern Africa,2011,Morocco,401.83396507
+1835,Morocco,MAR,4.97,74.97,Middle East and Northern Africa,2012,Morocco,425.14299367
+2081,Morocco,MAR,5.14,75.23,Middle East and Northern Africa,2013,Morocco,428.79521643
+2327,Morocco,MAR,,,Middle East and Northern Africa,2014,Morocco,446.63974242
+2573,Morocco,MAR,5.16,75.73,Middle East and Northern Africa,2015,Morocco,
+2819,Morocco,MAR,5.39,75.97,Middle East and Northern Africa,2016,Morocco,
+3065,Morocco,MAR,5.31,76.22,Middle East and Northern Africa,2017,Morocco,
+3311,Morocco,MAR,4.9,76.45,Middle East and Northern Africa,2018,Morocco,
+121,Mozambique,MOZ,,,Sub-Saharan Africa,2005,Mozambique,47.04905304
+367,Mozambique,MOZ,4.59,50.64,Sub-Saharan Africa,2006,Mozambique,47.51974814
+613,Mozambique,MOZ,4.83,50.93,Sub-Saharan Africa,2007,Mozambique,40.95295771
+859,Mozambique,MOZ,4.65,51.29,Sub-Saharan Africa,2008,Mozambique,40.37459561
+1105,Mozambique,MOZ,,,Sub-Saharan Africa,2009,Mozambique,46.41985954
+1351,Mozambique,MOZ,,,Sub-Saharan Africa,2010,Mozambique,48.28691073
+1597,Mozambique,MOZ,4.97,53.04,Sub-Saharan Africa,2011,Mozambique,59.64158805
+1843,Mozambique,MOZ,,,Sub-Saharan Africa,2012,Mozambique,56.55687427
+2089,Mozambique,MOZ,,,Sub-Saharan Africa,2013,Mozambique,63.30543391
+2335,Mozambique,MOZ,,,Sub-Saharan Africa,2014,Mozambique,79.32069416
+2581,Mozambique,MOZ,4.55,57.21,Sub-Saharan Africa,2015,Mozambique,
+2827,Mozambique,MOZ,,,Sub-Saharan Africa,2016,Mozambique,
+3073,Mozambique,MOZ,4.28,59.31,Sub-Saharan Africa,2017,Mozambique,
+3319,Mozambique,MOZ,4.65,60.16,Sub-Saharan Africa,2018,Mozambique,
+217,Namibia,,,,Sub-Saharan Africa,2005,Namibia,474.35165016
+463,Namibia,,,,Sub-Saharan Africa,2006,Namibia,508.22346505
+709,Namibia,,4.89,52.59,Sub-Saharan Africa,2007,Namibia,532.77043775
+955,Namibia,,,,Sub-Saharan Africa,2008,Namibia,559.78580789
+1201,Namibia,,,,Sub-Saharan Africa,2009,Namibia,627.95842703
+1447,Namibia,,,,Sub-Saharan Africa,2010,Namibia,647.79411173
+1693,Namibia,,,,Sub-Saharan Africa,2011,Namibia,757.4827190000000
+1939,Namibia,,,,Sub-Saharan Africa,2012,Namibia,743.48640422
+2185,Namibia,,,,Sub-Saharan Africa,2013,Namibia,802.18034785
+2431,Namibia,,4.57,61.42,Sub-Saharan Africa,2014,Namibia,869.2953558
+2677,Namibia,,,,Sub-Saharan Africa,2015,Namibia,
+2923,Namibia,,,,Sub-Saharan Africa,2016,Namibia,
+3169,Namibia,,4.44,63.02,Sub-Saharan Africa,2017,Namibia,
+3415,Namibia,,4.83,63.37,Sub-Saharan Africa,2018,Namibia,
+155,Nepal,NPL,,,Southern Asia,2005,Nepal,86.29401818
+401,Nepal,NPL,4.57,65.77,Southern Asia,2006,Nepal,90.47949402
+647,Nepal,NPL,4.75,66.26,Southern Asia,2007,Nepal,97.47301951
+893,Nepal,NPL,4.44,66.73,Southern Asia,2008,Nepal,115.03662859
+1139,Nepal,NPL,4.92,67.18,Southern Asia,2009,Nepal,119.42151237
+1385,Nepal,NPL,4.35,67.61,Southern Asia,2010,Nepal,125.82630682
+1631,Nepal,NPL,3.81,68.03,Southern Asia,2011,Nepal,137.41876062
+1877,Nepal,NPL,4.23,68.43,Southern Asia,2012,Nepal,126.93983948
+2123,Nepal,NPL,4.6,68.81,Southern Asia,2013,Nepal,127.47064734
+2369,Nepal,NPL,4.98,69.17,Southern Asia,2014,Nepal,137.3973226
+2615,Nepal,NPL,4.81,69.52,Southern Asia,2015,Nepal,
+2861,Nepal,NPL,5.1,69.85,Southern Asia,2016,Nepal,
+3107,Nepal,NPL,4.74,70.17,Southern Asia,2017,Nepal,
+3353,Nepal,NPL,4.91,70.48,Southern Asia,2018,Nepal,
+153,Netherlands,NLD,7.46,79.4,Western Europe,2005,Netherlands,3583.81935878
+399,Netherlands,NLD,,,Western Europe,2006,Netherlands,3824.32078238
+645,Netherlands,NLD,7.45,80.0,Western Europe,2007,Netherlands,4091.84722783
+891,Netherlands,NLD,7.63,80.29,Western Europe,2008,Netherlands,4427.14038154
+1137,Netherlands,NLD,,,Western Europe,2009,Netherlands,4581.53446347
+1383,Netherlands,NLD,7.5,80.8,Western Europe,2010,Netherlands,4698.8571436
+1629,Netherlands,NLD,7.56,81.02,Western Europe,2011,Netherlands,4894.53625046
+1875,Netherlands,NLD,7.47,81.21,Western Europe,2012,Netherlands,5115.01339289
+2121,Netherlands,NLD,7.41,81.39,Western Europe,2013,Netherlands,5169.86204111
+2367,Netherlands,NLD,7.32,81.56,Western Europe,2014,Netherlands,5201.6963766
+2613,Netherlands,NLD,7.32,81.72,Western Europe,2015,Netherlands,
+2859,Netherlands,NLD,7.54,81.86,Western Europe,2016,Netherlands,
+3105,Netherlands,NLD,7.46,82.0,Western Europe,2017,Netherlands,
+3351,Netherlands,NLD,7.46,82.14,Western Europe,2018,Netherlands,
+159,New Zealand,NZL,,,Australia and New Zealand,2005,New Zealand,2134.65828182
+405,New Zealand,NZL,7.31,79.98,Australia and New Zealand,2006,New Zealand,2405.9194273000000
+651,New Zealand,NZL,7.6,80.22,Australia and New Zealand,2007,New Zealand,2445.42087519
+897,New Zealand,NZL,7.38,80.44,Australia and New Zealand,2008,New Zealand,3167.4257125
+1143,New Zealand,NZL,,,Australia and New Zealand,2009,New Zealand,3425.96653008
+1389,New Zealand,NZL,7.22,80.86,Australia and New Zealand,2010,New Zealand,3477.4801828
+1635,New Zealand,NZL,7.19,81.05,Australia and New Zealand,2011,New Zealand,3621.65301572
+1881,New Zealand,NZL,7.25,81.23,Australia and New Zealand,2012,New Zealand,3726.99893131
+2127,New Zealand,NZL,7.28,81.4,Australia and New Zealand,2013,New Zealand,3871.23636383
+2373,New Zealand,NZL,7.31,81.56,Australia and New Zealand,2014,New Zealand,4018.30781878
+2619,New Zealand,NZL,7.42,81.71,Australia and New Zealand,2015,New Zealand,
+2865,New Zealand,NZL,7.23,81.86,Australia and New Zealand,2016,New Zealand,
+3111,New Zealand,NZL,7.33,82.0,Australia and New Zealand,2017,New Zealand,
+3357,New Zealand,NZL,7.37,82.14,Australia and New Zealand,2018,New Zealand,
+158,Nicaragua,NIC,,,Latin America and Caribbean,2005,Nicaragua,206.38166280000000
+404,Nicaragua,NIC,4.46,71.44,Latin America and Caribbean,2006,Nicaragua,226.55907776
+650,Nicaragua,NIC,4.94,71.67,Latin America and Caribbean,2007,Nicaragua,263.91667632
+896,Nicaragua,NIC,5.1,71.92,Latin America and Caribbean,2008,Nicaragua,275.90984118
+1142,Nicaragua,NIC,5.35,72.17,Latin America and Caribbean,2009,Nicaragua,260.58772052
+1388,Nicaragua,NIC,5.69,72.43,Latin America and Caribbean,2010,Nicaragua,259.37997873
+1634,Nicaragua,NIC,5.39,72.69,Latin America and Caribbean,2011,Nicaragua,270.0435
+1880,Nicaragua,NIC,5.45,72.95,Latin America and Caribbean,2012,Nicaragua,359.19244923
+2126,Nicaragua,NIC,5.77,73.2,Latin America and Caribbean,2013,Nicaragua,394.72514894
+2372,Nicaragua,NIC,6.28,73.43,Latin America and Caribbean,2014,Nicaragua,444.61846220000000
+2618,Nicaragua,NIC,5.92,73.65,Latin America and Caribbean,2015,Nicaragua,
+2864,Nicaragua,NIC,6.01,73.86,Latin America and Caribbean,2016,Nicaragua,
+3110,Nicaragua,NIC,6.48,74.07,Latin America and Caribbean,2017,Nicaragua,
+3356,Nicaragua,NIC,5.82,74.28,Latin America and Caribbean,2018,Nicaragua,
+125,Niger,NER,,,Sub-Saharan Africa,2005,Niger,48.52627033
+371,Niger,NER,3.74,54.18,Sub-Saharan Africa,2006,Niger,53.30343808
+617,Niger,NER,4.28,54.97,Sub-Saharan Africa,2007,Niger,50.93756909
+863,Niger,NER,4.24,55.76,Sub-Saharan Africa,2008,Niger,53.47624801
+1109,Niger,NER,4.27,56.56,Sub-Saharan Africa,2009,Niger,53.17413320000000
+1355,Niger,NER,4.1,57.33,Sub-Saharan Africa,2010,Niger,51.15060785
+1601,Niger,NER,4.56,58.08,Sub-Saharan Africa,2011,Niger,53.78403964
+1847,Niger,NER,3.8,58.79,Sub-Saharan Africa,2012,Niger,51.95151069
+2093,Niger,NER,3.72,59.46,Sub-Saharan Africa,2013,Niger,44.69509519
+2339,Niger,NER,4.18,60.07,Sub-Saharan Africa,2014,Niger,53.53040204
+2585,Niger,NER,3.67,60.63,Sub-Saharan Africa,2015,Niger,
+2831,Niger,NER,4.23,61.14,Sub-Saharan Africa,2016,Niger,
+3077,Niger,NER,4.62,61.6,Sub-Saharan Africa,2017,Niger,
+3323,Niger,NER,5.16,62.02,Sub-Saharan Africa,2018,Niger,
+152,Nigeria,NGA,,,Sub-Saharan Africa,2005,Nigeria,242.76002997
+398,Nigeria,NGA,4.71,48.81,Sub-Saharan Africa,2006,Nigeria,234.89217034
+644,Nigeria,NGA,4.89,49.37,Sub-Saharan Africa,2007,Nigeria,306.93829029
+890,Nigeria,NGA,4.94,49.91,Sub-Saharan Africa,2008,Nigeria,289.45342928
+1136,Nigeria,NGA,4.98,50.42,Sub-Saharan Africa,2009,Nigeria,321.64897998
+1382,Nigeria,NGA,4.76,50.9,Sub-Saharan Africa,2010,Nigeria,174.19214229
+1628,Nigeria,NGA,,,Sub-Saharan Africa,2011,Nigeria,192.85273424
+1874,Nigeria,NGA,5.49,51.79,Sub-Saharan Africa,2012,Nigeria,178.3101464
+2120,Nigeria,NGA,4.82,52.23,Sub-Saharan Africa,2013,Nigeria,208.46400166
+2366,Nigeria,NGA,,,Sub-Saharan Africa,2014,Nigeria,216.8711705
+2612,Nigeria,NGA,4.93,53.11,Sub-Saharan Africa,2015,Nigeria,
+2858,Nigeria,NGA,5.22,53.54,Sub-Saharan Africa,2016,Nigeria,
+3104,Nigeria,NGA,5.32,53.95,Sub-Saharan Africa,2017,Nigeria,
+3350,Nigeria,NGA,5.25,54.33,Sub-Saharan Africa,2018,Nigeria,
+154,Norway,NOR,,,Western Europe,2005,Norway,4316.98581622
+400,Norway,NOR,7.42,80.22,Western Europe,2006,Norway,4634.06569028
+646,Norway,NOR,,,Western Europe,2007,Norway,4910.69953603
+892,Norway,NOR,7.63,80.72,Western Europe,2008,Norway,5280.11159071
+1138,Norway,NOR,,,Western Europe,2009,Norway,5362.56873171
+1384,Norway,NOR,,,Western Europe,2010,Norway,5474.76868541
+1630,Norway,NOR,,,Western Europe,2011,Norway,5769.86060032
+1876,Norway,NOR,7.68,81.51,Western Europe,2012,Norway,6116.47887971
+2122,Norway,NOR,,,Western Europe,2013,Norway,6204.48878469
+2368,Norway,NOR,7.44,81.79,Western Europe,2014,Norway,6346.61546337
+2614,Norway,NOR,7.6,81.91,Western Europe,2015,Norway,
+2860,Norway,NOR,7.6,82.03,Western Europe,2016,Norway,
+3106,Norway,NOR,7.58,82.15,Western Europe,2017,Norway,
+3352,Norway,NOR,7.44,82.27,Western Europe,2018,Norway,
+162,Pakistan,PAK,5.22,63.95,Southern Asia,2005,Pakistan,112.62107884
+408,Pakistan,PAK,,,Southern Asia,2006,Pakistan,130.81274017
+654,Pakistan,PAK,5.67,64.42,Southern Asia,2007,Pakistan,135.97402058
+900,Pakistan,PAK,4.41,64.68,Southern Asia,2008,Pakistan,134.23159862
+1146,Pakistan,PAK,5.21,64.97,Southern Asia,2009,Pakistan,122.84840625
+1392,Pakistan,PAK,5.79,65.26,Southern Asia,2010,Pakistan,126.96856971
+1638,Pakistan,PAK,5.27,65.56,Southern Asia,2011,Pakistan,130.0113031
+1884,Pakistan,PAK,5.13,65.85,Southern Asia,2012,Pakistan,123.32502869
+2130,Pakistan,PAK,5.14,66.12,Southern Asia,2013,Pakistan,127.41185011
+2376,Pakistan,PAK,5.44,66.36,Southern Asia,2014,Pakistan,128.98872466
+2622,Pakistan,PAK,4.82,66.58,Southern Asia,2015,Pakistan,
+2868,Pakistan,PAK,5.55,66.77,Southern Asia,2016,Pakistan,
+3114,Pakistan,PAK,5.83,66.95,Southern Asia,2017,Pakistan,
+3360,Pakistan,PAK,5.47,67.11,Southern Asia,2018,Pakistan,
+164,Panama,PAN,,,Latin America and Caribbean,2005,Panama,753.31879808
+410,Panama,PAN,6.13,76.06,Latin America and Caribbean,2006,Panama,774.4868213
+656,Panama,PAN,6.89,76.23,Latin America and Caribbean,2007,Panama,789.53098124
+902,Panama,PAN,6.93,76.41,Latin America and Caribbean,2008,Panama,924.23629596
+1148,Panama,PAN,7.03,76.6,Latin America and Caribbean,2009,Panama,1065.97562529
+1394,Panama,PAN,7.32,76.79,Latin America and Caribbean,2010,Panama,1195.17525037
+1640,Panama,PAN,7.25,76.99,Latin America and Caribbean,2011,Panama,1238.56300571
+1886,Panama,PAN,6.86,77.19,Latin America and Caribbean,2012,Panama,1320.36065486
+2132,Panama,PAN,6.87,77.39,Latin America and Caribbean,2013,Panama,1594.06820797
+2378,Panama,PAN,6.63,77.58,Latin America and Caribbean,2014,Panama,1676.95228529
+2624,Panama,PAN,6.61,77.78,Latin America and Caribbean,2015,Panama,
+2870,Panama,PAN,6.12,77.96,Latin America and Caribbean,2016,Panama,
+3116,Panama,PAN,6.57,78.15,Latin America and Caribbean,2017,Panama,
+3362,Panama,PAN,6.28,78.33,Latin America and Caribbean,2018,Panama,
+160,Paraguay,PRY,,,Latin America and Caribbean,2005,Paraguay,330.97086868
+406,Paraguay,PRY,4.73,71.86,Latin America and Caribbean,2006,Paraguay,372.72146793
+652,Paraguay,PRY,5.27,72.06,Latin America and Caribbean,2007,Paraguay,396.77113001
+898,Paraguay,PRY,5.57,72.25,Latin America and Caribbean,2008,Paraguay,467.71790263
+1144,Paraguay,PRY,5.58,72.45,Latin America and Caribbean,2009,Paraguay,577.87382281
+1390,Paraguay,PRY,5.84,72.65,Latin America and Caribbean,2010,Paraguay,650.0486716
+1636,Paraguay,PRY,5.68,72.86,Latin America and Caribbean,2011,Paraguay,707.2075014
+1882,Paraguay,PRY,5.82,73.07,Latin America and Caribbean,2012,Paraguay,769.24272588
+2128,Paraguay,PRY,5.94,73.27,Latin America and Caribbean,2013,Paraguay,893.45180541
+2374,Paraguay,PRY,5.12,73.47,Latin America and Caribbean,2014,Paraguay,872.92836492
+2620,Paraguay,PRY,5.56,73.66,Latin America and Caribbean,2015,Paraguay,
+2866,Paraguay,PRY,5.8,73.84,Latin America and Caribbean,2016,Paraguay,
+3112,Paraguay,PRY,5.71,73.99,Latin America and Caribbean,2017,Paraguay,
+3358,Paraguay,PRY,,,Latin America and Caribbean,2018,Paraguay,
+161,Peru,PER,,,Latin America and Caribbean,2005,Peru,316.29371587
+407,Peru,PER,4.81,73.22,Latin America and Caribbean,2006,Peru,327.96159325
+653,Peru,PER,5.21,73.53,Latin America and Caribbean,2007,Peru,371.54624839
+899,Peru,PER,5.13,73.83,Latin America and Caribbean,2008,Peru,420.01801005
+1145,Peru,PER,5.52,74.12,Latin America and Caribbean,2009,Peru,478.74367417
+1391,Peru,PER,5.61,74.41,Latin America and Caribbean,2010,Peru,486.96081782
+1637,Peru,PER,5.89,74.7,Latin America and Caribbean,2011,Peru,511.36681767
+1883,Peru,PER,5.82,74.98,Latin America and Caribbean,2012,Peru,571.70563437
+2129,Peru,PER,5.78,75.26,Latin America and Caribbean,2013,Peru,612.09755466
+2375,Peru,PER,5.87,75.53,Latin America and Caribbean,2014,Peru,656.18008382
+2621,Peru,PER,5.58,75.79,Latin America and Caribbean,2015,Peru,
+2867,Peru,PER,5.7,76.04,Latin America and Caribbean,2016,Peru,
+3113,Peru,PER,5.71,76.29,Latin America and Caribbean,2017,Peru,
+3359,Peru,PER,5.68,76.52,Latin America and Caribbean,2018,Peru,
+172,Philippines,PHL,,,Southeastern Asia,2005,Philippines,166.79762412
+418,Philippines,PHL,4.67,69.23,Southeastern Asia,2006,Philippines,179.65569269
+664,Philippines,PHL,5.07,69.37,Southeastern Asia,2007,Philippines,193.05280856
+910,Philippines,PHL,4.59,69.52,Southeastern Asia,2008,Philippines,207.48259139
+1156,Philippines,PHL,4.88,69.67,Southeastern Asia,2009,Philippines,227.04055594
+1402,Philippines,PHL,4.94,69.82,Southeastern Asia,2010,Philippines,241.62500709
+1648,Philippines,PHL,4.99,69.98,Southeastern Asia,2011,Philippines,246.84718570000000
+1894,Philippines,PHL,5.0,70.15,Southeastern Asia,2012,Philippines,274.48929363
+2140,Philippines,PHL,4.98,70.32,Southeastern Asia,2013,Philippines,300.39442387
+2386,Philippines,PHL,5.31,70.48,Southeastern Asia,2014,Philippines,328.87213835
+2632,Philippines,PHL,5.55,70.64,Southeastern Asia,2015,Philippines,
+2878,Philippines,PHL,5.43,70.8,Southeastern Asia,2016,Philippines,
+3124,Philippines,PHL,5.59,70.95,Southeastern Asia,2017,Philippines,
+3370,Philippines,PHL,5.87,71.1,Southeastern Asia,2018,Philippines,
+163,Poland,POL,5.59,75.1,Central and Eastern Europe,2005,Poland,856.34196471
+409,Poland,POL,,,Central and Eastern Europe,2006,Poland,934.65720737
+655,Poland,POL,5.89,75.52,Central and Eastern Europe,2007,Poland,1060.61998353
+901,Poland,POL,,,Central and Eastern Europe,2008,Poland,1241.30018841
+1147,Poland,POL,5.77,76.03,Central and Eastern Europe,2009,Poland,1363.93147766
+1393,Poland,POL,5.89,76.33,Central and Eastern Europe,2010,Poland,1437.48700767
+1639,Poland,POL,5.65,76.65,Central and Eastern Europe,2011,Poland,1509.42655794
+1885,Poland,POL,5.88,76.97,Central and Eastern Europe,2012,Poland,1544.5590285
+2131,Poland,POL,5.75,77.28,Central and Eastern Europe,2013,Poland,1529.92398835
+2377,Poland,POL,5.75,77.58,Central and Eastern Europe,2014,Poland,1570.44646918
+2623,Poland,POL,6.01,77.86,Central and Eastern Europe,2015,Poland,
+2869,Poland,POL,6.16,78.11,Central and Eastern Europe,2016,Poland,
+3115,Poland,POL,6.2,78.34,Central and Eastern Europe,2017,Poland,
+3361,Poland,POL,,,Central and Eastern Europe,2018,Poland,
+165,Portugal,PRT,,,Western Europe,2005,Portugal,2204.03031737
+411,Portugal,PRT,5.41,78.79,Western Europe,2006,Portugal,2312.99145691
+657,Portugal,PRT,,,Western Europe,2007,Portugal,2428.9669229
+903,Portugal,PRT,5.72,79.42,Western Europe,2008,Portugal,2584.407663
+1149,Portugal,PRT,,,Western Europe,2009,Portugal,2732.78813306
+1395,Portugal,PRT,5.09,80.0,Western Europe,2010,Portugal,2810.05633839
+1641,Portugal,PRT,5.22,80.26,Western Europe,2011,Portugal,2708.02402615
+1887,Portugal,PRT,4.99,80.51,Western Europe,2012,Portugal,2624.03726017
+2133,Portugal,PRT,5.16,80.76,Western Europe,2013,Portugal,2634.13398332
+2379,Portugal,PRT,5.13,81.0,Western Europe,2014,Portugal,2689.94233578
+2625,Portugal,PRT,5.08,81.22,Western Europe,2015,Portugal,
+2871,Portugal,PRT,5.45,81.44,Western Europe,2016,Portugal,
+3117,Portugal,PRT,5.71,81.66,Western Europe,2017,Portugal,
+3363,Portugal,PRT,5.92,81.86,Western Europe,2018,Portugal,
+168,Qatar,,,,Middle East and Northern Africa,2005,Qatar,3120.86265698
+414,Qatar,,,,Middle East and Northern Africa,2006,Qatar,2940.11091116
+660,Qatar,,,,Middle East and Northern Africa,2007,Qatar,2684.93083897
+906,Qatar,,,,Middle East and Northern Africa,2008,Qatar,2212.17375558
+1152,Qatar,,6.42,78.94,Middle East and Northern Africa,2009,Qatar,3053.15528701
+1398,Qatar,,6.85,79.11,Middle East and Northern Africa,2010,Qatar,2582.98130987
+1644,Qatar,,6.59,79.26,Middle East and Northern Africa,2011,Qatar,2582.43182904
+1890,Qatar,,6.61,79.4,Middle East and Northern Africa,2012,Qatar,2855.5227371
+2136,Qatar,,,,Middle East and Northern Africa,2013,Qatar,2916.9498988
+2382,Qatar,,,,Middle East and Northern Africa,2014,Qatar,3071.1877566
+2628,Qatar,,6.37,79.76,Middle East and Northern Africa,2015,Qatar,
+2874,Qatar,,,,Middle East and Northern Africa,2016,Qatar,
+3120,Qatar,,,,Middle East and Northern Africa,2017,Qatar,
+3366,Qatar,,,,Middle East and Northern Africa,2018,Qatar,
+170,Romania,ROU,5.05,72.26,Central and Eastern Europe,2005,Romania,522.13760689
+416,Romania,ROU,,,Central and Eastern Europe,2006,Romania,576.47519093
+662,Romania,ROU,5.39,72.96,Central and Eastern Europe,2007,Romania,682.02794733
+908,Romania,ROU,,,Central and Eastern Europe,2008,Romania,849.01896252
+1154,Romania,ROU,5.37,73.69,Central and Eastern Europe,2009,Romania,876.42858317
+1400,Romania,ROU,4.91,74.07,Central and Eastern Europe,2010,Romania,964.16290814
+1646,Romania,ROU,5.02,74.42,Central and Eastern Europe,2011,Romania,971.48126305
+1892,Romania,ROU,5.17,74.74,Central and Eastern Europe,2012,Romania,1005.04283218
+2138,Romania,ROU,5.08,75.03,Central and Eastern Europe,2013,Romania,1070.35106071
+2384,Romania,ROU,5.73,75.27,Central and Eastern Europe,2014,Romania,1079.25833188
+2630,Romania,ROU,5.78,75.48,Central and Eastern Europe,2015,Romania,
+2876,Romania,ROU,5.97,75.64,Central and Eastern Europe,2016,Romania,
+3122,Romania,ROU,6.09,75.79,Central and Eastern Europe,2017,Romania,
+3368,Romania,ROU,6.15,75.92,Central and Eastern Europe,2018,Romania,
+174,Russia,RUS,,,Central and Eastern Europe,2005,Russia,615.73506274
+420,Russia,RUS,4.96,66.24,Central and Eastern Europe,2006,Russia,789.67692088
+666,Russia,RUS,5.22,66.81,Central and Eastern Europe,2007,Russia,893.33920624
+912,Russia,RUS,5.62,67.43,Central and Eastern Europe,2008,Russia,1251.76269819
+1158,Russia,RUS,5.16,68.07,Central and Eastern Europe,2009,Russia,1439.55066177
+1404,Russia,RUS,5.38,68.72,Central and Eastern Europe,2010,Russia,1397.17724837
+1650,Russia,RUS,5.39,69.34,Central and Eastern Europe,2011,Russia,1489.66040349
+1896,Russia,RUS,5.62,69.94,Central and Eastern Europe,2012,Russia,1653.68061762
+2142,Russia,RUS,5.54,70.51,Central and Eastern Europe,2013,Russia,1777.12600865
+2388,Russia,RUS,6.04,71.02,Central and Eastern Europe,2014,Russia,1835.7132779000000
+2634,Russia,RUS,6.0,71.46,Central and Eastern Europe,2015,Russia,
+2880,Russia,RUS,5.85,71.83,Central and Eastern Europe,2016,Russia,
+3126,Russia,RUS,5.58,72.14,Central and Eastern Europe,2017,Russia,
+3372,Russia,RUS,5.51,72.39,Central and Eastern Europe,2018,Russia,
+175,Rwanda,RWA,,,Sub-Saharan Africa,2005,Rwanda,61.98980124
+421,Rwanda,RWA,4.21,57.08,Sub-Saharan Africa,2006,Rwanda,99.83161561
+667,Rwanda,RWA,,,Sub-Saharan Africa,2007,Rwanda,91.02453951
+913,Rwanda,RWA,4.36,60.61,Sub-Saharan Africa,2008,Rwanda,90.5141757
+1159,Rwanda,RWA,4.03,62.13,Sub-Saharan Africa,2009,Rwanda,88.62118711
+1405,Rwanda,RWA,,,Sub-Saharan Africa,2010,Rwanda,102.96267088
+1651,Rwanda,RWA,4.1,64.52,Sub-Saharan Africa,2011,Rwanda,107.72799172
+1897,Rwanda,RWA,3.33,65.44,Sub-Saharan Africa,2012,Rwanda,115.93077116
+2143,Rwanda,RWA,3.47,66.22,Sub-Saharan Africa,2013,Rwanda,120.43921814
+2389,Rwanda,RWA,3.6,66.88,Sub-Saharan Africa,2014,Rwanda,125.06543321
+2635,Rwanda,RWA,3.48,67.45,Sub-Saharan Africa,2015,Rwanda,
+2881,Rwanda,RWA,3.33,67.93,Sub-Saharan Africa,2016,Rwanda,
+3127,Rwanda,RWA,3.11,68.34,Sub-Saharan Africa,2017,Rwanda,
+3373,Rwanda,RWA,3.56,68.7,Sub-Saharan Africa,2018,Rwanda,
+176,Saudi Arabia,SAU,7.08,73.26,Middle East and Northern Africa,2005,Saudi Arabia,1181.2591922
+422,Saudi Arabia,SAU,,,Middle East and Northern Africa,2006,Saudi Arabia,1299.25929331
+668,Saudi Arabia,SAU,7.27,73.47,Middle East and Northern Africa,2007,Saudi Arabia,1353.63754773
+914,Saudi Arabia,SAU,6.81,73.6,Middle East and Northern Africa,2008,Saudi Arabia,1201.24686639
+1160,Saudi Arabia,SAU,6.15,73.75,Middle East and Northern Africa,2009,Saudi Arabia,1712.13591592
+1406,Saudi Arabia,SAU,6.31,73.92,Middle East and Northern Africa,2010,Saudi Arabia,1514.26261089
+1652,Saudi Arabia,SAU,6.7,74.09,Middle East and Northern Africa,2011,Saudi Arabia,1692.78887278
+1898,Saudi Arabia,SAU,6.4,74.25,Middle East and Northern Africa,2012,Saudi Arabia,1920.38070115
+2144,Saudi Arabia,SAU,6.5,74.4,Middle East and Northern Africa,2013,Saudi Arabia,2159.39307782
+2390,Saudi Arabia,SAU,6.28,74.53,Middle East and Northern Africa,2014,Saudi Arabia,2465.97676769
+2636,Saudi Arabia,SAU,6.35,74.65,Middle East and Northern Africa,2015,Saudi Arabia,
+2882,Saudi Arabia,SAU,6.47,74.76,Middle East and Northern Africa,2016,Saudi Arabia,
+3128,Saudi Arabia,SAU,6.29,74.87,Middle East and Northern Africa,2017,Saudi Arabia,
+3374,Saudi Arabia,SAU,6.36,75.0,Middle East and Northern Africa,2018,Saudi Arabia,
+182,Senegal,SEN,,,Sub-Saharan Africa,2005,Senegal,100.40708888
+428,Senegal,SEN,4.42,61.36,Sub-Saharan Africa,2006,Senegal,104.91955800000000
+674,Senegal,SEN,4.68,62.13,Sub-Saharan Africa,2007,Senegal,95.41717651
+920,Senegal,SEN,4.68,62.88,Sub-Saharan Africa,2008,Senegal,102.5632025
+1166,Senegal,SEN,4.34,63.61,Sub-Saharan Africa,2009,Senegal,100.22574195
+1412,Senegal,SEN,4.37,64.28,Sub-Saharan Africa,2010,Senegal,98.73971716
+1658,Senegal,SEN,3.83,64.9,Sub-Saharan Africa,2011,Senegal,95.3619219
+1904,Senegal,SEN,3.67,65.45,Sub-Saharan Africa,2012,Senegal,95.01243387
+2150,Senegal,SEN,3.65,65.94,Sub-Saharan Africa,2013,Senegal,101.18092028
+2396,Senegal,SEN,4.39,66.37,Sub-Saharan Africa,2014,Senegal,106.93550431
+2642,Senegal,SEN,4.62,66.75,Sub-Saharan Africa,2015,Senegal,
+2888,Senegal,SEN,4.59,67.08,Sub-Saharan Africa,2016,Senegal,
+3134,Senegal,SEN,4.68,67.38,Sub-Saharan Africa,2017,Senegal,
+3380,Senegal,SEN,4.77,67.67,Sub-Saharan Africa,2018,Senegal,
+237,Serbia,SRB,,,Central and Eastern Europe,2005,Serbia,771.00561994
+483,Serbia,SRB,,,Central and Eastern Europe,2006,Serbia,889.7955112
+729,Serbia,SRB,4.75,73.3,Central and Eastern Europe,2007,Serbia,1046.92848746
+975,Serbia,SRB,,,Central and Eastern Europe,2008,Serbia,1194.99210386
+1221,Serbia,SRB,4.38,73.83,Central and Eastern Europe,2009,Serbia,1169.22101478
+1467,Serbia,SRB,4.46,74.1,Central and Eastern Europe,2010,Serbia,1193.02882271
+1713,Serbia,SRB,4.82,74.36,Central and Eastern Europe,2011,Serbia,1222.40180549
+1959,Serbia,SRB,5.15,74.62,Central and Eastern Europe,2012,Serbia,1266.62246976
+2205,Serbia,SRB,5.1,74.86,Central and Eastern Europe,2013,Serbia,1317.03451414
+2451,Serbia,SRB,5.11,75.1,Central and Eastern Europe,2014,Serbia,1312.22306804
+2697,Serbia,SRB,5.32,75.31,Central and Eastern Europe,2015,Serbia,
+2943,Serbia,SRB,5.75,75.5,Central and Eastern Europe,2016,Serbia,
+3189,Serbia,SRB,5.12,75.68,Central and Eastern Europe,2017,Serbia,
+3435,Serbia,SRB,5.94,75.85,Central and Eastern Europe,2018,Serbia,
+184,Sierra Leone,SLE,,,Sub-Saharan Africa,2005,Sierra Leone,127.53040947
+430,Sierra Leone,SLE,3.63,45.52,Sub-Saharan Africa,2006,Sierra Leone,116.97606884
+676,Sierra Leone,SLE,3.59,46.52,Sub-Saharan Africa,2007,Sierra Leone,119.57642647
+922,Sierra Leone,SLE,3.0,47.51,Sub-Saharan Africa,2008,Sierra Leone,127.63973024
+1168,Sierra Leone,SLE,,,Sub-Saharan Africa,2009,Sierra Leone,165.59129085
+1414,Sierra Leone,SLE,4.13,49.38,Sub-Saharan Africa,2010,Sierra Leone,135.64290264
+1660,Sierra Leone,SLE,4.5,50.23,Sub-Saharan Africa,2011,Sierra Leone,166.53490454
+1906,Sierra Leone,SLE,,,Sub-Saharan Africa,2012,Sierra Leone,179.02262699
+2152,Sierra Leone,SLE,4.51,51.73,Sub-Saharan Africa,2013,Sierra Leone,220.11022111
+2398,Sierra Leone,SLE,4.5,52.37,Sub-Saharan Africa,2014,Sierra Leone,223.74445178
+2644,Sierra Leone,SLE,4.91,52.94,Sub-Saharan Africa,2015,Sierra Leone,
+2890,Sierra Leone,SLE,4.73,53.44,Sub-Saharan Africa,2016,Sierra Leone,
+3136,Sierra Leone,SLE,4.09,53.9,Sub-Saharan Africa,2017,Sierra Leone,
+3382,Sierra Leone,SLE,4.31,54.31,Sub-Saharan Africa,2018,Sierra Leone,
+185,Singapore,SGP,,,Southeastern Asia,2005,Singapore,1958.60131245
+431,Singapore,SGP,6.46,80.67,Southeastern Asia,2006,Singapore,2090.69128067
+677,Singapore,SGP,6.83,81.02,Southeastern Asia,2007,Singapore,2160.01720473
+923,Singapore,SGP,6.64,81.32,Southeastern Asia,2008,Singapore,2474.52096353
+1169,Singapore,SGP,6.14,81.6,Southeastern Asia,2009,Singapore,2644.30117858
+1415,Singapore,SGP,6.53,81.83,Southeastern Asia,2010,Singapore,2791.80005088
+1661,Singapore,SGP,6.56,82.05,Southeastern Asia,2011,Singapore,2943.29495987
+1907,Singapore,SGP,,,Southeastern Asia,2012,Singapore,3258.99679561
+2153,Singapore,SGP,6.53,82.46,Southeastern Asia,2013,Singapore,3631.07954616
+2399,Singapore,SGP,7.06,82.67,Southeastern Asia,2014,Singapore,4046.9752879000000
+2645,Singapore,SGP,6.62,82.88,Southeastern Asia,2015,Singapore,
+2891,Singapore,SGP,6.03,83.08,Southeastern Asia,2016,Singapore,
+3137,Singapore,SGP,6.38,83.28,Southeastern Asia,2017,Singapore,
+3383,Singapore,SGP,6.37,83.46,Southeastern Asia,2018,Singapore,
+104,Slovakia,SVK,,,Central and Eastern Europe,2005,Slovakia,1142.67328355
+350,Slovakia,SVK,5.26,74.47,Central and Eastern Europe,2006,Slovakia,1356.02601451
+596,Slovakia,SVK,,,Central and Eastern Europe,2007,Slovakia,1625.39897729
+842,Slovakia,SVK,,,Central and Eastern Europe,2008,Slovakia,1872.25569442
+1088,Slovakia,SVK,,,Central and Eastern Europe,2009,Slovakia,2089.07460887
+1334,Slovakia,SVK,6.05,75.49,Central and Eastern Europe,2010,Slovakia,2038.95335142
+1580,Slovakia,SVK,5.95,75.78,Central and Eastern Europe,2011,Slovakia,1963.14179812
+1826,Slovakia,SVK,5.91,76.07,Central and Eastern Europe,2012,Slovakia,2064.59653277
+2072,Slovakia,SVK,5.94,76.34,Central and Eastern Europe,2013,Slovakia,2080.10543276
+2318,Slovakia,SVK,6.14,76.6,Central and Eastern Europe,2014,Slovakia,2179.05100362
+2564,Slovakia,SVK,6.16,76.83,Central and Eastern Europe,2015,Slovakia,
+2810,Slovakia,SVK,5.99,77.03,Central and Eastern Europe,2016,Slovakia,
+3056,Slovakia,SVK,6.37,77.22,Central and Eastern Europe,2017,Slovakia,
+3302,Slovakia,SVK,6.24,77.39,Central and Eastern Europe,2018,Slovakia,
+183,Slovenia,SVN,,,Central and Eastern Europe,2005,Slovenia,1997.92423301
+429,Slovenia,SVN,5.81,77.97,Central and Eastern Europe,2006,Slovenia,2147.89078949
+675,Slovenia,SVN,,,Central and Eastern Europe,2007,Slovenia,2183.45244787
+921,Slovenia,SVN,,,Central and Eastern Europe,2008,Slovenia,2472.82999456
+1167,Slovenia,SVN,5.83,79.09,Central and Eastern Europe,2009,Slovenia,2536.87361752
+1413,Slovenia,SVN,6.08,79.42,Central and Eastern Europe,2010,Slovenia,2452.00748526
+1659,Slovenia,SVN,6.04,79.72,Central and Eastern Europe,2011,Slovenia,2539.37347235
+1905,Slovenia,SVN,6.06,80.0,Central and Eastern Europe,2012,Slovenia,2616.84738336
+2151,Slovenia,SVN,5.97,80.25,Central and Eastern Europe,2013,Slovenia,2619.81044094
+2397,Slovenia,SVN,5.68,80.47,Central and Eastern Europe,2014,Slovenia,2697.67107106
+2643,Slovenia,SVN,5.74,80.67,Central and Eastern Europe,2015,Slovenia,
+2889,Slovenia,SVN,5.94,80.85,Central and Eastern Europe,2016,Slovenia,
+3135,Slovenia,SVN,6.17,81.02,Central and Eastern Europe,2017,Slovenia,
+3381,Slovenia,SVN,6.25,81.17,Central and Eastern Europe,2018,Slovenia,
+179,South Africa,ZAF,,,Sub-Saharan Africa,2005,South Africa,754.07268355
+425,South Africa,ZAF,5.08,53.8,Sub-Saharan Africa,2006,South Africa,788.43610673
+671,South Africa,ZAF,5.2,54.45,Sub-Saharan Africa,2007,South Africa,837.52105724
+917,South Africa,ZAF,5.35,55.36,Sub-Saharan Africa,2008,South Africa,894.42605881
+1163,South Africa,ZAF,5.22,56.46,Sub-Saharan Africa,2009,South Africa,948.47225719
+1409,South Africa,ZAF,4.65,57.67,Sub-Saharan Africa,2010,South Africa,990.90969331
+1655,South Africa,ZAF,4.93,58.9,Sub-Saharan Africa,2011,South Africa,1044.83359237
+1901,South Africa,ZAF,5.13,60.06,Sub-Saharan Africa,2012,South Africa,1097.42742615
+2147,South Africa,ZAF,3.66,61.1,Sub-Saharan Africa,2013,South Africa,1123.62804379
+2393,South Africa,ZAF,4.83,61.97,Sub-Saharan Africa,2014,South Africa,1148.37249844
+2639,South Africa,ZAF,4.89,62.65,Sub-Saharan Africa,2015,South Africa,
+2885,South Africa,ZAF,4.77,63.15,Sub-Saharan Africa,2016,South Africa,
+3131,South Africa,ZAF,4.51,63.54,Sub-Saharan Africa,2017,South Africa,
+3377,South Africa,ZAF,4.88,63.86,Sub-Saharan Africa,2018,South Africa,
+187,Spain,ESP,7.15,80.55,Western Europe,2005,Spain,2229.20112105
+433,Spain,ESP,,,Western Europe,2006,Spain,2507.58105447
+679,Spain,ESP,6.99,81.09,Western Europe,2007,Spain,2698.14336926
+925,Spain,ESP,7.29,81.37,Western Europe,2008,Spain,2912.39038663
+1171,Spain,ESP,6.2,81.64,Western Europe,2009,Spain,3038.78717482
+1417,Spain,ESP,6.19,81.9,Western Europe,2010,Spain,2996.24343748
+1663,Spain,ESP,6.52,82.15,Western Europe,2011,Spain,3018.82756624
+1909,Spain,ESP,6.29,82.38,Western Europe,2012,Spain,2997.55166588
+2155,Spain,ESP,6.15,82.6,Western Europe,2013,Spain,2928.12848315
+2401,Spain,ESP,6.46,82.8,Western Europe,2014,Spain,2965.81832471
+2647,Spain,ESP,6.38,82.98,Western Europe,2015,Spain,
+2893,Spain,ESP,6.32,83.14,Western Europe,2016,Spain,
+3139,Spain,ESP,6.23,83.29,Western Europe,2017,Spain,
+3385,Spain,ESP,6.51,83.43,Western Europe,2018,Spain,
+25,Sri Lanka,LKA,,,Southern Asia,2005,Sri Lanka,212.53370733
+271,Sri Lanka,LKA,4.34,74.9,Southern Asia,2006,Sri Lanka,234.18874466
+517,Sri Lanka,LKA,4.41,75.04,Southern Asia,2007,Sri Lanka,235.88867817
+763,Sri Lanka,LKA,4.43,75.16,Southern Asia,2008,Sri Lanka,231.94991639
+1009,Sri Lanka,LKA,4.21,75.29,Southern Asia,2009,Sri Lanka,235.13676052
+1255,Sri Lanka,LKA,3.98,75.44,Southern Asia,2010,Sri Lanka,260.35071632
+1501,Sri Lanka,LKA,4.18,75.61,Southern Asia,2011,Sri Lanka,273.42859267
+1747,Sri Lanka,LKA,4.22,75.8,Southern Asia,2012,Sri Lanka,288.00446758
+1993,Sri Lanka,LKA,4.36,75.97,Southern Asia,2013,Sri Lanka,357.37635902
+2239,Sri Lanka,LKA,4.27,76.15,Southern Asia,2014,Sri Lanka,369.1741565
+2485,Sri Lanka,LKA,4.61,76.32,Southern Asia,2015,Sri Lanka,
+2731,Sri Lanka,LKA,,,Southern Asia,2016,Sri Lanka,
+2977,Sri Lanka,LKA,4.33,76.65,Southern Asia,2017,Sri Lanka,
+3223,Sri Lanka,LKA,4.4,76.81,Southern Asia,2018,Sri Lanka,
+189,Sudan,,,,Sub-Saharan Africa,2005,Sudan,124.14251767
+435,Sudan,,,,Sub-Saharan Africa,2006,Sudan,161.70962062
+681,Sudan,,,,Sub-Saharan Africa,2007,Sudan,222.62399603
+927,Sudan,,,,Sub-Saharan Africa,2008,Sudan,283.0211137
+1173,Sudan,,4.45,62.33,Sub-Saharan Africa,2009,Sudan,289.63366556
+1419,Sudan,,4.44,62.76,Sub-Saharan Africa,2010,Sudan,265.75222839
+1665,Sudan,,4.31,63.17,Sub-Saharan Africa,2011,Sudan,262.20253465
+1911,Sudan,,4.55,63.54,Sub-Saharan Africa,2012,Sudan,262.37938397
+2157,Sudan,,,,Sub-Saharan Africa,2013,Sudan,274.90747605
+2403,Sudan,,4.14,64.17,Sub-Saharan Africa,2014,Sudan,281.64049938
+2649,Sudan,,,,Sub-Saharan Africa,2015,Sudan,
+2895,Sudan,,,,Sub-Saharan Africa,2016,Sudan,
+3141,Sudan,,,,Sub-Saharan Africa,2017,Sudan,
+3387,Sudan,,,,Sub-Saharan Africa,2018,Sudan,
+190,Sweden,SWE,7.38,80.59,Western Europe,2005,Sweden,2969.48950487
+436,Sweden,SWE,,,Western Europe,2006,Sweden,3207.97406876
+682,Sweden,SWE,7.24,80.97,Western Europe,2007,Sweden,3442.83172764
+928,Sweden,SWE,7.52,81.16,Western Europe,2008,Sweden,3670.79444695
+1174,Sweden,SWE,7.27,81.34,Western Europe,2009,Sweden,3740.80816178
+1420,Sweden,SWE,7.5,81.51,Western Europe,2010,Sweden,3761.53364216
+1666,Sweden,SWE,7.38,81.68,Western Europe,2011,Sweden,4886.52023768
+1912,Sweden,SWE,7.56,81.83,Western Europe,2012,Sweden,5007.48076242
+2158,Sweden,SWE,7.43,81.98,Western Europe,2013,Sweden,5177.37484235
+2404,Sweden,SWE,7.24,82.12,Western Europe,2014,Sweden,5218.86073424
+2650,Sweden,SWE,7.29,82.25,Western Europe,2015,Sweden,
+2896,Sweden,SWE,7.37,82.38,Western Europe,2016,Sweden,
+3142,Sweden,SWE,7.29,82.52,Western Europe,2017,Sweden,
+3388,Sweden,SWE,7.37,82.65,Western Europe,2018,Sweden,
+192,Switzerland,CHE,,,Western Europe,2005,Switzerland,4027.25329623
+438,Switzerland,CHE,7.47,81.41,Western Europe,2006,Switzerland,4268.15609799
+684,Switzerland,CHE,,,Western Europe,2007,Switzerland,4593.57067318
+930,Switzerland,CHE,,,Western Europe,2008,Switzerland,4968.2985197
+1176,Switzerland,CHE,7.52,82.08,Western Europe,2009,Switzerland,5213.8724937
+1422,Switzerland,CHE,,,Western Europe,2010,Switzerland,5394.70079141
+1668,Switzerland,CHE,,,Western Europe,2011,Switzerland,5818.74819265
+1914,Switzerland,CHE,7.78,82.63,Western Europe,2012,Switzerland,6173.03645336
+2160,Switzerland,CHE,,,Western Europe,2013,Switzerland,6364.77713727
+2406,Switzerland,CHE,7.49,82.97,Western Europe,2014,Switzerland,6468.49557329
+2652,Switzerland,CHE,7.57,83.14,Western Europe,2015,Switzerland,
+2898,Switzerland,CHE,7.46,83.31,Western Europe,2016,Switzerland,
+3144,Switzerland,CHE,7.47,83.47,Western Europe,2017,Switzerland,
+3390,Switzerland,CHE,7.51,83.63,Western Europe,2018,Switzerland,
+245,Taiwan,TWN,,,Southern Asia,2005,Taiwan,
+491,Taiwan,TWN,6.19,77.86,Southern Asia,2006,Taiwan,
+737,Taiwan,TWN,,,Southern Asia,2007,Taiwan,
+983,Taiwan,TWN,5.55,78.32,Southern Asia,2008,Taiwan,
+1229,Taiwan,TWN,,,Southern Asia,2009,Taiwan,
+1475,Taiwan,TWN,6.23,78.75,Southern Asia,2010,Taiwan,
+1721,Taiwan,TWN,6.31,78.96,Southern Asia,2011,Taiwan,
+1967,Taiwan,TWN,6.13,79.16,Southern Asia,2012,Taiwan,
+2213,Taiwan,TWN,6.34,79.36,Southern Asia,2013,Taiwan,
+2459,Taiwan,TWN,6.36,79.56,Southern Asia,2014,Taiwan,
+2705,Taiwan,TWN,6.45,79.74,Southern Asia,2015,Taiwan,
+2951,Taiwan,TWN,6.51,79.93,Southern Asia,2016,Taiwan,
+3197,Taiwan,TWN,6.36,80.11,Southern Asia,2017,Taiwan,
+3443,Taiwan,TWN,6.47,80.28,Southern Asia,2018,Taiwan,
+195,Tajikistan,TJK,,,Central and Eastern Europe,2005,Tajikistan,90.10256209
+441,Tajikistan,TJK,4.61,66.77,Central and Eastern Europe,2006,Tajikistan,94.25990544
+687,Tajikistan,TJK,4.43,67.38,Central and Eastern Europe,2007,Tajikistan,95.75385059
+933,Tajikistan,TJK,5.06,67.91,Central and Eastern Europe,2008,Tajikistan,107.68613347
+1179,Tajikistan,TJK,4.58,68.36,Central and Eastern Europe,2009,Tajikistan,116.95848062
+1425,Tajikistan,TJK,4.38,68.74,Central and Eastern Europe,2010,Tajikistan,125.69286716
+1671,Tajikistan,TJK,4.26,69.06,Central and Eastern Europe,2011,Tajikistan,133.37632761
+1917,Tajikistan,TJK,4.5,69.34,Central and Eastern Europe,2012,Tajikistan,152.46092771
+2163,Tajikistan,TJK,4.97,69.61,Central and Eastern Europe,2013,Tajikistan,171.62944566
+2409,Tajikistan,TJK,4.9,69.87,Central and Eastern Europe,2014,Tajikistan,185.14753548
+2655,Tajikistan,TJK,5.12,70.14,Central and Eastern Europe,2015,Tajikistan,
+2901,Tajikistan,TJK,5.1,70.4,Central and Eastern Europe,2016,Tajikistan,
+3147,Tajikistan,TJK,5.83,70.65,Central and Eastern Europe,2017,Tajikistan,
+3393,Tajikistan,TJK,,,Central and Eastern Europe,2018,Tajikistan,
+194,Thailand,THA,,,Southeastern Asia,2005,Thailand,342.833964426627
+440,Thailand,THA,5.89,72.5,Southeastern Asia,2006,Thailand,363.878615824915
+686,Thailand,THA,5.78,72.92,Southeastern Asia,2007,Thailand,399.27560942871
+932,Thailand,THA,5.64,73.34,Southeastern Asia,2008,Thailand,458.599483428134
+1178,Thailand,THA,5.48,73.77,Southeastern Asia,2009,Thailand,472.375299838974
+1424,Thailand,THA,6.22,74.18,Southeastern Asia,2010,Thailand,476.432176532229
+1670,Thailand,THA,6.66,74.59,Southeastern Asia,2011,Thailand,524.684925852332
+1916,Thailand,THA,6.3,74.99,Southeastern Asia,2012,Thailand,573.394042837343
+2162,Thailand,THA,6.23,75.38,Southeastern Asia,2013,Thailand,572.544751830744
+2408,Thailand,THA,6.99,75.75,Southeastern Asia,2014,Thailand,599.843666305767
+2654,Thailand,THA,6.2,76.09,Southeastern Asia,2015,Thailand,
+2900,Thailand,THA,6.07,76.4,Southeastern Asia,2016,Thailand,
+3146,Thailand,THA,5.94,76.68,Southeastern Asia,2017,Thailand,
+3392,Thailand,THA,6.01,76.93,Southeastern Asia,2018,Thailand,
+198,Togo,TGO,,,Sub-Saharan Africa,2005,Togo,55.31332845
+444,Togo,TGO,3.2,55.05,Sub-Saharan Africa,2006,Togo,62.06528585
+690,Togo,TGO,,,Sub-Saharan Africa,2007,Togo,63.27575812
+936,Togo,TGO,2.81,56.18,Sub-Saharan Africa,2008,Togo,66.32010495
+1182,Togo,TGO,,,Sub-Saharan Africa,2009,Togo,78.03615089
+1428,Togo,TGO,,,Sub-Saharan Africa,2010,Togo,64.66000467
+1674,Togo,TGO,2.94,58.09,Sub-Saharan Africa,2011,Togo,65.38100032
+1920,Togo,TGO,,,Sub-Saharan Africa,2012,Togo,67.31487705
+2166,Togo,TGO,,,Sub-Saharan Africa,2013,Togo,70.22358830000000
+2412,Togo,TGO,2.84,59.58,Sub-Saharan Africa,2014,Togo,76.25300946
+2658,Togo,TGO,3.77,59.93,Sub-Saharan Africa,2015,Togo,
+2904,Togo,TGO,3.88,60.22,Sub-Saharan Africa,2016,Togo,
+3150,Togo,TGO,4.36,60.49,Sub-Saharan Africa,2017,Togo,
+3396,Togo,TGO,4.02,60.76,Sub-Saharan Africa,2018,Togo,
+200,Tunisia,TUN,,,Middle East and Northern Africa,2005,Tunisia,428.45524604
+446,Tunisia,TUN,,,Middle East and Northern Africa,2006,Tunisia,468.68466072
+692,Tunisia,TUN,,,Middle East and Northern Africa,2007,Tunisia,505.84879619
+938,Tunisia,TUN,,,Middle East and Northern Africa,2008,Tunisia,533.26150838
+1184,Tunisia,TUN,5.03,74.88,Middle East and Northern Africa,2009,Tunisia,604.99583039
+1430,Tunisia,TUN,5.13,75.04,Middle East and Northern Africa,2010,Tunisia,656.10649641
+1676,Tunisia,TUN,4.88,75.21,Middle East and Northern Africa,2011,Tunisia,725.31948606
+1922,Tunisia,TUN,4.46,75.38,Middle East and Northern Africa,2012,Tunisia,766.04005759
+2168,Tunisia,TUN,5.25,75.55,Middle East and Northern Africa,2013,Tunisia,797.49401646
+2414,Tunisia,TUN,4.76,75.73,Middle East and Northern Africa,2014,Tunisia,785.31749079
+2660,Tunisia,TUN,5.13,75.92,Middle East and Northern Africa,2015,Tunisia,
+2906,Tunisia,TUN,4.52,76.11,Middle East and Northern Africa,2016,Tunisia,
+3152,Tunisia,TUN,4.12,76.31,Middle East and Northern Africa,2017,Tunisia,
+3398,Tunisia,TUN,4.74,76.5,Middle East and Northern Africa,2018,Tunisia,
+201,Turkey,TUR,4.72,72.42,Middle East and Northern Africa,2005,Turkey,624.67816196
+447,Turkey,TUR,,,Middle East and Northern Africa,2006,Turkey,754.38435559
+693,Turkey,TUR,5.62,73.24,Middle East and Northern Africa,2007,Turkey,843.87233037
+939,Turkey,TUR,5.12,73.65,Middle East and Northern Africa,2008,Turkey,918.15202178
+1185,Turkey,TUR,5.21,74.07,Middle East and Northern Africa,2009,Turkey,887.12788359
+1431,Turkey,TUR,5.49,74.51,Middle East and Northern Africa,2010,Turkey,904.09447184
+1677,Turkey,TUR,5.27,74.94,Middle East and Northern Africa,2011,Turkey,941.37578831
+1923,Turkey,TUR,5.31,75.37,Middle East and Northern Africa,2012,Turkey,948.70196368
+2169,Turkey,TUR,4.89,75.78,Middle East and Northern Africa,2013,Turkey,1006.95705909
+2415,Turkey,TUR,5.58,76.17,Middle East and Northern Africa,2014,Turkey,1036.46529379
+2661,Turkey,TUR,5.51,76.53,Middle East and Northern Africa,2015,Turkey,
+2907,Turkey,TUR,5.33,76.86,Middle East and Northern Africa,2016,Turkey,
+3153,Turkey,TUR,5.61,77.16,Middle East and Northern Africa,2017,Turkey,
+3399,Turkey,TUR,5.19,77.44,Middle East and Northern Africa,2018,Turkey,
+203,Turkmenistan,TKM,,,Central and Eastern Europe,2005,Turkmenistan,203.30925936
+449,Turkmenistan,TKM,,,Central and Eastern Europe,2006,Turkmenistan,190.14374428
+695,Turkmenistan,TKM,,,Central and Eastern Europe,2007,Turkmenistan,159.32753233
+941,Turkmenistan,TKM,,,Central and Eastern Europe,2008,Turkmenistan,164.18274135
+1187,Turkmenistan,TKM,6.57,66.36,Central and Eastern Europe,2009,Turkmenistan,169.44227377
+1433,Turkmenistan,TKM,,,Central and Eastern Europe,2010,Turkmenistan,195.32007296
+1679,Turkmenistan,TKM,5.79,66.93,Central and Eastern Europe,2011,Turkmenistan,225.05769644
+1925,Turkmenistan,TKM,5.46,67.17,Central and Eastern Europe,2012,Turkmenistan,248.8387752
+2171,Turkmenistan,TKM,5.39,67.38,Central and Eastern Europe,2013,Turkmenistan,296.98049604
+2417,Turkmenistan,TKM,5.79,67.55,Central and Eastern Europe,2014,Turkmenistan,319.89865998
+2663,Turkmenistan,TKM,5.79,67.7,Central and Eastern Europe,2015,Turkmenistan,
+2909,Turkmenistan,TKM,5.89,67.83,Central and Eastern Europe,2016,Turkmenistan,
+3155,Turkmenistan,TKM,5.23,67.96,Central and Eastern Europe,2017,Turkmenistan,
+3401,Turkmenistan,TKM,4.62,68.07,Central and Eastern Europe,2018,Turkmenistan,
+205,Uganda,UGA,,,Sub-Saharan Africa,2005,Uganda,126.66413639
+451,Uganda,UGA,3.73,52.78,Sub-Saharan Africa,2006,Uganda,146.49308916
+697,Uganda,UGA,4.46,53.89,Sub-Saharan Africa,2007,Uganda,155.31419124
+943,Uganda,UGA,4.57,54.98,Sub-Saharan Africa,2008,Uganda,162.26560585
+1189,Uganda,UGA,4.61,56.06,Sub-Saharan Africa,2009,Uganda,138.57578840000000
+1435,Uganda,UGA,4.19,57.1,Sub-Saharan Africa,2010,Uganda,175.31182892
+1681,Uganda,UGA,4.83,58.09,Sub-Saharan Africa,2011,Uganda,175.39104074
+1927,Uganda,UGA,4.31,59.02,Sub-Saharan Africa,2012,Uganda,133.57447136
+2173,Uganda,UGA,3.71,59.88,Sub-Saharan Africa,2013,Uganda,132.51559397
+2419,Uganda,UGA,3.77,60.67,Sub-Saharan Africa,2014,Uganda,132.58798789
+2665,Uganda,UGA,4.24,61.37,Sub-Saharan Africa,2015,Uganda,
+2911,Uganda,UGA,4.23,61.99,Sub-Saharan Africa,2016,Uganda,
+3157,Uganda,UGA,4.0,62.52,Sub-Saharan Africa,2017,Uganda,
+3403,Uganda,UGA,4.32,62.97,Sub-Saharan Africa,2018,Uganda,
+207,Ukraine,UKR,,,Central and Eastern Europe,2005,Ukraine,417.39695481
+453,Ukraine,UKR,4.8,67.62,Central and Eastern Europe,2006,Ukraine,463.21832969
+699,Ukraine,UKR,5.25,67.91,Central and Eastern Europe,2007,Ukraine,512.93219121
+945,Ukraine,UKR,5.17,68.31,Central and Eastern Europe,2008,Ukraine,561.20627303
+1191,Ukraine,UKR,5.17,68.8,Central and Eastern Europe,2009,Ukraine,568.82628817
+1437,Ukraine,UKR,5.06,69.36,Central and Eastern Europe,2010,Ukraine,602.98750955
+1683,Ukraine,UKR,5.08,69.93,Central and Eastern Europe,2011,Ukraine,581.33603392
+1929,Ukraine,UKR,5.03,70.46,Central and Eastern Europe,2012,Ukraine,636.35300892
+2175,Ukraine,UKR,4.71,70.92,Central and Eastern Europe,2013,Ukraine,665.14875628
+2421,Ukraine,UKR,4.3,71.28,Central and Eastern Europe,2014,Ukraine,584.23599726
+2667,Ukraine,UKR,3.96,71.54,Central and Eastern Europe,2015,Ukraine,
+2913,Ukraine,UKR,4.03,71.71,Central and Eastern Europe,2016,Ukraine,
+3159,Ukraine,UKR,4.31,71.84,Central and Eastern Europe,2017,Ukraine,
+3405,Ukraine,UKR,4.66,71.95,Central and Eastern Europe,2018,Ukraine,
+227,United Arab Emirates,ARE,,,Middle East and Northern Africa,2005,United Arab Emirates,1973.47528883
+473,United Arab Emirates,ARE,6.73,75.57,Middle East and Northern Africa,2006,United Arab Emirates,1940.76107711
+719,United Arab Emirates,ARE,,,Middle East and Northern Africa,2007,United Arab Emirates,1953.36952141
+965,United Arab Emirates,ARE,,,Middle East and Northern Africa,2008,United Arab Emirates,2040.33534565
+1211,United Arab Emirates,ARE,6.87,76.14,Middle East and Northern Africa,2009,United Arab Emirates,2410.87882678
+1457,United Arab Emirates,ARE,7.1,76.33,Middle East and Northern Africa,2010,United Arab Emirates,2232.36489131
+1703,United Arab Emirates,ARE,7.12,76.52,Middle East and Northern Africa,2011,United Arab Emirates,2130.25105592
+1949,United Arab Emirates,ARE,7.22,76.71,Middle East and Northern Africa,2012,United Arab Emirates,1993.5909008
+2195,United Arab Emirates,ARE,6.62,76.9,Middle East and Northern Africa,2013,United Arab Emirates,2208.2640874000000
+2441,United Arab Emirates,ARE,6.54,77.1,Middle East and Northern Africa,2014,United Arab Emirates,2405.36771937
+2687,United Arab Emirates,ARE,6.57,77.28,Middle East and Northern Africa,2015,United Arab Emirates,
+2933,United Arab Emirates,ARE,6.83,77.47,Middle East and Northern Africa,2016,United Arab Emirates,
+3179,United Arab Emirates,ARE,7.04,77.65,Middle East and Northern Africa,2017,United Arab Emirates,
+3425,United Arab Emirates,ARE,6.6,77.81,Middle East and Northern Africa,2018,United Arab Emirates,
+206,United Kingdom,GBR,6.98,79.05,Western Europe,2005,United Kingdom,2746.27931416
+452,United Kingdom,GBR,,,Western Europe,2006,United Kingdom,2972.48085984
+698,United Kingdom,GBR,6.8,79.58,Western Europe,2007,United Kingdom,3049.13192893
+944,United Kingdom,GBR,6.99,79.85,Western Europe,2008,United Kingdom,3229.25993013
+1190,United Kingdom,GBR,6.91,80.11,Western Europe,2009,United Kingdom,3416.88311775
+1436,United Kingdom,GBR,7.03,80.35,Western Europe,2010,United Kingdom,3268.85758906
+1682,United Kingdom,GBR,6.87,80.56,Western Europe,2011,United Kingdom,3255.07344728
+1928,United Kingdom,GBR,6.88,80.74,Western Europe,2012,United Kingdom,3322.94006545
+2174,United Kingdom,GBR,6.92,80.88,Western Europe,2013,United Kingdom,3374.14099319
+2420,United Kingdom,GBR,6.76,80.98,Western Europe,2014,United Kingdom,3376.86996528
+2666,United Kingdom,GBR,6.52,81.05,Western Europe,2015,United Kingdom,
+2912,United Kingdom,GBR,6.82,81.11,Western Europe,2016,United Kingdom,
+3158,United Kingdom,GBR,7.1,81.17,Western Europe,2017,United Kingdom,
+3404,United Kingdom,GBR,7.23,81.24,Western Europe,2018,United Kingdom,
+208,United States,USA,,,North America,2005,United States,6741.0336808
+454,United States,USA,7.18,77.89,North America,2006,United States,7122.36644143
+700,United States,USA,7.51,78.1,North America,2007,United States,7511.96298843
+946,United States,USA,7.28,78.3,North America,2008,United States,7786.21190164
+1192,United States,USA,7.16,78.49,North America,2009,United States,8022.99802458
+1438,United States,USA,7.16,78.65,North America,2010,United States,8269.36518147
+1684,United States,USA,7.12,78.78,North America,2011,United States,8523.83368559
+1930,United States,USA,7.03,78.86,North America,2012,United States,8789.76751317
+2176,United States,USA,7.25,78.91,North America,2013,United States,8987.90148711
+2422,United States,USA,7.15,78.92,North America,2014,United States,9402.53697133
+2668,United States,USA,6.86,78.91,North America,2015,United States,
+2914,United States,USA,6.8,78.89,North America,2016,United States,
+3160,United States,USA,6.99,78.86,North America,2017,United States,
+3406,United States,USA,6.88,78.85,North America,2018,United States,
+210,Uruguay,URY,,,Latin America and Caribbean,2005,Uruguay,1288.17891933
+456,Uruguay,URY,5.79,76.05,Latin America and Caribbean,2006,Uruguay,1382.65848476
+702,Uruguay,URY,5.69,76.25,Latin America and Caribbean,2007,Uruguay,1110.92947139
+948,Uruguay,URY,5.66,76.44,Latin America and Caribbean,2008,Uruguay,1201.85251057
+1194,Uruguay,URY,6.3,76.6,Latin America and Caribbean,2009,Uruguay,1352.06782447
+1440,Uruguay,URY,6.06,76.75,Latin America and Caribbean,2010,Uruguay,1444.10049021
+1686,Uruguay,URY,6.55,76.88,Latin America and Caribbean,2011,Uruguay,1531.59706941
+1932,Uruguay,URY,6.45,77.0,Latin America and Caribbean,2012,Uruguay,1640.65921038
+2178,Uruguay,URY,6.44,77.12,Latin America and Caribbean,2013,Uruguay,1731.68307326
+2424,Uruguay,URY,6.56,77.24,Latin America and Caribbean,2014,Uruguay,1792.18097303
+2670,Uruguay,URY,6.63,77.37,Latin America and Caribbean,2015,Uruguay,
+2916,Uruguay,URY,6.17,77.5,Latin America and Caribbean,2016,Uruguay,
+3162,Uruguay,URY,6.34,77.63,Latin America and Caribbean,2017,Uruguay,
+3408,Uruguay,URY,6.37,77.77,Latin America and Caribbean,2018,Uruguay,
+211,Uzbekistan,UZB,,,Central and Eastern Europe,2005,Uzbekistan,139.22715550000000
+457,Uzbekistan,UZB,5.23,68.68,Central and Eastern Europe,2006,Uzbekistan,163.40402098
+703,Uzbekistan,UZB,,,Central and Eastern Europe,2007,Uzbekistan,191.85662046
+949,Uzbekistan,UZB,5.31,69.19,Central and Eastern Europe,2008,Uzbekistan,215.1073679
+1195,Uzbekistan,UZB,5.26,69.44,Central and Eastern Europe,2009,Uzbekistan,246.33397741
+1441,Uzbekistan,UZB,5.1,69.67,Central and Eastern Europe,2010,Uzbekistan,225.62657299
+1687,Uzbekistan,UZB,5.74,69.91,Central and Eastern Europe,2011,Uzbekistan,259.676321
+1933,Uzbekistan,UZB,6.02,70.16,Central and Eastern Europe,2012,Uzbekistan,323.7948448
+2179,Uzbekistan,UZB,5.94,70.41,Central and Eastern Europe,2013,Uzbekistan,340.02921304
+2425,Uzbekistan,UZB,6.05,70.67,Central and Eastern Europe,2014,Uzbekistan,339.60620292
+2671,Uzbekistan,UZB,5.97,70.93,Central and Eastern Europe,2015,Uzbekistan,
+2917,Uzbekistan,UZB,5.89,71.17,Central and Eastern Europe,2016,Uzbekistan,
+3163,Uzbekistan,UZB,6.42,71.39,Central and Eastern Europe,2017,Uzbekistan,
+3409,Uzbekistan,UZB,6.21,71.57,Central and Eastern Europe,2018,Uzbekistan,
+213,Venezuela,VEN,7.17,72.85,Latin America and Caribbean,2005,Venezuela,625.11217158
+459,Venezuela,VEN,6.53,72.94,Latin America and Caribbean,2006,Venezuela,719.36767331
+705,Venezuela,VEN,,,Latin America and Caribbean,2007,Venezuela,855.71055355
+951,Venezuela,VEN,6.26,73.07,Latin America and Caribbean,2008,Venezuela,684.96708022
+1197,Venezuela,VEN,7.19,73.12,Latin America and Caribbean,2009,Venezuela,960.63823097
+1443,Venezuela,VEN,7.48,73.13,Latin America and Caribbean,2010,Venezuela,817.36723536
+1689,Venezuela,VEN,6.58,73.11,Latin America and Caribbean,2011,Venezuela,891.7413912000000
+1935,Venezuela,VEN,7.07,73.04,Latin America and Caribbean,2012,Venezuela,865.23007621
+2181,Venezuela,VEN,6.55,72.92,Latin America and Caribbean,2013,Venezuela,902.22719018
+2427,Venezuela,VEN,6.14,72.76,Latin America and Caribbean,2014,Venezuela,922.98867425
+2673,Venezuela,VEN,5.57,72.58,Latin America and Caribbean,2015,Venezuela,
+2919,Venezuela,VEN,4.04,72.4,Latin America and Caribbean,2016,Venezuela,
+3165,Venezuela,VEN,5.07,72.25,Latin America and Caribbean,2017,Venezuela,
+3411,Venezuela,VEN,5.01,72.13,Latin America and Caribbean,2018,Venezuela,
+221,Yemen,YEM,,,Middle East and Northern Africa,2005,Yemen,195.55952105
+467,Yemen,YEM,,,Middle East and Northern Africa,2006,Yemen,223.6224946
+713,Yemen,YEM,4.48,64.47,Middle East and Northern Africa,2007,Yemen,196.91388338
+959,Yemen,YEM,,,Middle East and Northern Africa,2008,Yemen,211.26925427
+1205,Yemen,YEM,4.81,65.26,Middle East and Northern Africa,2009,Yemen,223.95531579
+1451,Yemen,YEM,4.35,65.55,Middle East and Northern Africa,2010,Yemen,221.66911698
+1697,Yemen,YEM,3.75,65.77,Middle East and Northern Africa,2011,Yemen,182.31143537
+1943,Yemen,YEM,4.06,65.92,Middle East and Northern Africa,2012,Yemen,210.64130915
+2189,Yemen,YEM,4.22,66.02,Middle East and Northern Africa,2013,Yemen,211.0428397
+2435,Yemen,YEM,3.97,66.07,Middle East and Northern Africa,2014,Yemen,202.1649506
+2681,Yemen,YEM,2.98,66.08,Middle East and Northern Africa,2015,Yemen,
+2927,Yemen,YEM,3.83,66.09,Middle East and Northern Africa,2016,Yemen,
+3173,Yemen,YEM,3.25,66.09,Middle East and Northern Africa,2017,Yemen,
+3419,Yemen,YEM,3.06,66.1,Middle East and Northern Africa,2018,Yemen,
+222,Zambia,ZMB,,,Sub-Saharan Africa,2005,Zambia,167.84933024
+468,Zambia,ZMB,4.82,49.76,Sub-Saharan Africa,2006,Zambia,146.76291404
+714,Zambia,ZMB,4.0,51.13,Sub-Saharan Africa,2007,Zambia,113.43313464
+960,Zambia,ZMB,4.73,52.61,Sub-Saharan Africa,2008,Zambia,135.11506251
+1206,Zambia,ZMB,5.26,54.13,Sub-Saharan Africa,2009,Zambia,140.11813265
+1452,Zambia,ZMB,,,Sub-Saharan Africa,2010,Zambia,141.51183106
+1698,Zambia,ZMB,5.0,57.13,Sub-Saharan Africa,2011,Zambia,144.13270859
+1944,Zambia,ZMB,5.01,58.5,Sub-Saharan Africa,2012,Zambia,175.09257449
+2190,Zambia,ZMB,5.24,59.75,Sub-Saharan Africa,2013,Zambia,186.89199124
+2436,Zambia,ZMB,4.35,60.83,Sub-Saharan Africa,2014,Zambia,194.68451093
+2682,Zambia,ZMB,4.84,61.74,Sub-Saharan Africa,2015,Zambia,
+2928,Zambia,ZMB,4.35,62.46,Sub-Saharan Africa,2016,Zambia,
+3174,Zambia,ZMB,3.93,63.04,Sub-Saharan Africa,2017,Zambia,
+3420,Zambia,ZMB,4.04,63.51,Sub-Saharan Africa,2018,Zambia,
+223,Zimbabwe,ZWE,,,Sub-Saharan Africa,2005,Zimbabwe,94.7600812
+469,Zimbabwe,ZWE,3.83,43.85,Sub-Saharan Africa,2006,Zimbabwe,74.25489059
+715,Zimbabwe,ZWE,3.28,44.95,Sub-Saharan Africa,2007,Zimbabwe,63.30629908
+961,Zimbabwe,ZWE,3.17,46.5,Sub-Saharan Africa,2008,Zimbabwe,57.99994883
+1207,Zimbabwe,ZWE,4.06,48.45,Sub-Saharan Africa,2009,Zimbabwe,76.94191982
+1453,Zimbabwe,ZWE,4.68,50.64,Sub-Saharan Africa,2010,Zimbabwe,73.12211924
+1699,Zimbabwe,ZWE,4.85,52.9,Sub-Saharan Africa,2011,Zimbabwe,96.08833840000000
+1945,Zimbabwe,ZWE,4.96,55.03,Sub-Saharan Africa,2012,Zimbabwe,112.21779688
+2191,Zimbabwe,ZWE,4.69,56.9,Sub-Saharan Africa,2013,Zimbabwe,119.73333888
+2437,Zimbabwe,ZWE,4.18,58.41,Sub-Saharan Africa,2014,Zimbabwe,114.60850655
+2683,Zimbabwe,ZWE,3.7,59.53,Sub-Saharan Africa,2015,Zimbabwe,
+2929,Zimbabwe,ZWE,3.74,60.29,Sub-Saharan Africa,2016,Zimbabwe,
+3175,Zimbabwe,ZWE,3.64,60.81,Sub-Saharan Africa,2017,Zimbabwe,
+3421,Zimbabwe,ZWE,3.62,61.2,Sub-Saharan Africa,2018,Zimbabwe,
